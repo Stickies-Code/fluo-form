@@ -16,8 +16,9 @@
   // Datos de contacto: rellenar cuando estén listos
   const CONTACT = {
     email: 'fluoequipos@gmail.com',
-    // Formulario «Solicita tu plaza»: pega aquí el endpoint de Formspree (https://formspree.io/f/XXXXXXX)
-    formEndpoint: '',
+    // Formulario «Solicita tu plaza» → tabla «solicitudes» de Supabase (solo inserción, protegida con RLS)
+    supabaseUrl: 'https://jakaqszmgachfgeitnfq.supabase.co',
+    supabaseAnonKey: 'sb_publishable_N4xtiZERqIdGK-CxETzRew_H1ztsXjb',
   };
 
   const emailBtn = document.querySelector('[data-contact="email"]');
@@ -60,11 +61,11 @@
         nombre: rform.elements.nombre.value.trim(),
         apellidos: rform.elements.apellidos.value.trim(),
         telefono: rform.elements.telefono.value.trim(),
-        empresa: rform.elements.empresa.value.trim(),
-        privacidad: 'Aceptada',
-        _subject: 'Nueva solicitud de plaza · Programa piloto flu–o',
+        empresa: rform.elements.empresa.value.trim() || null,
+        privacidad: true,
       };
-      if (!CONTACT.formEndpoint) {
+      data._subject = 'Nueva solicitud de plaza · Programa piloto flu–o';
+      if (!CONTACT.supabaseUrl || !CONTACT.supabaseAnonKey) {
         const body = `Nombre: ${data.nombre} ${data.apellidos}%0D%0ATeléfono: ${data.telefono}%0D%0AEmpresa: ${data.empresa || '-'}`;
         window.location.href = `mailto:${CONTACT.email}?subject=${encodeURIComponent(data._subject)}&body=${body}`;
         msg.className = 'rmsg ok';
@@ -73,7 +74,16 @@
       }
       btn.disabled = true; btn.querySelector('.rbtn-t').textContent = 'Enviando…';
       try {
-        const r = await fetch(CONTACT.formEndpoint, { method: 'POST', headers: { 'Content-Type': 'application/json', Accept: 'application/json' }, body: JSON.stringify(data) });
+        const { _subject, ...row } = data;
+        const r = await fetch(CONTACT.supabaseUrl + '/rest/v1/solicitudes', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            apikey: CONTACT.supabaseAnonKey,
+            Prefer: 'return=minimal',
+          },
+          body: JSON.stringify(row),
+        });
         if (!r.ok) throw new Error('send');
         done(data.nombre);
       } catch (err) {
