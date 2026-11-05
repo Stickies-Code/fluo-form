@@ -14,12 +14,74 @@
   }
 
   // Datos de contacto: rellenar cuando estén listos
-  const CONTACT = { email: 'fluoequipos@gmail.com' };
+  const CONTACT = {
+    email: 'fluoequipos@gmail.com',
+    // Formulario «Solicita tu plaza»: pega aquí el endpoint de Formspree (https://formspree.io/f/XXXXXXX)
+    formEndpoint: '',
+  };
 
   const emailBtn = document.querySelector('[data-contact="email"]');
   if (emailBtn) {
     if (CONTACT.email) { emailBtn.href = 'mailto:' + CONTACT.email; emailBtn.textContent = CONTACT.email; }
     else emailBtn.style.display = 'none';
+  }
+
+
+  /* ---------- Formulario «Solicita tu plaza» ---------- */
+  const rform = document.getElementById('rform');
+  if (rform) {
+    const msg = rform.querySelector('.rmsg');
+    const btn = rform.querySelector('button[type="submit"]');
+    const fields = ['nombre', 'apellidos', 'telefono'].map((n) => rform.elements[n]);
+    const check = rform.elements.privacidad;
+    const validPhone = (v) => v.replace(/[^0-9]/g, '').length >= 9;
+    const validate = () => {
+      let ok = true;
+      fields.forEach((f) => {
+        const bad = !f.value.trim() || (f.name === 'telefono' && !validPhone(f.value));
+        f.classList.toggle('bad', bad);
+        if (bad) ok = false;
+      });
+      check.closest('.rcheck').classList.toggle('bad', !check.checked);
+      if (!check.checked) ok = false;
+      return ok;
+    };
+    fields.forEach((f) => f.addEventListener('input', () => f.classList.remove('bad')));
+    const done = (nombre) => {
+      rform.classList.add('sent');
+      rform.innerHTML = '<div class="rdone"><i><svg viewBox="0 0 24 24" fill="none" stroke="#0E0E10" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></i><h3>¡Gracias, ' + nombre.replace(/[<>&]/g, '') + '!</h3><p>Hemos recibido tu solicitud. Te llamamos en menos de 48 horas.</p></div>';
+    };
+    rform.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      msg.className = 'rmsg'; msg.textContent = '';
+      if (rform.elements._gotcha.value) return;
+      if (!validate()) { msg.className = 'rmsg err'; msg.textContent = 'Revisa los campos marcados.'; return; }
+      const data = {
+        nombre: rform.elements.nombre.value.trim(),
+        apellidos: rform.elements.apellidos.value.trim(),
+        telefono: rform.elements.telefono.value.trim(),
+        empresa: rform.elements.empresa.value.trim(),
+        privacidad: 'Aceptada',
+        _subject: 'Nueva solicitud de plaza · Programa piloto flu–o',
+      };
+      if (!CONTACT.formEndpoint) {
+        const body = `Nombre: ${data.nombre} ${data.apellidos}%0D%0ATeléfono: ${data.telefono}%0D%0AEmpresa: ${data.empresa || '-'}`;
+        window.location.href = `mailto:${CONTACT.email}?subject=${encodeURIComponent(data._subject)}&body=${body}`;
+        msg.className = 'rmsg ok';
+        msg.textContent = 'Te hemos abierto el correo con tus datos: solo tienes que darle a enviar.';
+        return;
+      }
+      btn.disabled = true; btn.querySelector('.rbtn-t').textContent = 'Enviando…';
+      try {
+        const r = await fetch(CONTACT.formEndpoint, { method: 'POST', headers: { 'Content-Type': 'application/json', Accept: 'application/json' }, body: JSON.stringify(data) });
+        if (!r.ok) throw new Error('send');
+        done(data.nombre);
+      } catch (err) {
+        btn.disabled = false; btn.querySelector('.rbtn-t').textContent = 'Solicitar mi plaza';
+        msg.className = 'rmsg err';
+        msg.textContent = 'No se ha podido enviar. Escríbenos a ' + CONTACT.email;
+      }
+    });
   }
 
   const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;

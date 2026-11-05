@@ -10,7 +10,7 @@
 <meta property="og:title" content="flu–o · Tus redes, en tu equipo">
 <meta property="og:description" content="Formación en 4 semanas. Habilidad para siempre.">
 <link rel="preload" href="fonts/space-grotesk-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="styles.css?v=5">
+<link rel="stylesheet" href="styles.css?v=6">
 </head>
 <body>
 
@@ -57,7 +57,7 @@
 
         <div class="h-final">
           <div class="h-ctas">
-            <a href="#piloto" class="btn btn-green">Quiero una plaza del piloto</a>
+            <a href="#reserva" class="btn btn-green">Quiero una plaza del piloto</a>
             <a href="#como" class="btn btn-ghost">Cómo funciona</a>
           </div>
           <ul class="h-chips">
@@ -290,7 +290,7 @@
           <li>Guías en PDF y certificado</li>
           <li>3 meses de acompañamiento</li>
         </ul>
-        <a href="#contacto" class="btn btn-ghost btn-block">Pedir información</a>
+        <a href="#reserva" class="btn btn-ghost btn-block">Pedir información</a>
       </article>
       <article class="plan plan-dark reveal">
         <p class="plan-tag">Presencial · en tu empresa</p>
@@ -303,7 +303,7 @@
           <li>Guías en PDF y certificado</li>
           <li>3 meses de acompañamiento gratis</li>
         </ul>
-        <a href="#contacto" class="btn btn-green btn-block">Pedir información</a>
+        <a href="#reserva" class="btn btn-green btn-block">Pedir información</a>
       </article>
     </div>
     <p class="plans-note reveal">Opcional después: soporte por <b>149 €/mes</b>, sin permanencia.</p>
@@ -324,9 +324,32 @@
         <div class="seats" aria-label="3 plazas">
           <i></i><i></i><i></i><span>3 plazas</span>
         </div>
-        <a href="#contacto" class="btn btn-dark btn-block">Reservar mi plaza</a>
+        <a href="#reserva" class="btn btn-dark btn-block">Reservar mi plaza</a>
       </div>
     </div>
+  </div>
+</section>
+
+<!-- RESERVA -->
+<section class="section reserve" id="reserva">
+  <div class="wrap reserve-grid">
+    <div class="reserve-copy">
+      <p class="eyebrow reveal">Programa piloto · Solo 3 empresas</p>
+      <h2 class="h2 reveal">Solicita <em>tu plaza.</em></h2>
+      <p class="lead reveal">Déjanos tus datos y te llamamos para contarte el programa y enseñarte un diagnóstico de vuestras redes sociales. Sin compromiso.</p>
+    </div>
+    <form class="rform reveal" id="rform" novalidate>
+      <div class="rrow">
+        <label class="rf"><span>Nombre</span><input name="nombre" type="text" autocomplete="given-name" required></label>
+        <label class="rf"><span>Apellidos</span><input name="apellidos" type="text" autocomplete="family-name" required></label>
+      </div>
+      <label class="rf"><span>Teléfono</span><input name="telefono" type="tel" autocomplete="tel" inputmode="tel" required pattern="[0-9 +()-]{9,}"></label>
+      <label class="rf"><span>Empresa <i>(opcional)</i></span><input name="empresa" type="text" autocomplete="organization"></label>
+      <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" class="hp" aria-hidden="true">
+      <label class="rcheck"><input type="checkbox" name="privacidad" required><span>He leído y acepto la <a href="privacidad.html" target="_blank">política de privacidad</a>.</span></label>
+      <button class="btn btn-green btn-block" type="submit"><span class="rbtn-t">Solicitar mi plaza</span></button>
+      <p class="rmsg" role="status" aria-live="polite"></p>
+    </form>
   </div>
 </section>
 
@@ -353,7 +376,7 @@
     <h2 class="final-title reveal">Tus redes, en tu equipo.</h2>
     <p class="lead reveal">Sin externalizar. Todo se queda en tu equipo.</p>
     <div class="final-ctas reveal">
-      <a href="https://instagram.com/flu.o" target="_blank" rel="noopener" class="btn btn-green">Escríbenos en Instagram</a>
+      <a href="https://instagram.com/heyflu.o" target="_blank" rel="noopener" class="btn btn-green">Escríbenos en Instagram</a>
       <a href="mailto:fluoequipos@gmail.com" class="btn btn-ghost" data-contact="email">fluoequipos@gmail.com</a>
     </div>
   </div>
@@ -364,13 +387,13 @@
 <footer class="footer">
   <div class="wrap footer-inner">
     <a href="#top" class="nav-logo">flu<span class="pill"></span>o</a>
-    <p>Formación con IA para empresas · Valencia</p>
-    <span><a href="mailto:fluoequipos@gmail.com">fluoequipos@gmail.com</a> · <a href="https://instagram.com/flu.o" target="_blank" rel="noopener">@flu.o</a></span>
+    <p>Formación con IA para empresas · Valencia · <a href="privacidad.html">Privacidad</a></p>
+    <span><a href="mailto:fluoequipos@gmail.com">fluoequipos@gmail.com</a> · <a href="https://instagram.com/heyflu.o" target="_blank" rel="noopener">@heyflu.o</a></span>
   </div>
 </footer>
 
 <script src="vendor/gsap.min.js"></script>
 <script src="vendor/ScrollTrigger.min.js"></script>
-<script src="main.js?v=5"></script>
+<script src="main.js?v=6"></script>
 </body>
 </html>

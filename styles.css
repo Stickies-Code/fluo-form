@@ -371,3 +371,34 @@ em{font-style:normal;color:var(--green)}
   .cph-tag{font-size:11px;padding:6px 12px}
   .cpairs{grid-template-columns:1fr;gap:12px}
 }
+
+/* ============ RESERVA ============ */
+.reserve{padding-top:0}
+.reserve-grid{display:grid;grid-template-columns:1fr 1fr;gap:clamp(40px,6vw,96px);align-items:center}
+.reserve .h2{margin-bottom:24px}
+.rform{background:var(--ink-2);border:1px solid var(--line);border-radius:var(--r-lg);padding:clamp(24px,3.5vw,40px);display:flex;flex-direction:column;gap:16px}
+.rrow{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.rf{display:flex;flex-direction:column;gap:8px}
+.rf span{font-family:var(--display);font-size:14px;font-weight:600;color:#D9D9DE}
+.rf i{font-style:normal;color:var(--mute-2);font-weight:500}
+.rf input{font:inherit;font-size:17px;color:var(--white);background:var(--black);border:1.5px solid var(--line);border-radius:14px;height:54px;padding:0 16px;transition:border-color 200ms ease,box-shadow 200ms ease;outline:none;width:100%}
+.rf input:focus{border-color:var(--green);box-shadow:0 0 0 4px rgba(212,255,58,.15)}
+.rf input.bad{border-color:#FF6B5B}
+.hp{position:absolute;left:-9999px;width:1px;height:1px;opacity:0}
+.rcheck{display:flex;gap:12px;align-items:flex-start;font-size:14px;color:var(--mute);line-height:1.45;cursor:pointer}
+.rcheck input{flex:none;width:20px;height:20px;margin-top:1px;accent-color:var(--green)}
+.rcheck a{color:var(--green);text-decoration:underline}
+.rcheck.bad span{color:#FF8A7D}
+.rform .btn{margin-top:6px;height:58px}
+.rform .btn[disabled]{opacity:.6;pointer-events:none}
+.rmsg{margin:0;min-height:22px;font-size:15px;text-align:center}
+.rmsg.ok{color:var(--green)}
+.rmsg.err{color:#FF8A7D}
+.rform.sent{align-items:center;justify-content:center;text-align:center;min-height:420px}
+.rdone{display:flex;flex-direction:column;align-items:center;gap:16px}
+.rdone i{width:72px;height:72px;border-radius:50%;background:var(--green);display:flex;align-items:center;justify-content:center}
+.rdone i svg{width:34px;height:34px}
+.rdone h3{font-family:var(--display);font-size:30px;letter-spacing:-.03em;margin:0}
+.rdone p{margin:0;color:var(--mute);max-width:34ch}
+@media (max-width:900px){.reserve-grid{grid-template-columns:1fr}}
+@media (max-width:560px){.rrow{grid-template-columns:1fr}}
