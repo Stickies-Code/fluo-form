@@ -402,3 +402,5 @@ em{font-style:normal;color:var(--green)}
 .rdone p{margin:0;color:var(--mute);max-width:34ch}
 @media (max-width:900px){.reserve-grid{grid-template-columns:1fr}}
 @media (max-width:560px){.rrow{grid-template-columns:1fr}}
+.plan-price b{font-size:clamp(40px,4.4vw,56px);letter-spacing:-.045em}
+.pilot-price b{font-size:clamp(48px,5.6vw,76px);line-height:.95;letter-spacing:-.05em}
