@@ -404,3 +404,9 @@ em{font-style:normal;color:var(--green)}
 @media (max-width:560px){.rrow{grid-template-columns:1fr}}
 .plan-price b{font-size:clamp(40px,4.4vw,56px);letter-spacing:-.045em}
 .pilot-price b{font-size:clamp(48px,5.6vw,76px);line-height:.95;letter-spacing:-.05em}
+.plan h3.plan-name{font-size:clamp(38px,4vw,54px);line-height:1;letter-spacing:-.045em;color:var(--green);margin:0 0 12px}
+.plan-dark h3.plan-name{color:var(--black)}
+.plan-sub{font-family:var(--display);font-size:22px;font-weight:600;letter-spacing:-.02em;margin:0 0 26px}
+.plan .plan-price b{font-size:30px;letter-spacing:-.03em;color:var(--white)}
+.plan-dark .plan-price b{color:var(--black)}
+.plan .plan-price{flex-direction:column;align-items:flex-start;gap:6px}
