@@ -445,4 +445,4 @@ em{font-style:normal;color:var(--green)}
   .cmp-row>span[role=cell]:nth-child(4)::before{content:'flu–o';color:var(--black)}
   .cmp-row>.cmp-us{background:var(--green);color:var(--black);padding-bottom:16px}
 }
-.refer{max-width:900px}.refer p{text-wrap:balance}
+.refer{max-width:900px}.refer p{text-wrap:pretty}
