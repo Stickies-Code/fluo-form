@@ -475,3 +475,6 @@ em{font-style:normal;color:var(--green)}
 .hero-visual .t1{top:9%;left:-6%}
 .hero-visual .t2{top:58%;right:-8%}
 .hero-visual .t3{bottom:9%;left:-4%}
+.ig-id{display:flex;flex-direction:column;gap:3px;line-height:1.2}
+.ig-id b{font-family:var(--display);font-size:16px;letter-spacing:-.02em}
+.ig-id span{font-size:10.5px;color:var(--mute)}

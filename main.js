@@ -33,7 +33,7 @@
   if (rform) {
     const msg = rform.querySelector('.rmsg');
     const btn = rform.querySelector('button[type="submit"]');
-    const fields = ['nombre', 'telefono', 'redes', 'trabajadores'].map((n) => rform.elements[n]);
+    const fields = ['nombre', 'telefono', 'redes'].map((n) => rform.elements[n]);
     const check = rform.elements.privacidad;
     const validPhone = (v) => v.replace(/[^0-9]/g, '').length >= 9;
     const validate = () => {
@@ -61,7 +61,7 @@
         nombre: rform.elements.nombre.value.trim(),
         apellidos: '',
         telefono: rform.elements.telefono.value.trim(),
-        empresa: 'Redes: ' + rform.elements.redes.value.trim() + ' · Trabajadores: ' + rform.elements.trabajadores.value,
+        empresa: 'Redes: ' + rform.elements.redes.value.trim(),
         privacidad: true,
       };
       data._subject = 'Nueva revisión de redes gratis · flu–o';
