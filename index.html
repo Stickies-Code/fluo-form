@@ -33,7 +33,7 @@
     <a href="#formatos">Formatos</a>
     <a href="#faq">Preguntas</a>
   </nav>
-  <a href="#piloto" class="btn btn-sm btn-green">Programa piloto</a>
+  <a href="#reserva" class="btn btn-sm btn-green">Revisión gratis</a>
 </header>
 
 <main id="top">
@@ -343,20 +343,16 @@
   </div>
 </section>
 
-<!-- PILOTO -->
-<section class="section pilot" id="piloto">
+<!-- PLAZAS -->
+<section class="section pilot" id="plazas">
   <div class="wrap">
     <div class="pilot-card reveal">
       <div class="pilot-l">
-        <p class="chip">Programa piloto · Solo 3 empresas</p>
-        <h2 class="h2">El formato completo, para las 3 primeras empresas.</h2>
-        <p class="lead">A cambio, solo te pedimos contar tu caso de éxito.</p>
+        <p class="chip">Plazas limitadas por grupo</p>
+        <h2 class="h2">Pocas empresas a la vez, para hacerlo bien.</h2>
+        <p class="lead">Trabajamos con un número reducido de empresas en cada grupo, para dedicar a cada equipo el tiempo que necesita.</p>
       </div>
       <div class="pilot-r">
-        <div class="pilot-price"><b>Condiciones especiales</b><span>Pago único · te lo contamos en 10 minutos</span></div>
-        <div class="seats" aria-label="3 plazas">
-          <i></i><i></i><i></i><span>3 plazas</span>
-        </div>
         <a href="#reserva" class="btn btn-dark btn-block">Quiero mi revisión gratis</a>
       </div>
     </div>
@@ -372,10 +368,8 @@
       <p class="lead reveal">Miramos el Instagram de tu empresa y te enseñamos cómo quedaría llevado por tu propio equipo con el sistema de IA de flu⁠–⁠o. Te lo mandamos por correo o lo vemos juntos en una llamada.</p>
     </div>
     <form class="rform reveal" id="rform" novalidate>
-      <div class="rrow">
-        <label class="rf"><span>Nombre</span><input name="nombre" type="text" autocomplete="name" required></label>
-        <label class="rf"><span>Teléfono</span><input name="telefono" type="tel" autocomplete="tel" inputmode="tel" required pattern="[0-9 +()-]{9,}"></label>
-      </div>
+      <label class="rf"><span>Nombre</span><input name="nombre" type="text" autocomplete="name" required></label>
+      <label class="rf"><span>Teléfono o correo electrónico</span><input name="telefono" type="text" autocomplete="on" placeholder="Lo que prefieras: teléfono o correo" required></label>
       <label class="rf"><span>Instagram o web de tu empresa</span><input name="redes" type="text" placeholder="@tuempresa o tuempresa.com" required></label>
       <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" class="hp" aria-hidden="true">
       <label class="rcheck"><input type="checkbox" name="privacidad" required><span>He leído y acepto la <a href="privacidad.html" target="_blank">política de privacidad</a>.</span></label>
@@ -426,6 +420,6 @@
 
 <script src="vendor/gsap.min.js"></script>
 <script src="vendor/ScrollTrigger.min.js"></script>
-<script src="main.js?v=9"></script>
+<script src="main.js?v=10"></script>
 </body>
 </html>

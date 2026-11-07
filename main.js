@@ -35,7 +35,7 @@
     const btn = rform.querySelector('button[type="submit"]');
     const fields = ['nombre', 'telefono', 'redes'].map((n) => rform.elements[n]);
     const check = rform.elements.privacidad;
-    const validPhone = (v) => v.replace(/[^0-9]/g, '').length >= 9;
+    const validPhone = (v) => v.replace(/[^0-9]/g, '').length >= 9 || /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(v.trim());
     const validate = () => {
       let ok = true;
       fields.forEach((f) => {
@@ -50,7 +50,7 @@
     fields.forEach((f) => { f.addEventListener('input', () => f.classList.remove('bad')); f.addEventListener('change', () => f.classList.remove('bad')); });
     const done = (nombre) => {
       rform.classList.add('sent');
-      rform.innerHTML = '<div class="rdone"><i><svg viewBox="0 0 24 24" fill="none" stroke="#0E0E10" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></i><h3>¡Gracias, ' + nombre.replace(/[<>&]/g, '') + '!</h3><p>Preparamos la revisión de tus redes y te llamamos en menos de 48 horas.</p></div>';
+      rform.innerHTML = '<div class="rdone"><i><svg viewBox="0 0 24 24" fill="none" stroke="#0E0E10" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></i><h3>¡Gracias, ' + nombre.replace(/[<>&]/g, '') + '!</h3><p>Preparamos la revisión de tus redes y te contactamos en menos de 48 horas.</p></div>';
     };
     rform.addEventListener('submit', async (e) => {
       e.preventDefault();
@@ -66,7 +66,7 @@
       };
       data._subject = 'Nueva revisión de redes gratis · flu–o';
       if (!CONTACT.supabaseUrl || !CONTACT.supabaseAnonKey) {
-        const body = `Nombre: ${data.nombre}%0D%0ATeléfono: ${data.telefono}%0D%0A${encodeURIComponent(data.empresa)}`;
+        const body = `Nombre: ${data.nombre}%0D%0AContacto: ${data.telefono}%0D%0A${encodeURIComponent(data.empresa)}`;
         window.location.href = `mailto:${CONTACT.email}?subject=${encodeURIComponent(data._subject)}&body=${body}`;
         msg.className = 'rmsg ok';
         msg.textContent = 'Te hemos abierto el correo con tus datos: solo tienes que darle a enviar.';
