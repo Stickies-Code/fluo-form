@@ -43,11 +43,15 @@
         f.classList.toggle('bad', bad);
         if (bad) ok = false;
       });
+      const fmt = rform.querySelector('input[name=formato]:checked');
+      rform.querySelector('.rpick').classList.toggle('bad', !fmt);
+      if (!fmt) ok = false;
       check.closest('.rcheck').classList.toggle('bad', !check.checked);
       if (!check.checked) ok = false;
       return ok;
     };
     fields.forEach((f) => { f.addEventListener('input', () => f.classList.remove('bad')); f.addEventListener('change', () => f.classList.remove('bad')); });
+    rform.querySelectorAll('input[name=formato]').forEach((r) => r.addEventListener('change', () => rform.querySelector('.rpick').classList.remove('bad')));
     const done = (nombre) => {
       rform.classList.add('sent');
       rform.innerHTML = '<div class="rdone"><i><svg viewBox="0 0 24 24" fill="none" stroke="#0E0E10" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></i><h3>¡Gracias, ' + nombre.replace(/[<>&]/g, '') + '!</h3><p>Preparamos la revisión de tus redes y te contactamos en menos de 48 horas.</p></div>';
@@ -61,7 +65,7 @@
         nombre: rform.elements.nombre.value.trim(),
         apellidos: '',
         telefono: rform.elements.telefono.value.trim(),
-        empresa: 'Redes: ' + rform.elements.redes.value.trim(),
+        empresa: 'Instagram: ' + rform.elements.redes.value.trim() + ' · Formato: ' + (rform.querySelector('input[name=formato]:checked') || {}).value,
         privacidad: true,
       };
       data._subject = 'Nueva revisión de redes gratis · flu–o';

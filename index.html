@@ -19,7 +19,7 @@
 <meta property="og:title" content="flu–o · Tus redes, en tu equipo">
 <meta property="og:description" content="Formación en 4 semanas. Habilidad para siempre.">
 <link rel="preload" href="fonts/space-grotesk-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="styles.css?v=13">
+<link rel="stylesheet" href="styles.css?v=14">
 </head>
 <body>
 
@@ -369,8 +369,16 @@
     </div>
     <form class="rform reveal" id="rform" novalidate>
       <label class="rf"><span>Nombre</span><input name="nombre" type="text" autocomplete="name" required></label>
-      <label class="rf"><span>Teléfono o correo electrónico</span><input name="telefono" type="text" autocomplete="on" placeholder="Lo que prefieras: teléfono o correo" required></label>
-      <label class="rf"><span>Instagram o web de tu empresa</span><input name="redes" type="text" placeholder="@tuempresa o tuempresa.com" required></label>
+      <label class="rf"><span>Teléfono o correo electrónico</span><input name="telefono" type="text" autocomplete="on" placeholder="Tu teléfono o tu correo" required></label>
+      <label class="rf"><span>Instagram de tu empresa</span><input name="redes" type="text" placeholder="@tuempresa" autocapitalize="off" spellcheck="false" required></label>
+      <fieldset class="rf rpick">
+        <legend>¿Qué formato te interesa?</legend>
+        <div class="rpick-opts">
+          <label><input type="radio" name="formato" value="Online en grupo" required><span>Online en grupo</span></label>
+          <label><input type="radio" name="formato" value="Presencial en la empresa"><span>Presencial</span></label>
+          <label><input type="radio" name="formato" value="Aún no lo sé"><span>Aún no lo sé</span></label>
+        </div>
+      </fieldset>
       <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" class="hp" aria-hidden="true">
       <label class="rcheck"><input type="checkbox" name="privacidad" required><span>He leído y acepto la <a href="privacidad.html" target="_blank">política de privacidad</a>.</span></label>
       <button class="btn btn-green btn-block" type="submit"><span class="rbtn-t">Quiero mi revisión gratis</span></button>
@@ -420,6 +428,6 @@
 
 <script src="vendor/gsap.min.js"></script>
 <script src="vendor/ScrollTrigger.min.js"></script>
-<script src="main.js?v=10"></script>
+<script src="main.js?v=11"></script>
 </body>
 </html>

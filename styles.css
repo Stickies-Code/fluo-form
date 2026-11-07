@@ -480,3 +480,20 @@ em{font-style:normal;color:var(--green)}
 .ig-id span{font-size:10.5px;color:var(--mute)}
 .phone-screen.ig{gap:11px}
 .ig .ig-grid{margin-top:4px}
+/* formulario: formato */
+.rpick{border:0;margin:0;padding:0;min-width:0}
+.rpick legend{padding:0;margin-bottom:8px;font-family:var(--display);font-size:14px;font-weight:600;color:var(--white)}
+.rpick-opts{display:flex;flex-wrap:wrap;gap:8px}
+.rpick-opts label{position:relative;cursor:pointer}
+.rpick-opts input{position:absolute;opacity:0;width:1px;height:1px}
+.rpick-opts span{display:inline-flex;align-items:center;height:46px;padding:0 18px;border-radius:999px;border:1.5px solid var(--line);background:var(--black);color:var(--mute);font-size:15px;transition:border-color 200ms ease,background 200ms ease,color 200ms ease}
+.rpick-opts label:hover span{border-color:#45454C}
+.rpick-opts input:checked+span{background:var(--green);border-color:var(--green);color:var(--black);font-weight:600}
+.rpick-opts input:focus-visible+span{box-shadow:0 0 0 4px rgba(212,255,58,.25)}
+.rpick.bad .rpick-opts span{border-color:#FF6B5B}
+.rpick-opts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.rpick-opts label{display:block}
+.rpick-opts span{width:100%;justify-content:center;padding:0 10px;white-space:nowrap}
+.rpick-opts input:checked+span{transition:none}
+@media (max-width:560px){.rpick-opts{grid-template-columns:1fr}}
+@media (min-width:561px) and (max-width:1100px){.rpick-opts span{font-size:13.5px;padding:0 6px}}
