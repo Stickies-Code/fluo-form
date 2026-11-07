@@ -446,3 +446,32 @@ em{font-style:normal;color:var(--green)}
   .cmp-row>.cmp-us{background:var(--green);color:var(--black);padding-bottom:16px}
 }
 .refer{max-width:900px}.refer p{text-wrap:pretty}
+/* hero: Instagram real de flu–o */
+.phone-screen.ig{padding:50px 12px 12px;display:flex;flex-direction:column;gap:9px;font-family:var(--body);color:var(--white)}
+.ig-top{display:flex;justify-content:space-between;align-items:center;padding:0 2px}
+.ig-user{display:flex;align-items:center;gap:5px;font-family:var(--display);font-weight:700;font-size:14px;letter-spacing:-.01em}
+.ig-top-ic{display:flex;gap:12px;color:var(--white)}
+.ig .ig-head{margin:0;gap:12px}
+.ig .ig-avatar{width:60px;height:60px;border-radius:50%;object-fit:cover;background:var(--white);box-shadow:0 0 0 2px #0B0B0D,0 0 0 3.5px var(--green)}
+.ig .ig-stats b{font-size:15px;line-height:1.1}
+.ig .ig-stats span{font-size:9.5px;color:var(--mute);white-space:nowrap}
+.ig-bio{display:flex;flex-direction:column;gap:1px;padding:0 2px;line-height:1.3}
+.ig-bio b{font-family:var(--display);font-size:12px}
+.ig-cat{font-size:10px;color:var(--mute-2)}
+.ig-bio p{margin:1px 0 0;font-size:10.5px;color:#E6E6EA}
+.ig-btns{display:grid;grid-template-columns:1fr 1fr;gap:5px}
+.ig-btns span{display:flex;align-items:center;justify-content:center;height:24px;border-radius:7px;background:#26262B;font-family:var(--display);font-weight:600;font-size:10.5px}
+.ig-btns span:first-child{background:var(--green);color:var(--black)}
+.ig-hl{display:flex;gap:9px;padding:2px 2px 0;overflow:hidden}
+.ig-hl figure{margin:0;flex:none;width:44px;display:flex;flex-direction:column;align-items:center;gap:4px}
+.ig-hl img{width:44px;height:44px;border-radius:50%;object-fit:cover;box-shadow:0 0 0 1.5px #0B0B0D,0 0 0 2.5px #3A3A40}
+.ig-hl figcaption{font-size:8.5px;color:#E6E6EA;white-space:nowrap}
+.ig-tabs{display:grid;grid-template-columns:repeat(3,1fr);border-top:1px solid #222227;margin-top:2px}
+.ig-tabs span{display:flex;justify-content:center;padding:7px 0 6px;color:var(--mute-2);border-top:1.5px solid transparent;margin-top:-1px}
+.ig-tabs span.on{color:var(--white);border-top-color:var(--white)}
+.ig .ig-grid{gap:2px;border-radius:0;margin:0 -12px}
+.ig .post{padding:0;aspect-ratio:4/5;overflow:hidden;background:#17171A}
+.ig .post img{width:100%;height:100%;object-fit:cover;display:block}
+.hero-visual .t1{top:9%;left:-6%}
+.hero-visual .t2{top:58%;right:-8%}
+.hero-visual .t3{bottom:9%;left:-4%}

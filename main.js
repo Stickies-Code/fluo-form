@@ -191,7 +191,7 @@
     .to('.phone', { y: 0, rotate: 0, duration: 0.7 }, 2.02)
     .to('.h-blob', { scale: 0.82, rotate: -14, xPercent: 0, duration: 0.7, ease: 'power2.inOut' }, 2.02)
     .to('.post', { opacity: 1, scale: 1, duration: 0.3, stagger: 0.04 }, 2.4)
-    .to(countObj, { v: 128, duration: 0.5, ease: 'power2.out', onUpdate: () => { counter.textContent = Math.round(countObj.v); } }, 2.4)
+    .to(countObj, { v: 128, duration: 0.5, ease: 'power2.out', onUpdate: () => { if (counter) counter.textContent = Math.round(countObj.v); } }, 2.4)
     .to('.toast', { opacity: 1, scale: 1, y: 0, filter: 'blur(0px)', duration: 0.35, stagger: 0.12 }, 2.55)
     .to('.h-final', { opacity: 1, y: 0, duration: 0.5 }, 2.3)
     .to('.scroll-hint', { opacity: 0, duration: 0.3 }, 2.6)
