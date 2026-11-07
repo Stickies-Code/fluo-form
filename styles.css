@@ -410,3 +410,38 @@ em{font-style:normal;color:var(--green)}
 .plan .plan-price b{font-size:30px;letter-spacing:-.03em;color:var(--white)}
 .plan-dark .plan-price b{color:var(--black)}
 .plan .plan-price{flex-direction:column;align-items:flex-start;gap:6px}
+/* formulario: desplegable */
+.rf select{font:inherit;font-size:17px;color:var(--white);background:var(--black) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='9' fill='none' stroke='%23A9A9B2' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M1 1.5l6 6 6-6'/%3E%3C/svg%3E") no-repeat right 18px center;border:1.5px solid var(--line);border-radius:14px;height:54px;padding:0 44px 0 16px;outline:none;width:100%;appearance:none;-webkit-appearance:none;transition:border-color 200ms ease,box-shadow 200ms ease}
+.rf select:focus{border-color:var(--green);box-shadow:0 0 0 4px rgba(212,255,58,.15)}
+.rf select.bad{border-color:#FF6B5B}
+.rf select:invalid{color:var(--mute-2)}
+.rf input::placeholder{color:var(--mute-2)}
+/* descuento por traer otra empresa */
+.refer{margin:28px auto 0;max-width:760px;display:flex;align-items:center;gap:18px;padding:20px 24px;border-radius:var(--r-md);border:1.5px solid var(--green);background:rgba(212,255,58,.06)}
+.refer-tag{flex:none;font-family:var(--display);font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--black);background:var(--green);padding:8px 14px;border-radius:999px}
+.refer p{margin:0;color:var(--mute);font-size:16px;line-height:1.5}
+.refer b{color:var(--white)}
+@media (max-width:560px){.refer{flex-direction:column;align-items:flex-start;gap:12px;padding:18px}}
+/* comparativa */
+.compare .h2{max-width:20ch}
+.cmp{margin-top:56px;border:1px solid var(--line);border-radius:var(--r-lg);overflow:hidden}
+.cmp-row{display:grid;grid-template-columns:1.1fr 1fr 1fr 1.15fr;border-top:1px solid var(--line)}
+.cmp-row:first-child{border-top:0}
+.cmp-row>span{padding:20px 22px;font-size:16px;line-height:1.45;color:var(--mute)}
+.cmp-row>span[role=rowheader]{font-family:var(--display);font-weight:600;color:var(--white)}
+.cmp-head>span{font-family:var(--display);font-size:15px;font-weight:600;color:var(--white);padding-top:24px;padding-bottom:24px}
+.cmp-row>.cmp-us{background:rgba(212,255,58,.07);color:var(--white)}
+.cmp-head>.cmp-us{background:var(--green);color:var(--black);font-weight:700}
+.cmp-note{margin:24px 0 0;color:var(--mute);max-width:60ch}
+@media (max-width:900px){
+  .cmp{border:0;border-radius:0;overflow:visible;display:flex;flex-direction:column;gap:14px}
+  .cmp-head{display:none}
+  .cmp-row{grid-template-columns:1fr;border:1px solid var(--line);border-radius:var(--r-md);overflow:hidden}
+  .cmp-row>span{padding:12px 18px}
+  .cmp-row>span[role=rowheader]{padding-top:16px;font-size:17px}
+  .cmp-row>span[role=cell]::before{display:block;font-family:var(--display);font-size:12px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--mute-2);margin-bottom:4px}
+  .cmp-row>span[role=cell]:nth-child(2)::before{content:'Agencia de redes'}
+  .cmp-row>span[role=cell]:nth-child(3)::before{content:'Curso online'}
+  .cmp-row>span[role=cell]:nth-child(4)::before{content:'flu–o';color:var(--black)}
+  .cmp-row>.cmp-us{background:var(--green);color:var(--black);padding-bottom:16px}
+}

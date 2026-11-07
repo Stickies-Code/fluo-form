@@ -33,7 +33,7 @@
   if (rform) {
     const msg = rform.querySelector('.rmsg');
     const btn = rform.querySelector('button[type="submit"]');
-    const fields = ['nombre', 'apellidos', 'telefono'].map((n) => rform.elements[n]);
+    const fields = ['nombre', 'telefono', 'redes', 'trabajadores'].map((n) => rform.elements[n]);
     const check = rform.elements.privacidad;
     const validPhone = (v) => v.replace(/[^0-9]/g, '').length >= 9;
     const validate = () => {
@@ -47,10 +47,10 @@
       if (!check.checked) ok = false;
       return ok;
     };
-    fields.forEach((f) => f.addEventListener('input', () => f.classList.remove('bad')));
+    fields.forEach((f) => { f.addEventListener('input', () => f.classList.remove('bad')); f.addEventListener('change', () => f.classList.remove('bad')); });
     const done = (nombre) => {
       rform.classList.add('sent');
-      rform.innerHTML = '<div class="rdone"><i><svg viewBox="0 0 24 24" fill="none" stroke="#0E0E10" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></i><h3>¡Gracias, ' + nombre.replace(/[<>&]/g, '') + '!</h3><p>Hemos recibido tu solicitud. Te llamamos en menos de 48 horas.</p></div>';
+      rform.innerHTML = '<div class="rdone"><i><svg viewBox="0 0 24 24" fill="none" stroke="#0E0E10" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></i><h3>¡Gracias, ' + nombre.replace(/[<>&]/g, '') + '!</h3><p>Preparamos la revisión de tus redes y te llamamos en menos de 48 horas.</p></div>';
     };
     rform.addEventListener('submit', async (e) => {
       e.preventDefault();
@@ -59,14 +59,14 @@
       if (!validate()) { msg.className = 'rmsg err'; msg.textContent = 'Revisa los campos marcados.'; return; }
       const data = {
         nombre: rform.elements.nombre.value.trim(),
-        apellidos: rform.elements.apellidos.value.trim(),
+        apellidos: '',
         telefono: rform.elements.telefono.value.trim(),
-        empresa: rform.elements.empresa.value.trim() || null,
+        empresa: 'Redes: ' + rform.elements.redes.value.trim() + ' · Trabajadores: ' + rform.elements.trabajadores.value,
         privacidad: true,
       };
-      data._subject = 'Nueva solicitud de plaza · Programa piloto flu–o';
+      data._subject = 'Nueva revisión de redes gratis · flu–o';
       if (!CONTACT.supabaseUrl || !CONTACT.supabaseAnonKey) {
-        const body = `Nombre: ${data.nombre} ${data.apellidos}%0D%0ATeléfono: ${data.telefono}%0D%0AEmpresa: ${data.empresa || '-'}`;
+        const body = `Nombre: ${data.nombre}%0D%0ATeléfono: ${data.telefono}%0D%0A${encodeURIComponent(data.empresa)}`;
         window.location.href = `mailto:${CONTACT.email}?subject=${encodeURIComponent(data._subject)}&body=${body}`;
         msg.className = 'rmsg ok';
         msg.textContent = 'Te hemos abierto el correo con tus datos: solo tienes que darle a enviar.';
@@ -87,7 +87,7 @@
         if (!r.ok) throw new Error('send');
         done(data.nombre);
       } catch (err) {
-        btn.disabled = false; btn.querySelector('.rbtn-t').textContent = 'Solicitar mi plaza';
+        btn.disabled = false; btn.querySelector('.rbtn-t').textContent = 'Quiero mi revisión gratis';
         msg.className = 'rmsg err';
         msg.textContent = 'No se ha podido enviar. Escríbenos a ' + CONTACT.email;
       }

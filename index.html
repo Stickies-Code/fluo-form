@@ -19,13 +19,13 @@
 <meta property="og:title" content="flu–o · Tus redes, en tu equipo">
 <meta property="og:description" content="Formación en 4 semanas. Habilidad para siempre.">
 <link rel="preload" href="fonts/space-grotesk-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="styles.css?v=8">
+<link rel="stylesheet" href="styles.css?v=9">
 </head>
 <body>
 
 <!-- NAV -->
 <header class="nav" id="nav">
-  <a href="#top" class="nav-logo" aria-label="flu–o, inicio">flu<span class="pill"></span>o</a>
+  <a href="#top" class="nav-logo" aria-label="flu⁠–⁠o, inicio">flu<span class="pill"></span>o</a>
   <nav class="nav-links" aria-label="Principal">
     <a href="#como">Cómo funciona</a>
     <a href="#incluye">Qué incluye</a>
@@ -66,7 +66,7 @@
 
         <div class="h-final">
           <div class="h-ctas">
-            <a href="#reserva" class="btn btn-green">Quiero una plaza del piloto</a>
+            <a href="#reserva" class="btn btn-green">Revisamos tus redes gratis</a>
             <a href="#como" class="btn btn-ghost">Cómo funciona</a>
           </div>
           <ul class="h-chips">
@@ -315,7 +315,28 @@
         <a href="#reserva" class="btn btn-green btn-block">Pedir información</a>
       </article>
     </div>
+    <div class="refer reveal">
+      <span class="refer-tag">Trae a otra empresa</span>
+      <p><b>Si traes a otra empresa a tu grupo, os descontamos un 10 % a cada una.</b> Cuantas más empresas conocidas, mejor se aprovecha la formación.</p>
+    </div>
     <p class="plans-note reveal">Opcional después: <b>soporte mensual</b>, sin permanencia.</p>
+  </div>
+</section>
+
+<!-- COMPARATIVA -->
+<section class="section compare" id="comparativa">
+  <div class="wrap">
+    <p class="eyebrow reveal">Comparativa honesta</p>
+    <h2 class="h2 reveal">Agencia, curso o flu⁠–⁠o. <em>Lo que de verdad cambia.</em></h2>
+    <div class="cmp reveal" role="table" aria-label="Comparativa entre agencia, curso online y flu⁠–⁠o">
+      <div class="cmp-row cmp-head" role="row"><span role="columnheader"></span><span role="columnheader">Agencia de redes</span><span role="columnheader">Curso online</span><span role="columnheader" class="cmp-us">flu⁠–⁠o</span></div>
+      <div class="cmp-row" role="row"><span role="rowheader">Cuánto pagas</span><span role="cell">Una cuota cada mes, normalmente desde 500 €</span><span role="cell">De 200 € a 1.200 € por persona</span><span role="cell" class="cmp-us">Un pago único por empresa</span></div>
+      <div class="cmp-row" role="row"><span role="rowheader">Quién lleva las redes</span><span role="cell">Gente de fuera de tu empresa</span><span role="cell">Tu equipo, si aplica lo que ha visto</span><span role="cell" class="cmp-us">Tu equipo, con el sistema ya montado</span></div>
+      <div class="cmp-row" role="row"><span role="rowheader">Hecho para tu empresa</span><span role="cell">Sí</span><span role="cell">No, es igual para todos</span><span role="cell" class="cmp-us">Sí: tu marca, tu tono y tus productos</span></div>
+      <div class="cmp-row" role="row"><span role="rowheader">Tiempo de tu equipo</span><span role="cell">Reuniones y revisar lo que te mandan</span><span role="cell">De 20 a 30 horas estudiando solos</span><span role="cell" class="cmp-us">4 semanas y después menos de 3 h a la semana</span></div>
+      <div class="cmp-row" role="row"><span role="rowheader">Si dejas de pagar</span><span role="cell">Te quedas sin nada</span><span role="cell">Te queda un certificado</span><span role="cell" class="cmp-us">Te queda el sistema, para siempre</span></div>
+    </div>
+    <p class="cmp-note reveal">Y si lo que buscáis es que otro lo haga todo sin tocar nada, os encaja más una agencia. Te lo decimos claro.</p>
   </div>
 </section>
 
@@ -333,7 +354,7 @@
         <div class="seats" aria-label="3 plazas">
           <i></i><i></i><i></i><span>3 plazas</span>
         </div>
-        <a href="#reserva" class="btn btn-dark btn-block">Reservar mi plaza</a>
+        <a href="#reserva" class="btn btn-dark btn-block">Quiero mi revisión gratis</a>
       </div>
     </div>
   </div>
@@ -343,20 +364,24 @@
 <section class="section reserve" id="reserva">
   <div class="wrap reserve-grid">
     <div class="reserve-copy">
-      <p class="eyebrow reveal">Programa piloto · Solo 3 empresas</p>
-      <h2 class="h2 reveal">Solicita <em>tu plaza.</em></h2>
-      <p class="lead reveal">Déjanos tus datos y te llamamos para contarte el programa y enseñarte un diagnóstico de vuestras redes sociales. Sin compromiso.</p>
+      <p class="eyebrow reveal">Gratis · sin compromiso</p>
+      <h2 class="h2 reveal">Revisamos tus redes <em>en 10 minutos.</em></h2>
+      <p class="lead reveal">Miramos el Instagram de tu empresa y te enseñamos cómo quedaría llevado por tu propio equipo con el sistema de IA de flu⁠–⁠o. Te lo mandamos por correo o lo vemos juntos en una llamada.</p>
     </div>
     <form class="rform reveal" id="rform" novalidate>
       <div class="rrow">
-        <label class="rf"><span>Nombre</span><input name="nombre" type="text" autocomplete="given-name" required></label>
-        <label class="rf"><span>Apellidos</span><input name="apellidos" type="text" autocomplete="family-name" required></label>
+        <label class="rf"><span>Nombre</span><input name="nombre" type="text" autocomplete="name" required></label>
+        <label class="rf"><span>Teléfono</span><input name="telefono" type="tel" autocomplete="tel" inputmode="tel" required pattern="[0-9 +()-]{9,}"></label>
       </div>
-      <label class="rf"><span>Teléfono</span><input name="telefono" type="tel" autocomplete="tel" inputmode="tel" required pattern="[0-9 +()-]{9,}"></label>
-      <label class="rf"><span>Empresa <i>(opcional)</i></span><input name="empresa" type="text" autocomplete="organization"></label>
+      <label class="rf"><span>Instagram o web de tu empresa</span><input name="redes" type="text" placeholder="@tuempresa o tuempresa.com" required></label>
+      <label class="rf"><span>¿Cuántas personas trabajan en la empresa?</span>
+        <select name="trabajadores" required>
+          <option value="" selected disabled>Elige una opción</option>
+          <option>Menos de 20</option><option>De 20 a 50</option><option>De 50 a 150</option><option>Más de 150</option>
+        </select></label>
       <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" class="hp" aria-hidden="true">
       <label class="rcheck"><input type="checkbox" name="privacidad" required><span>He leído y acepto la <a href="privacidad.html" target="_blank">política de privacidad</a>.</span></label>
-      <button class="btn btn-green btn-block" type="submit"><span class="rbtn-t">Solicitar mi plaza</span></button>
+      <button class="btn btn-green btn-block" type="submit"><span class="rbtn-t">Quiero mi revisión gratis</span></button>
       <p class="rmsg" role="status" aria-live="polite"></p>
     </form>
   </div>
@@ -403,6 +428,6 @@
 
 <script src="vendor/gsap.min.js"></script>
 <script src="vendor/ScrollTrigger.min.js"></script>
-<script src="main.js?v=6"></script>
+<script src="main.js?v=7"></script>
 </body>
 </html>
