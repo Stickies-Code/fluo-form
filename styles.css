@@ -478,3 +478,5 @@ em{font-style:normal;color:var(--green)}
 .ig-id{display:flex;flex-direction:column;gap:3px;line-height:1.2}
 .ig-id b{font-family:var(--display);font-size:16px;letter-spacing:-.02em}
 .ig-id span{font-size:10.5px;color:var(--mute)}
+.phone-screen.ig{gap:11px}
+.ig .ig-grid{margin-top:4px}
