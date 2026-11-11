@@ -54,7 +54,7 @@
     rform.querySelectorAll('input[name=formato]').forEach((r) => r.addEventListener('change', () => rform.querySelector('.rpick').classList.remove('bad')));
     const done = (nombre) => {
       rform.classList.add('sent');
-      rform.innerHTML = '<div class="rdone"><i><svg viewBox="0 0 24 24" fill="none" stroke="#0E0E10" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></i><h3>¡Gracias, ' + nombre.replace(/[<>&]/g, '') + '!</h3><p>Preparamos la revisión de tus redes y te contactamos en menos de 48 horas.</p></div>';
+      rform.innerHTML = '<div class="rdone"><i><svg viewBox="0 0 24 24" fill="none" stroke="#0E0E10" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></i><h3>¡Gracias, ' + nombre.replace(/[<>&]/g, '') + '!</h3><p>Te llamamos en menos de 48 horas para agendar la reunión de 15 minutos.</p></div>';
     };
     rform.addEventListener('submit', async (e) => {
       e.preventDefault();
@@ -68,7 +68,7 @@
         empresa: 'Instagram: ' + rform.elements.redes.value.trim() + ' · Formato: ' + (rform.querySelector('input[name=formato]:checked') || {}).value,
         privacidad: true,
       };
-      data._subject = 'Nueva revisión de redes gratis · flu–o';
+      data._subject = 'Nueva petición de reunión · flu–o';
       if (!CONTACT.supabaseUrl || !CONTACT.supabaseAnonKey) {
         const body = `Nombre: ${data.nombre}%0D%0AContacto: ${data.telefono}%0D%0A${encodeURIComponent(data.empresa)}`;
         window.location.href = `mailto:${CONTACT.email}?subject=${encodeURIComponent(data._subject)}&body=${body}`;
@@ -91,7 +91,7 @@
         if (!r.ok) throw new Error('send');
         done(data.nombre);
       } catch (err) {
-        btn.disabled = false; btn.querySelector('.rbtn-t').textContent = 'Quiero mi revisión gratis';
+        btn.disabled = false; btn.querySelector('.rbtn-t').textContent = 'Quiero que me ayudéis';
         msg.className = 'rmsg err';
         msg.textContent = 'No se ha podido enviar. Escríbenos a ' + CONTACT.email;
       }

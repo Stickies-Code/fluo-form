@@ -523,3 +523,11 @@ em{font-style:normal;color:var(--green)}
 .rpick-opts input:checked+span{transition:none}
 @media (max-width:560px){.rpick-opts{grid-template-columns:1fr}}
 @media (min-width:561px) and (max-width:1100px){.rpick-opts span{font-size:13.5px;padding:0 6px}}
+
+/* precios visibles */
+.plan .plan-price .pp-from{font-family:var(--display);font-size:14px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--green)}
+.plan-dark .plan-price .pp-from{color:#6E6E78}
+.plan .plan-price b{font-size:clamp(44px,4.6vw,64px);letter-spacing:-.045em;line-height:1}
+.plan-dark .plan-price b{font-size:clamp(40px,4.2vw,56px)}
+.hero-title{font-size:clamp(46px,6.2vw,96px)}
+@media (max-width:900px){.hero-title{font-size:clamp(42px,11.5vw,76px)}}
