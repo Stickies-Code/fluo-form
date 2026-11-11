@@ -144,6 +144,7 @@
     .to('.bl-pill', { x: '-0.09em', duration: 0.35, ease: 'power2.inOut' }, '-=0.3')
     .to('.bl-pill', { x: '0.09em', duration: 0.4, ease: 'power2.inOut' })
     .to('.bl-pill', { x: 0, duration: 0.6, ease: 'elastic.out(1, 0.55)' })
+    .from('.bl-tag', { y: 16, opacity: 0, duration: 0.7, ease: EASE }, 0.9)
     .from('.scroll-hint', { opacity: 0, y: 12, duration: 0.6, ease: EASE }, '-=0.5');
 
   /* ---------- HERO: 3 desplazamientos ---------- */
