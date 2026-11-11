@@ -91,7 +91,7 @@
         if (!r.ok) throw new Error('send');
         done(data.nombre);
       } catch (err) {
-        btn.disabled = false; btn.querySelector('.rbtn-t').textContent = 'Quiero que me ayudéis';
+        btn.disabled = false; btn.querySelector('.rbtn-t').textContent = 'Contáctame';
         msg.className = 'rmsg err';
         msg.textContent = 'No se ha podido enviar. Escríbenos a ' + CONTACT.email;
       }
