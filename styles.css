@@ -685,3 +685,18 @@ body{font-size:18.5px}
 .hero-grid{grid-template-columns:1.3fr .7fr}
 @media (max-width:900px){.hero-title{font-size:clamp(46px,13.4vw,84px)}.hero-sub{font-size:22px}.h-icons img{width:54px;height:54px}.h-social-txt{font-size:17px}.hero .btn{height:60px;font-size:18px}}
 @media (max-width:900px){.hero-grid{grid-template-columns:1fr}.hero-title{font-size:clamp(44px,12.4vw,80px)}.hero .btn{padding:0 24px}}
+/* portada: que quepa entera en portátiles */
+.hero-title{font-size:clamp(44px,min(6.3vw,10.2vh),100px)}
+.h-eyebrow{font-size:15px}
+.h-icons img{width:clamp(44px,6.4vh,58px);height:clamp(44px,6.4vh,58px)}
+.h-social-txt{font-size:clamp(16px,2.2vh,20px)}
+.hero-sub{font-size:clamp(19px,min(1.95vw,3.1vh),27px);max-width:32ch;margin-bottom:clamp(20px,3.4vh,36px)}
+.hero .btn{height:clamp(52px,7vh,62px);font-size:clamp(16px,2.1vh,19px);padding:0 30px}
+.hero-grid{grid-template-columns:1.2fr .8fr;padding-top:84px;padding-bottom:24px}
+.hero-copy .h-social{margin:clamp(12px,2.4vh,24px) 0 clamp(12px,2vh,20px)}
+@media (max-width:900px){.hero-grid{grid-template-columns:1fr}.hero-title{font-size:clamp(42px,11.8vw,76px)}.hero-sub{font-size:20px}.hero .btn{height:58px;font-size:17px}}
+/* titulares de sección un poco más contenidos */
+.h2{font-size:clamp(36px,min(5.4vw,9vh),78px)}
+.h2-pain{font-size:clamp(34px,min(5vw,8.6vh),72px)}
+.cstory-big{font-size:clamp(30px,min(4.2vw,8vh),62px)}
+.cstory-title{font-size:clamp(28px,3.4vw,48px)}
