@@ -722,3 +722,5 @@ body{font-size:18.5px}
 .h-blob,.phone,.toast{display:none}
 @media (max-width:900px){.hero-cards{justify-self:stretch;max-width:none;margin-top:8px}}
 @media (max-width:900px){.hero-cards{display:none}}
+.hero-grid{max-width:1320px;grid-template-columns:minmax(0,1fr) minmax(320px,410px);column-gap:clamp(56px,8vw,140px)}.hero-cards{max-width:410px}
+@media (max-width:900px){.hero-grid{grid-template-columns:1fr}}
