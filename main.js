@@ -169,7 +169,7 @@
     .to('.toast', { opacity: 1, scale: 1, y: 0, filter: 'blur(0px)', duration: 0.5, stagger: 0.15 }, 1.6);
 
   let shown = false;
-  const showHero = () => { if (!shown) { shown = true; reveal.timeScale(1).play(); } };
+  const showHero = () => { if (!shown) { shown = true; intro.progress(1); reveal.timeScale(1).play(); } };
   const hideHero = () => { if (shown) { shown = false; reveal.timeScale(1.6).reverse(); } };
 
   ScrollTrigger.create({

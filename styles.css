@@ -549,3 +549,45 @@ mark.hl{background:linear-gradient(transparent 58%,var(--green) 58%);color:inher
 .cstory-steps li:last-child p{color:#1C1C20}
 @media (max-width:1000px){.cstory-steps{grid-template-columns:1fr 1fr}}
 @media (max-width:600px){.cstory-steps{grid-template-columns:1fr}}
+/* textos más grandes y legibles (público 40–60) */
+body{font-size:18.5px}
+.eyebrow{font-size:15px;color:#B9B9C2}
+.h2{font-size:clamp(40px,5.8vw,80px)}
+.h2-long{font-size:clamp(32px,4vw,60px);max-width:24ch}
+.lead{font-size:clamp(20px,1.9vw,25px);color:#C4C4CC;max-width:48ch}
+.btn{font-size:18.5px;height:62px;padding:0 32px}
+.btn-sm{height:44px;padding:0 22px;font-size:16px}
+.nav-links{font-size:16.5px}
+.hero-grid{grid-template-columns:1.22fr .78fr}
+.h-social-txt{font-size:20px}
+.h-icons img{width:58px;height:58px}
+.hero-sub{font-size:clamp(22px,2.15vw,29px);line-height:1.35;color:#F1F1F4;max-width:30ch;margin-bottom:40px}
+.vs li{font-size:19.5px}
+.step h3{font-size:29px}
+.step p{font-size:19px;color:#3A3A42}
+.b-card h3{font-size:23px}
+.plan li{font-size:18.5px}
+.plan-price span{font-size:17px}
+.faq summary{font-size:clamp(21px,2.2vw,27px)}
+.faq details p{font-size:19px;color:#3A3A42}
+.cmp-row>span{font-size:17.5px}
+.cmp-head>span{font-size:16.5px}
+.cstory-steps h4{font-size:22px}
+.cstory-steps p{font-size:18px;color:#D9D9DE}
+.cpair figcaption{font-size:16.5px}
+.case-tab{font-size:18px}
+.rf span,.rpick legend{font-size:15.5px}
+.rcheck{font-size:15.5px}
+@media (max-width:900px){
+  body{font-size:17.5px}
+  .hero-grid{grid-template-columns:1fr}
+  .hero-sub{font-size:21px;max-width:none}
+  .lead{font-size:19.5px}
+  .btn{height:56px;font-size:17px}
+  .btn-sm{height:42px;padding:0 18px;font-size:15px}
+  .hero-title{font-size:clamp(44px,12.6vw,80px)}
+  .h-social-txt{font-size:16.5px}
+  .vs li,.step p,.faq details p{font-size:18px}
+}
+.eyebrow-big{font-size:clamp(18px,1.8vw,24px);letter-spacing:.12em;color:#D9D9DE}
+.h2-pain{font-size:clamp(40px,5.6vw,82px);max-width:20ch}
