@@ -54,7 +54,7 @@
     rform.querySelectorAll('input[name=formato]').forEach((r) => r.addEventListener('change', () => rform.querySelector('.rpick').classList.remove('bad')));
     const done = (nombre) => {
       rform.classList.add('sent');
-      rform.innerHTML = '<div class="rdone"><i><svg viewBox="0 0 24 24" fill="none" stroke="#0E0E10" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></i><h3>¡Gracias, ' + nombre.replace(/[<>&]/g, '') + '!</h3><p>Te llamamos en menos de 48 horas para agendar la reunión de 15 minutos.</p></div>';
+      rform.innerHTML = '<div class="rdone"><i><svg viewBox="0 0 24 24" fill="none" stroke="#0E0E10" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></i><h3>¡Gracias, ' + nombre.replace(/[<>&]/g, '') + '!</h3><p>Nos ponemos en contacto contigo en menos de 24 horas.</p></div>';
     };
     rform.addEventListener('submit', async (e) => {
       e.preventDefault();
