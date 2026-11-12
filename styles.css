@@ -700,3 +700,25 @@ body{font-size:18.5px}
 .h2-pain{font-size:clamp(34px,min(5vw,8.6vh),72px)}
 .cstory-big{font-size:clamp(30px,min(4.2vw,8vh),62px)}
 .cstory-title{font-size:clamp(28px,3.4vw,48px)}
+
+/* portada: tarjetas del caso Hidrogest */
+.hero-cards{display:flex;flex-direction:column;gap:12px;max-width:440px;justify-self:end;width:100%}
+.hc-kicker{display:flex;align-items:center;gap:12px;margin:0 0 4px;font-family:var(--display);font-weight:700;font-size:14px;letter-spacing:.14em;text-transform:uppercase;color:#B9B9C2}
+.hc-kicker img{height:34px;width:auto;background:#fff;border-radius:10px;padding:6px 10px}
+.hc{border-radius:26px;padding:clamp(18px,2.6vh,26px) 26px;display:flex;flex-direction:column;gap:4px}
+.hc-a{background:#1E1415;border:1px solid #4A2A2A}
+.hc-d{background:var(--green);color:var(--black)}
+.hc-tag{align-self:flex-start;font-family:var(--display);font-weight:700;font-size:13px;letter-spacing:.14em;text-transform:uppercase;padding:6px 12px;border-radius:99px;margin-bottom:6px}
+.hc-a .hc-tag{background:#FF5A4E;color:#fff}
+.hc-d .hc-tag{background:var(--black);color:var(--green)}
+.hc-big{font-family:var(--display);font-weight:700;font-size:clamp(40px,min(4.4vw,7.4vh),64px);letter-spacing:-.04em;line-height:1}
+.hc-a .hc-big{color:#fff}
+.hc p{margin:4px 0 0;font-size:clamp(16px,2.1vh,18.5px);line-height:1.4}
+.hc-a p{color:#D9D9DE}
+.hc-d p{color:#1C1C20;font-weight:500}
+.hc-arrow{align-self:center;width:40px;height:40px;border-radius:50%;background:#1F1F24;color:var(--green);display:flex;align-items:center;justify-content:center;font-size:20px;margin:-4px 0}
+.hc-link{align-self:flex-start;font-family:var(--display);font-weight:600;font-size:17px;color:var(--green);margin-top:4px}
+.hc-link:hover{text-decoration:underline}
+.h-blob,.phone,.toast{display:none}
+@media (max-width:900px){.hero-cards{justify-self:stretch;max-width:none;margin-top:8px}}
+@media (max-width:900px){.hero-cards{display:none}}

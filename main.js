@@ -129,7 +129,7 @@
   gsap.set(['.h-social-txt', '.hero-sub'], { opacity: 0, y: 18 });
   gsap.set('.h-final', { opacity: 0, y: 28 });
   gsap.set('.h-blob', { opacity: 0, scale: 0.4, rotate: -40 });
-  gsap.set('.phone', { y: () => window.innerHeight, rotate: 6 });
+  gsap.set('.hc, .hc-kicker, .hc-arrow, .hc-link', { opacity: 0, y: 40 });
   gsap.set('.post', { opacity: 0, scale: 0.85 });
   gsap.set('.toast', { opacity: 0, scale: 0.9, y: 16, filter: 'blur(6px)' });
 
@@ -163,7 +163,7 @@
     .to('.h-social-txt', { opacity: 1, y: 0, duration: 0.6 }, 1.05)
     .to('.hero-sub', { opacity: 1, y: 0, duration: 0.6 }, 1.15)
     .to('.h-final', { opacity: 1, y: 0, duration: 0.6 }, 1.3)
-    .to('.phone', { y: 0, rotate: 0, duration: 1.1 }, 0.6)
+    .to('.hc-kicker, .hc, .hc-arrow, .hc-link', { opacity: 1, y: 0, duration: 0.8, stagger: 0.14 }, 0.7)
     .to('.post', { opacity: 1, scale: 1, duration: 0.4, stagger: 0.04 }, 1.3)
     .to(countObj, { v: 128, duration: 0.8, ease: 'power2.out', onUpdate: () => { if (counter) counter.textContent = Math.round(countObj.v); } }, 1.3)
     .to('.toast', { opacity: 1, scale: 1, y: 0, filter: 'blur(0px)', duration: 0.5, stagger: 0.15 }, 1.6);
