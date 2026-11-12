@@ -531,3 +531,7 @@ em{font-style:normal;color:var(--green)}
 .plan-dark .plan-price b{font-size:clamp(40px,4.2vw,56px)}
 .hero-title{font-size:clamp(46px,6.2vw,96px)}
 @media (max-width:900px){.hero-title{font-size:clamp(42px,11.5vw,76px)}}
+.h2-long{font-size:clamp(30px,3.6vw,54px);max-width:22ch}
+mark.hl{background:linear-gradient(transparent 58%,var(--green) 58%);color:inherit;padding:0 .12em;border-radius:2px;font-weight:700}
+.vs-new mark.hl,.b-green mark.hl{background:linear-gradient(transparent 58%,rgba(14,14,16,.22) 58%)}
+@media (max-width:760px){.cmp-us mark.hl{background:linear-gradient(transparent 58%,rgba(14,14,16,.22) 58%)}}

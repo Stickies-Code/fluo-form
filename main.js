@@ -147,60 +147,42 @@
     .from('.bl-tag', { y: 16, opacity: 0, duration: 0.7, ease: EASE }, 0.9)
     .from('.scroll-hint', { opacity: 0, y: 12, duration: 0.6, ease: EASE }, '-=0.5');
 
-  /* ---------- HERO: 3 desplazamientos ---------- */
-  const dots = qa('.scroll-dots i');
+  /* ---------- HERO: un solo desplazamiento ---------- */
   const counter = q('.ig-stats .count');
   const countObj = { v: 0 };
-  let heroDir = 1;
 
-  const tl = gsap.timeline({
-    defaults: { ease: 'power3.out' },
-    scrollTrigger: {
-      trigger: '#hero',
-      start: 'top top',
-      end: '+=300%',
-      pin: true,
-      scrub: 0.6,
-      snap: {
-        // cada gesto lleva al siguiente (o anterior) paso: 3 desplazamientos
-        snapTo: () => {
-          const pos = tl.scrollTrigger.progress * 3;
-          const t = heroDir > 0 ? Math.ceil(pos - 0.04) : Math.floor(pos + 0.04);
-          return gsap.utils.clamp(0, 3, t) / 3;
-        },
-        duration: { min: 0.35, max: 0.8 }, delay: 0.06, ease: 'power2.inOut',
-      },
-      onUpdate: (self) => {
-        if (self.direction) heroDir = self.direction;
-        const step = Math.round(self.progress * 3);
-        dots.forEach((d, i) => d.classList.toggle('on', i < step));
-      },
+  // todo lo de la portada entra de golpe, con calma, tras el primer gesto
+  const reveal = gsap.timeline({ paused: true, defaults: { ease: 'power3.out' } })
+    .to('.hero-biglogo', { scale: 0.32, yPercent: -46, opacity: 0, duration: 0.6, ease: 'power2.in' }, 0)
+    .to('.scroll-hint', { opacity: 0, duration: 0.3 }, 0)
+    .to(nav, { yPercent: 0, duration: 0.6 }, 0.35)
+    .to('.h-eyebrow', { opacity: 1, y: 0, duration: 0.6 }, 0.4)
+    .to('.hero-title .line-in', { yPercent: 0, duration: 0.8, stagger: 0.12 }, 0.45)
+    .to('.h-blob', { opacity: 1, scale: 0.82, rotate: -14, duration: 1 }, 0.4)
+    .to('.h-icons img', { opacity: 1, scale: 1, y: 0, duration: 0.6, stagger: 0.1, ease: 'back.out(1.6)' }, 0.9)
+    .to('.h-social-txt', { opacity: 1, y: 0, duration: 0.6 }, 1.05)
+    .to('.hero-sub', { opacity: 1, y: 0, duration: 0.6 }, 1.15)
+    .to('.h-final', { opacity: 1, y: 0, duration: 0.6 }, 1.3)
+    .to('.phone', { y: 0, rotate: 0, duration: 1.1 }, 0.6)
+    .to('.post', { opacity: 1, scale: 1, duration: 0.4, stagger: 0.04 }, 1.3)
+    .to(countObj, { v: 128, duration: 0.8, ease: 'power2.out', onUpdate: () => { if (counter) counter.textContent = Math.round(countObj.v); } }, 1.3)
+    .to('.toast', { opacity: 1, scale: 1, y: 0, filter: 'blur(0px)', duration: 0.5, stagger: 0.15 }, 1.6);
+
+  let shown = false;
+  const showHero = () => { if (!shown) { shown = true; reveal.timeScale(1).play(); } };
+  const hideHero = () => { if (shown) { shown = false; reveal.timeScale(1.6).reverse(); } };
+
+  ScrollTrigger.create({
+    trigger: '#hero',
+    start: 'top top',
+    end: '+=100%',
+    pin: true,
+    snap: { snapTo: [0, 1], duration: { min: 0.4, max: 0.9 }, delay: 0.05, ease: 'power2.inOut' },
+    onUpdate: (self) => {
+      if (self.progress > 0.04 && self.direction > 0) showHero();
+      if (self.progress < 0.02 && self.direction < 0) hideHero();
     },
   });
-
-  tl.addLabel('s0', 0)
-    // 1 · el logo deja paso al lema
-    .to('.hero-biglogo', { scale: 0.32, yPercent: -46, opacity: 0, duration: 0.8, ease: 'power2.in' }, 0)
-    .to(nav, { yPercent: 0, duration: 0.5 }, 0.45)
-    .to('.h-eyebrow', { opacity: 1, y: 0, duration: 0.5 }, 0.4)
-    .to('.hero-title .line-in', { yPercent: 0, duration: 0.6, stagger: 0.12 }, 0.4)
-    .to('.h-blob', { opacity: 1, scale: 1, rotate: -18, duration: 0.8 }, 0.25)
-    .addLabel('s1', 1)
-    // 2 · qué redes y cómo
-    .to('.h-icons img', { opacity: 1, scale: 1, y: 0, duration: 0.5, stagger: 0.1, ease: 'back.out(1.8)' }, 1.05)
-    .to('.h-social-txt', { opacity: 1, y: 0, duration: 0.5 }, 1.25)
-    .to('.hero-sub', { opacity: 1, y: 0, duration: 0.5 }, 1.4)
-    .to('.h-blob', { rotate: -6, xPercent: 6, duration: 0.9, ease: 'power2.inOut' }, 1.05)
-    .addLabel('s2', 2)
-    // 3 · la pantalla completa
-    .to('.phone', { y: 0, rotate: 0, duration: 0.7 }, 2.02)
-    .to('.h-blob', { scale: 0.82, rotate: -14, xPercent: 0, duration: 0.7, ease: 'power2.inOut' }, 2.02)
-    .to('.post', { opacity: 1, scale: 1, duration: 0.3, stagger: 0.04 }, 2.4)
-    .to(countObj, { v: 128, duration: 0.5, ease: 'power2.out', onUpdate: () => { if (counter) counter.textContent = Math.round(countObj.v); } }, 2.4)
-    .to('.toast', { opacity: 1, scale: 1, y: 0, filter: 'blur(0px)', duration: 0.35, stagger: 0.12 }, 2.55)
-    .to('.h-final', { opacity: 1, y: 0, duration: 0.5 }, 2.3)
-    .to('.scroll-hint', { opacity: 0, duration: 0.3 }, 2.6)
-    .addLabel('s3', 3);
 
   // vida propia de las notificaciones una vez montadas
   qa('.toast').forEach((t, i) => {
@@ -223,7 +205,7 @@
   /* ---------- Frase que se ilumina al deslizar ---------- */
   const st = q('#statement');
   if (st) {
-    const green = ['menos', 'de', '3', 'horas'];
+    const green = ['menos', 'de', '1', 'hora'];
     st.innerHTML = st.textContent.trim().split(/\s+/).map((w) => {
       const clean = w.replace(/[.,]/g, '');
       return `<span class="w${green.includes(clean) ? ' g' : ''}">${w}</span>`;
