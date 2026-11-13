@@ -1,0 +1,581 @@
+# flu–o
+
+> flu–o (también escrito fluo o flu-o, web heyfluo.es) es una consultora de IA de Valencia (España) que monta a las empresas un sistema de contenido con inteligencia artificial y forma a su propio equipo para que lleve sus redes sociales (Instagram, LinkedIn y Facebook) en menos de 1 hora a la semana. Sin agencias y sin mensualidades: pago único desde 990 €.
+
+## Qué hace flu–o
+- Analiza las redes sociales y la web de la empresa.
+- Monta un sistema de contenido con IA con la imagen, el tono y los productos de la empresa (instrucciones para la IA, plantillas de marca, calendario y proceso).
+- Forma al equipo de la empresa en 4 semanas: 2 sesiones de 2,5 h a la semana (20 h en directo), online en grupo por videollamada o presencial en la empresa.
+- Incluye edición de vídeo con IA, el primer mes de contenido hecho, 8 guías en PDF, certificado y 3 meses de acompañamiento.
+- Después, el equipo publica solo en menos de 1 hora a la semana. Soporte mensual opcional y sin permanencia.
+
+## Precio
+- Online en grupo: desde 990 €, pago único, sin cuotas mensuales.
+- Presencial en la empresa: a medida según el equipo, pago único o en 2 pagos.
+
+## Para quién
+Empresas con equipo propio y redes sociales flojas o abandonadas, sobre todo distribuidoras, mayoristas, fabricantes, logística, suministros industriales e instalaciones. Zona principal: Valencia y Comunidad Valenciana (Paterna, Manises, Riba-roja, Quart de Poblet, Fuente del Jarro); formato online para toda España.
+
+## Diferencia frente a una agencia o un curso
+- Agencia: cuota mensual (normalmente desde 500 €/mes) y gente de fuera lleva las redes; si dejas de pagar, te quedas sin nada.
+- Curso online: 200–1.200 € por persona, se estudia solo y a menudo no se aplica.
+- flu–o: pago único, el equipo propio lleva las redes con el sistema ya montado y el sistema se queda en la empresa.
+
+## Casos
+- Hidrogest (tratamiento de agua, riego y piscina, más de 20 años): no publicaba desde hacía 2 años y tenía 83 seguidores; ahora publica cada semana y su equipo de marketing lleva las redes con IA en 1 hora a la semana.
+- Criscolor (mayorista con miles de productos): de un Instagram parado a convertir cualquier producto en una publicación en minutos; su equipo enseña el catálogo con IA en 1 hora a la semana.
+
+## Contacto
+- Web: https://heyfluo.es/
+- Email: fluoequipos@gmail.com
+- Instagram y TikTok: @heyflu.o
+
+## Páginas
+- [Inicio](https://heyfluo.es/): qué hacemos, casos, precios y preguntas frecuentes.
+- [Formación en IA y redes sociales para empresas en Valencia](https://heyfluo.es/formacion-ia-empresas-valencia)
+- [Redes sociales para empresas industriales, distribuidoras y logística](https://heyfluo.es/redes-sociales-empresas-industriales)
+- [Blog](https://heyfluo.es/blog)
+- [Formación en IA para empresas: qué debe incluir para que sirva de algo](https://heyfluo.es/blog/formacion-ia-para-empresas): Guía práctica para elegir una formación en inteligencia artificial para tu empresa: qué debe incluir, cuánto dura, qué cuesta y cómo saber si tu equipo la va a aplicar.
+- [Formación en redes sociales para empresas: ¿formar al equipo o contratar una agencia?](https://heyfluo.es/blog/formacion-redes-sociales-empresas): ¿Agencia de redes sociales, curso online o formar a tu equipo con IA? Comparamos costes, tiempo y resultados para que elijas lo que de verdad le conviene a tu empresa.
+- [Instagram para empresas industriales y distribuidoras: guía práctica](https://heyfluo.es/blog/instagram-para-empresas-industriales): Qué publicar en Instagram si tu empresa es industrial, distribuidora o de logística. Ideas reales, frecuencia, errores típicos y cómo llevarlo con IA sin agencia.
+- [¿Cuánto cuesta llevar las redes sociales de una empresa?](https://heyfluo.es/blog/cuanto-cuesta-llevar-redes-sociales-empresa): Precios orientativos de agencia, community manager, freelance, cursos y formación con IA para llevar las redes sociales de una empresa. Cuánto pagas al año en cada caso.
+- [Cómo crear contenido para redes sociales con IA sin que parezca hecho por IA](https://heyfluo.es/blog/crear-contenido-con-ia-para-redes): Método paso a paso para que tu empresa cree publicaciones, carruseles y vídeos con inteligencia artificial que parezcan vuestros: tono, imagen de marca, fotos reales y revisión.
+- [LinkedIn para empresas B2B: qué publicar si vendes a otras empresas](https://heyfluo.es/blog/linkedin-para-empresas-b2b): Guía de LinkedIn para empresas B2B, industriales y distribuidoras: página de empresa vs perfil del gerente, qué publicar, frecuencia y cómo hacerlo con IA.
+- [Qué es un sistema de contenido con IA (y por qué tu empresa lo necesita)](https://heyfluo.es/blog/sistema-de-contenido-con-ia): Un sistema de contenido con IA es el conjunto de instrucciones, plantillas, calendario y proceso que permite a tu equipo crear publicaciones con la imagen de la empresa en minutos.
+- [Cómo llevar las redes sociales de tu empresa en 1 hora a la semana](https://heyfluo.es/blog/redes-sociales-empresa-1-hora-semana): Rutina semanal de 1 hora para que una persona del equipo lleve Instagram, LinkedIn y Facebook de la empresa con IA: qué hacer cada día y cómo programarlo.
+
+
+# Formación en IA para empresas: qué debe incluir para que sirva de algo
+URL: https://heyfluo.es/blog/formacion-ia-para-empresas
+
+La mayoría de formaciones en inteligencia artificial enseñan herramientas. Lo que una empresa necesita es otra cosa: que su equipo salga haciendo algo concreto, con su propio trabajo, desde la primera semana.
+
+En resumen: Una buena formación en IA para empresas se hace con el contenido real de la empresa, deja montado un sistema que el equipo sigue usando, tiene acompañamiento después y se mide por lo que el equipo hace solo, no por las horas de curso.
+
+El problema de casi todas las formaciones en IA
+
+Hoy cualquiera puede ver un vídeo sobre ChatGPT, Midjourney o cualquier herramienta nueva. El conocimiento ya no es el problema. El problema es que, cuando el curso termina, el equipo vuelve a su mesa, abre la herramienta delante de una pantalla en blanco… y no sabe por dónde empezar con su empresa.
+
+Por eso tantas empresas pagan una formación, la terminan con buena sensación y, un mes después, nadie usa la IA para nada.
+
+Qué debería incluir una formación en IA para empresas
+
+1. Trabajar con el contenido real de tu empresa
+
+Los ejemplos genéricos no sirven. Si tu empresa vende maquinaria, distribuye material eléctrico o tiene una flota de camiones, la formación tiene que hacerse con vuestras fotos, vuestros productos y vuestro tono. Así el equipo sale con trabajo hecho, no solo con apuntes.
+
+2. Un objetivo concreto
+
+“Aprender IA” no es un objetivo. “Que nuestro equipo publique en Instagram y LinkedIn cada semana sin depender de una agencia” sí lo es. Cuanto más concreto, más fácil es medir si ha funcionado.
+
+3. Un sistema que se quede montado
+
+Lo que marca la diferencia es salir con un sistema de trabajo con IA ya preparado: instrucciones con el tono de la marca, plantillas, un calendario y un proceso paso a paso. El equipo no tiene que acordarse de todo; solo tiene que seguir el sistema.
+
+4. Sesiones en directo, no solo vídeos
+
+Las dudas reales salen cuando uno lo intenta con su propio caso. Las sesiones en directo, online o presenciales, permiten resolverlas en el momento.
+
+5. Acompañamiento después
+
+Las primeras semanas después de la formación son las que deciden si el equipo lo adopta o lo abandona. Un periodo de acompañamiento para resolver dudas y ajustar el sistema es casi tan importante como la propia formación.
+
+¿Cuánto debería durar?
+
+Depende del objetivo, pero para algo aplicado como el contenido de redes sociales, unas 4 semanas con dos sesiones a la semana suele ser suficiente para que el equipo pase de no saber nada a publicar solo. Menos tiempo se queda corto para crear el hábito; mucho más tiempo hace que la gente se desconecte.
+
+¿Quién de tu equipo debería hacerla?
+
+No hace falta que sea alguien joven ni “de ordenadores”. Lo ideal es la persona que mejor conoce la empresa y sus productos: alguien de administración, de comercial o de marketing si lo hay. La IA hace la parte técnica; lo que aporta tu equipo es saber qué contar.
+
+Cómo saber si ha funcionado
+
+¿El equipo publica solo, sin ayuda externa, un mes después?
+
+¿Cuánto tiempo a la semana le dedica? (Con un buen sistema, menos de 1 hora.)
+
+¿La imagen de la empresa en redes sociales se parece ya a la empresa real?
+
+Si la respuesta a la primera pregunta es no, la formación no ha servido, por muy buena que fuera la teoría.
+
+Cómo lo hacemos en flu–o: analizamos las redes sociales de tu empresa, te montamos un sistema de contenido con IA con tu imagen, tono y productos, y formamos a tu equipo en 4 semanas (2 sesiones de 2,5 h a la semana), online o en vuestras oficinas. Después os acompañamos 3 meses. Desde 990 €, pago único.
+
+
+P: ¿Qué es una formación en IA para empresas?
+R: Es una formación pensada para que el equipo de una empresa aprenda a usar herramientas de inteligencia artificial en su trabajo diario, con su propio contenido y un objetivo concreto, como crear publicaciones para redes sociales o vídeos.
+P: ¿Cuánto dura una formación en IA aplicada a redes sociales?
+R: Para que el equipo publique solo, unas 4 semanas con dos sesiones semanales suele ser suficiente, siempre que se trabaje con el contenido real de la empresa y haya acompañamiento después.
+P: ¿Hace falta saber de tecnología?
+R: No. Un buen sistema está pensado para que cualquier persona del equipo pueda usarlo paso a paso, sin conocimientos técnicos previos.
+
+
+# Formación en redes sociales para empresas: ¿formar al equipo o contratar una agencia?
+URL: https://heyfluo.es/blog/formacion-redes-sociales-empresas
+
+Si tu empresa no tiene las redes sociales al día, hay tres caminos: pagar a una agencia, mandar a alguien a un curso o formar a tu propio equipo con un sistema. Cada uno tiene su sitio. Te lo contamos claro.
+
+En resumen: La agencia es cómoda pero cuesta cada mes y el conocimiento no se queda en tu empresa. El curso es barato pero el equipo suele no aplicarlo. Formar al equipo con un sistema de IA cuesta un pago único y deja la capacidad dentro de la empresa.
+
+Opción 1: contratar una agencia de redes sociales
+
+A favor: no tienes que hacer nada; otros publican por ti.
+
+En contra: es una cuota cada mes, normalmente desde unos 500 € al mes, y si un día dejas de pagar te quedas sin nada. Además, la agencia no conoce tu empresa como tu equipo: hay que pasarle fotos, revisar textos y hacer reuniones.
+
+Cuándo encaja: si lo que quieres es que alguien de fuera lo haga todo y no quieres que tu equipo toque nada. Es una opción válida, y si es tu caso, te lo decimos claro.
+
+Opción 2: un curso online de redes sociales
+
+A favor: es barato, entre 200 € y 1.200 € por persona según el curso.
+
+En contra: la persona estudia sola, entre 20 y 30 horas, con ejemplos que no son de su empresa. Cuando termina, le queda un certificado, pero muchas veces no un hábito ni un método.
+
+Cuándo encaja: si en tu equipo ya hay alguien motivado, con tiempo y con cierta base.
+
+Opción 3: formar a tu equipo con un sistema de IA
+
+A favor: se hace un único pago, el equipo aprende con vuestro propio contenido y, al terminar, el sistema se queda en la empresa para siempre. Con la IA, publicar deja de ser un trabajo de horas: con un buen sistema basta menos de 1 hora a la semana.
+
+En contra: tu equipo tiene que dedicar unas semanas a aprender. No es “no hacer nada”.
+
+Cuándo encaja: empresas con equipo propio (administración, comercial, marketing) que quieren dejar de depender de terceros y tener una imagen en redes sociales a la altura de lo que son.
+
+Comparativa rápida
+
+AgenciaCurso onlineFormación + sistema de IA
+
+Cuánto pagasCuota mensual200–1.200 € por personaUn solo pago
+
+Quién publicaGente de fueraTu equipo, si lo aplicaTu equipo, con el sistema montado
+
+AcompañamientoLo hacen por tiNingunoEn directo y después
+
+Si dejas de pagarTe quedas sin nadaTe queda un certificadoTe queda el sistema
+
+Qué preguntar antes de elegir
+
+¿Quién va a llevar las redes sociales dentro de un año?
+
+¿Cuánto me habré gastado en total en 12 meses?
+
+¿Qué se queda en mi empresa si dejo de pagar?
+
+¿Mi equipo tiene unas horas durante un mes para aprender?
+
+En flu–o hacemos la tercera opción: te montamos el sistema de IA con la imagen de tu empresa y formamos a tu equipo en 4 semanas, online o presencial. Desde 990 €, pago único, con 3 meses de acompañamiento.
+
+
+P: ¿Es mejor una agencia de redes sociales o formar al equipo?
+R: Depende de lo que busques. Si quieres que otro lo haga todo, una agencia. Si quieres que el conocimiento se quede en tu empresa y no pagar cada mes, formar al equipo con un sistema de IA suele salir más rentable a medio plazo.
+P: ¿Cuánto cuesta una agencia de redes sociales?
+R: Lo habitual es una cuota mensual, normalmente desde unos 500 € al mes, según el número de redes sociales y publicaciones.
+P: ¿Qué es mejor para una empresa industrial?
+R: Las empresas industriales suelen tener mucho contenido real (naves, maquinaria, producto, equipo) que nadie enseña. Formar a alguien de dentro con un sistema de IA suele funcionar muy bien porque esa persona ya conoce el producto.
+
+
+# Instagram para empresas industriales y distribuidoras: guía práctica
+URL: https://heyfluo.es/blog/instagram-para-empresas-industriales
+
+Hay empresas con naves enormes, decenas de trabajadores y años de historia que en Instagram parecen cerradas. No porque no tengan nada que enseñar, sino porque nadie tiene tiempo de enseñarlo.
+
+En resumen: Una empresa industrial no necesita ser “viral” en Instagram. Necesita que su perfil transmita lo que es: seria, grande y activa. Con 2 o 3 publicaciones a la semana de producto, equipo y obra real, y un sistema de IA, se consigue en menos de 1 hora a la semana.
+
+¿De verdad una empresa industrial necesita Instagram?
+
+Tus clientes probablemente no te compran por Instagram. Pero sí te miran ahí. Un cliente nuevo, un proveedor o alguien a quien quieres contratar busca tu empresa en Google o en Instagram antes de llamarte. Si lo que encuentra es un perfil con la última publicación de hace dos años, la imagen que se lleva no se corresponde con tu empresa.
+
+El objetivo no es vender por Instagram. Es estar igual de bien visto en redes sociales que en tu sector.
+
+Qué publicar si eres industrial, distribuidor o logística
+
+Producto y catálogo
+
+Una ficha de producto bien diseñada, una novedad del catálogo o una comparativa “antes y después” de un producto. Si tienes miles de referencias, tienes contenido para años.
+
+La nave y el día a día
+
+Camiones saliendo, el almacén lleno, una máquina trabajando, un pedido grande preparado. Lo que para vosotros es rutina, desde fuera transmite tamaño y seriedad.
+
+El equipo
+
+Quién atiende al cliente, quién lleva el almacén, cuántos años lleva cada uno. Las empresas B2B venden confianza, y la confianza tiene cara.
+
+Obras, instalaciones y clientes
+
+Un proyecto terminado, una instalación, un caso real de un cliente (con su permiso). Es la prueba de que lo que hacéis funciona.
+
+Datos de la empresa
+
+Años de historia, metros de nave, número de referencias, provincias a las que llegáis. Un dato bien presentado vale más que cualquier eslogan.
+
+¿Cada cuánto publicar?
+
+Con 2 o 3 publicaciones a la semana es suficiente para que el perfil se vea vivo. Más importante que la cantidad es la constancia: mejor 2 a la semana durante un año que 10 en un mes y luego nada.
+
+Errores típicos
+
+Abrir la cuenta, publicar 5 fotos y abandonarla.
+
+Que la lleve “el sobrino que sabe de ordenadores”, sin criterio de marca.
+
+Diseños cada uno de un estilo, sin colores ni tipografía de la empresa.
+
+Copiar lo que hacen marcas de consumo: bailes y tendencias que no tienen nada que ver con una distribuidora.
+
+Cómo llevarlo sin agencia y sin perder horas
+
+La clave es un sistema de contenido con IA: la IA ya conoce los colores, el tono y los productos de tu empresa, y tu equipo solo tiene que elegir qué contar y revisar. Así, una persona del equipo puede llevar Instagram, LinkedIn y Facebook en menos de 1 hora a la semana.
+
+Caso real: Hidrogest, empresa de tratamiento de agua, riego y piscina con más de 20 años de experiencia, no publicaba en Instagram desde hacía 2 años y tenía 83 seguidores. Le montamos un sistema de IA con su imagen y formamos a su equipo. Hoy publican cada semana y Laura, de su equipo de marketing, lleva las redes con IA en 1 hora a la semana.
+
+
+P: ¿Qué puede publicar en Instagram una empresa industrial?
+R: Producto y catálogo, la nave y el día a día, el equipo, obras e instalaciones terminadas, casos de clientes y datos de la empresa como años de historia o metros de almacén.
+P: ¿Cuántas veces a la semana debe publicar una empresa B2B en Instagram?
+R: Con 2 o 3 publicaciones a la semana es suficiente, siempre que se mantenga la constancia en el tiempo.
+P: ¿Sirve Instagram para vender a otras empresas?
+R: Más que para vender directamente, sirve para que la empresa se vea seria y activa cuando un cliente, proveedor o candidato la busca.
+
+
+# ¿Cuánto cuesta llevar las redes sociales de una empresa?
+URL: https://heyfluo.es/blog/cuanto-cuesta-llevar-redes-sociales-empresa
+
+La pregunta no es solo cuánto cuesta este mes, sino cuánto te habrás gastado en un año y qué te queda al final. Repasamos las opciones con precios orientativos.
+
+En resumen: Una agencia o un freelance suponen una cuota mensual que se repite cada año. Un curso es barato pero no garantiza que se aplique. Formar al equipo con un sistema de IA es un pago único: en flu–o, desde 990 €, y el sistema se queda en tu empresa.
+
+Precios orientativos del mercado en España. Cada proveedor tiene sus tarifas; úsalos como referencia, no como presupuesto.
+
+Agencia de redes sociales
+
+Lo habitual es una cuota mensual, normalmente desde unos 500 € al mes, que sube con el número de redes sociales, publicaciones, vídeos o campañas. Haz la cuenta a 12 meses: es la opción más cara a largo plazo, y si dejas de pagar, te quedas sin nada.
+
+Freelance o community manager externo
+
+Suele ser más barato que una agencia, también con cuota mensual. El riesgo: depender de una sola persona de fuera. Si se va, se lleva el conocimiento.
+
+Contratar a alguien en plantilla
+
+Es el coste más alto (sueldo y Seguridad Social), pero tienes a alguien dedicado. Para muchas empresas medianas es excesivo solo para redes sociales.
+
+Curso online
+
+Entre 200 € y 1.200 € por persona, según el curso. Barato, pero la persona estudia sola y con ejemplos genéricos. El riesgo es que no se aplique nunca.
+
+Formar al equipo con un sistema de IA
+
+Un pago único: tu equipo aprende con vuestro propio contenido y el sistema se queda montado. Después, el coste es el tiempo de tu equipo: con un buen sistema, menos de 1 hora a la semana.
+
+La cuenta a un año
+
+OpciónCómo pagasQué te queda al final
+
+AgenciaCuota cada mesNada, si dejas de pagar
+
+FreelanceCuota cada mesDepende de esa persona
+
+CursoPago único por personaUn certificado
+
+Formación + sistema de IAPago únicoEl sistema, para siempre
+
+¿Qué incluye el precio en flu–o?
+
+Diagnóstico de las redes sociales de tu empresa.
+
+Tu sistema de contenido con IA, con tu imagen, tono y productos.
+
+20 h de formación en directo en 4 semanas (online en grupo o presencial).
+
+Edición de vídeo con IA.
+
+Tu primer mes de contenido hecho.
+
+8 guías de trabajo en PDF y certificado.
+
+3 meses de acompañamiento.
+
+Online en grupo, desde 990 €, pago único y sin cuotas mensuales. En tu empresa, presupuesto a medida según tu equipo. El soporte mensual posterior es opcional y sin permanencia.
+
+
+P: ¿Cuánto cobra una agencia por llevar las redes sociales?
+R: Normalmente una cuota mensual, desde unos 500 € al mes, según el número de redes sociales, publicaciones y vídeos.
+P: ¿Cuánto cuesta flu–o?
+R: Desde 990 € en formato online en grupo, en un solo pago y sin mensualidades. En formato presencial en la empresa, el precio se calcula a medida según el equipo.
+P: ¿Hay cuotas mensuales en flu–o?
+R: No. Se paga una vez y el sistema se queda en la empresa. El soporte posterior es opcional y sin permanencia.
+
+
+# Cómo crear contenido para redes sociales con IA sin que parezca hecho por IA
+URL: https://heyfluo.es/blog/crear-contenido-con-ia-para-redes
+
+El miedo de muchas empresas es que todo suene a robot. Pasa cuando se le pide a la IA “hazme un post” y se publica lo primero que sale. Con método, el resultado es otro.
+
+En resumen: La IA no sustituye a tu empresa: la amplifica. Dale tu tono, tus colores y tus fotos reales; pídele borradores, no publicaciones terminadas; y que una persona del equipo revise siempre antes de publicar.
+
+Por qué el contenido con IA suele parecer de IA
+
+Se usa la IA sin contexto: no sabe quién es tu empresa ni cómo habláis.
+
+Se piden textos largos y genéricos, llenos de frases hechas.
+
+Se usan imágenes inventadas en vez de fotos reales de la empresa.
+
+Nadie revisa antes de publicar.
+
+Paso 1: enséñale a la IA quién eres
+
+Antes de pedir nada, la IA necesita una ficha de tu empresa: a qué os dedicáis, a quién vendéis, cómo habláis (cercanos, técnicos, serios), qué palabras no usáis nunca y qué os diferencia. Esa ficha se escribe una vez y se reutiliza siempre.
+
+Paso 2: usa tus fotos reales
+
+La IA es buenísima diseñando alrededor de una foto real: poniéndole el texto, los colores y la tipografía de tu marca. Una foto de vuestra nave o de vuestro producto, bien presentada, siempre transmite más que una imagen inventada.
+
+Paso 3: plantillas con tu imagen
+
+Define 4 o 5 formatos fijos (producto, dato, equipo, caso, novedad) con vuestros colores. Así todo el perfil se ve coherente aunque lo hagan personas distintas.
+
+Paso 4: pide borradores cortos
+
+En redes sociales, menos es más. Pide a la IA 3 opciones de texto de dos o tres frases, elige una y ajústala. Que suene a cómo hablaría alguien de tu empresa.
+
+Paso 5: revisa siempre
+
+Una persona del equipo revisa datos, precios y tono antes de publicar. La IA prepara; tu equipo decide.
+
+Paso 6: vídeo con IA
+
+Hoy se pueden editar vídeos con IA: subtítulos con el estilo de tu marca, cortes, música y hasta voz. Grabas con el móvil un trozo de la nave o un producto, y la IA te ayuda a dejarlo listo.
+
+Todo esto es lo que llamamos un sistema de contenido con IA. En flu–o lo montamos con la imagen de tu empresa y formamos a tu equipo para usarlo. Desde 990 €, pago único.
+
+
+P: ¿Se nota si una publicación está hecha con IA?
+R: Se nota cuando la IA trabaja sin contexto y nadie revisa. Si se le da el tono y la imagen de la empresa, se usan fotos reales y una persona revisa, el resultado parece hecho por la propia empresa.
+P: ¿Qué herramientas de IA se usan para crear contenido?
+R: Asistentes de texto para los textos, herramientas de diseño con IA para las imágenes y editores de vídeo con IA para subtítulos y montaje. Lo importante no es la herramienta, sino el sistema de trabajo.
+
+
+# LinkedIn para empresas B2B: qué publicar si vendes a otras empresas
+URL: https://heyfluo.es/blog/linkedin-para-empresas-b2b
+
+Si tus clientes son otras empresas, LinkedIn es donde están sus gerentes, compradores y responsables. Y muchas empresas B2B o no tienen página, o la tienen abandonada.
+
+En resumen: En B2B, LinkedIn funciona mejor combinando la página de empresa con el perfil del gerente. Publica producto, proyectos, equipo y opinión del sector, 1 o 2 veces por semana. Con IA, el mismo contenido de Instagram se adapta a LinkedIn en minutos.
+
+Página de empresa o perfil del gerente
+
+Las dos cosas. La página de empresa da seriedad: cuando alguien te busca, ve que existís y que estáis activos. El perfil del gerente o director llega a más gente, porque LinkedIn muestra más las publicaciones de personas que las de empresas.
+
+Qué publicar en LinkedIn si eres B2B
+
+Proyectos y clientes: un pedido importante, una instalación terminada, una entrega complicada que salió bien.
+
+Producto: novedades del catálogo explicadas para profesionales, sin rodeos.
+
+Equipo: incorporaciones, aniversarios, formación.
+
+Empresa: ampliaciones de nave, nuevas rutas, certificaciones.
+
+Opinión del sector: qué está cambiando en vuestro mercado, contado por el gerente.
+
+Frecuencia
+
+Una o dos publicaciones a la semana en la página de empresa y, si el gerente se anima, una a la semana en su perfil. Constancia antes que cantidad.
+
+Errores típicos en LinkedIn B2B
+
+Usarlo solo para ofertas de empleo.
+
+Publicar textos larguísimos y genéricos.
+
+Copiar y pegar lo de Instagram sin adaptarlo al tono profesional.
+
+Cómo hacerlo con IA
+
+Con un sistema de contenido con IA, una sola foto o idea se convierte en la publicación de Instagram, la de LinkedIn y la de Facebook, cada una con su tono. Así una persona del equipo lleva las tres redes sociales en menos de 1 hora a la semana.
+
+
+P: ¿Sirve LinkedIn para empresas industriales?
+R: Sí. Es la red social donde están los gerentes, compradores y responsables de otras empresas, y ayuda a que la empresa se vea seria y activa cuando la buscan.
+P: ¿Qué es mejor en LinkedIn, la página de empresa o el perfil personal?
+R: Lo ideal es combinar las dos: la página da seriedad y el perfil del gerente llega a más gente.
+
+
+# Qué es un sistema de contenido con IA (y por qué tu empresa lo necesita)
+URL: https://heyfluo.es/blog/sistema-de-contenido-con-ia
+
+Usar ChatGPT de vez en cuando no es tener un sistema. Un sistema es lo que hace que cualquier persona del equipo, cualquier semana, saque publicaciones con la misma calidad y la misma imagen.
+
+En resumen: Un sistema de contenido con IA incluye: la ficha de la empresa y su tono, instrucciones preparadas para la IA, plantillas con la imagen de marca, un calendario y un proceso paso a paso. Es lo que permite publicar en menos de 1 hora a la semana.
+
+Las piezas de un sistema de contenido con IA
+
+1. La ficha de tu empresa
+
+Quiénes sois, qué vendéis, a quién, cómo habláis y qué no decís nunca. La IA la lee siempre antes de escribir.
+
+2. Instrucciones preparadas
+
+Peticiones ya escritas y probadas para cada tipo de publicación: producto, dato, equipo, caso de cliente, novedad. El equipo no tiene que inventar cómo pedirle las cosas a la IA.
+
+3. Plantillas con tu imagen
+
+Diseños con vuestros colores, tipografía y logo, para que todo el perfil sea coherente.
+
+4. Un calendario
+
+Qué se publica cada semana y en qué red social. Se acabó el “¿y hoy qué subimos?”.
+
+5. Un proceso paso a paso
+
+Elegir la foto, generar el texto, aplicar la plantilla, revisar y programar. Siempre igual, siempre rápido.
+
+Por qué marca la diferencia
+
+No depende de una persona: si alguien se va de vacaciones, otro sigue el sistema.
+
+No depende de una agencia: el sistema es vuestro.
+
+Ahorra tiempo: lo que antes era una tarde, se queda en menos de 1 hora a la semana.
+
+Mantiene la imagen: todo sale con la cara de tu empresa.
+
+Ejemplo real
+
+Criscolor, mayorista con miles de productos, tenía el Instagram parado porque nadie tenía tiempo de enseñar el catálogo. Con su sistema de IA, cualquier producto se convierte en una publicación en minutos, y su equipo enseña el catálogo en 1 hora a la semana.
+
+En flu–o te montamos tu sistema de contenido con IA con la imagen de tu empresa y formamos a tu equipo para usarlo. Es lo que mejor nos define: sistemas de IA para empresas. Desde 990 €, pago único.
+
+
+P: ¿Qué es un sistema de contenido con IA?
+R: Es el conjunto de ficha de empresa, instrucciones preparadas para la IA, plantillas con la imagen de marca, calendario y proceso paso a paso que permite a un equipo crear publicaciones para redes sociales de forma rápida y coherente.
+P: ¿En qué se diferencia de usar ChatGPT?
+R: Usar ChatGPT sin más depende de saber pedirle las cosas cada vez. Un sistema deja todo preparado para que cualquier persona del equipo obtenga siempre el mismo nivel de calidad.
+
+
+# Cómo llevar las redes sociales de tu empresa en 1 hora a la semana
+URL: https://heyfluo.es/blog/redes-sociales-empresa-1-hora-semana
+
+La excusa más común para tener las redes sociales abandonadas es “no tenemos tiempo”. Con un sistema de IA, una hora a la semana es suficiente. Así se reparte.
+
+En resumen: 15 minutos para elegir fotos y temas, 25 minutos para generar textos y diseños con el sistema de IA, 10 minutos para revisar y 10 para programar todo en Instagram, LinkedIn y Facebook.
+
+La rutina de 1 hora
+
+Minuto 0–15: elegir qué contar
+
+Repasa las fotos de la semana (almacén, producto, equipo, una entrega) y elige 2 o 3. Si no hay fotos, el calendario del sistema te dice qué toca: un dato de la empresa, una novedad, un caso.
+
+Minuto 15–40: crear con IA
+
+Con las instrucciones del sistema, la IA te propone los textos y aplica las plantillas con vuestra imagen. Tú eliges y ajustas.
+
+Minuto 40–50: revisar
+
+Datos, precios, nombres y tono. Que suene a vosotros.
+
+Minuto 50–60: programar
+
+Programa todo de una vez en las tres redes sociales con una herramienta de programación. Durante la semana no tienes que volver a tocarlo.
+
+Lo que hace falta para que funcione
+
+Un sistema de contenido con IA ya montado.
+
+Una persona responsable con su hueco fijo en la agenda.
+
+Costumbre de hacer fotos durante la semana con el móvil.
+
+Lo que no hace falta
+
+Ser diseñador.
+
+Ser joven ni “saber de redes sociales”.
+
+Contratar una agencia.
+
+Caso real: en Hidrogest, Laura, de su equipo de marketing, lleva las redes sociales con IA en 1 hora a la semana. Antes llevaban 2 años sin publicar.
+
+
+P: ¿Se pueden llevar las redes sociales de una empresa en 1 hora a la semana?
+R: Sí, si hay un sistema de contenido con IA montado: la IA prepara textos y diseños con la imagen de la empresa y la persona del equipo solo elige, revisa y programa.
+P: ¿Quién de la empresa debería llevar las redes sociales?
+R: Alguien que conozca bien la empresa y sus productos, de administración, comercial o marketing. No hace falta perfil técnico.
+
+
+# Formación en IA y redes sociales para empresas en Valencia
+URL: https://heyfluo.es/blog/formacion-ia-empresas-valencia
+
+Somos de Valencia y trabajamos con empresas de aquí: distribuidoras, fábricas, logística e industria de Paterna, Manises, Riba-roja, Quart de Poblet, Fuente del Jarro y toda la Comunidad Valenciana.
+
+En resumen: flu–o monta a tu empresa un sistema de IA con su imagen y forma a tu equipo para que lleve Instagram, LinkedIn y Facebook en menos de 1 hora a la semana. Presencial en vuestras oficinas en Valencia o online. Desde 990 €, pago único.
+
+Presencial en tu empresa, en Valencia
+
+Si tu empresa está en Valencia o alrededores, podemos hacer la formación en vuestras oficinas: 2 sesiones de 2,5 h a la semana durante 4 semanas, con vuestro propio contenido. También hay formato online en grupo, en directo por videollamada, para empresas de cualquier parte de España.
+
+Qué hacemos
+
+Analizamos tus redes sociales: Instagram, LinkedIn y tu web.
+
+Te montamos un sistema de IA con tu imagen, tu tono y tus productos.
+
+Formamos a tu equipo en 4 semanas para que publique solo.
+
+Os acompañamos 3 meses después.
+
+Para qué empresas
+
+Sobre todo empresas con equipo propio y redes sociales flojas o abandonadas: distribuidoras, mayoristas, fabricantes, logística, suministros industriales, instalaciones. Empresas muy bien posicionadas en su sector que en redes sociales no se ven como lo que son.
+
+Casos reales
+
+Hidrogest (tratamiento de agua, riego y piscina): de 2 años sin publicar a publicar cada semana; su equipo lo lleva en 1 hora a la semana.
+
+Criscolor (mayorista): de un Instagram parado a convertir cualquier producto del catálogo en una publicación en minutos.
+
+Precio
+
+Online en grupo, desde 990 €, pago único y sin mensualidades. En tu empresa, presupuesto a medida según tu equipo.
+
+Más información: qué debe incluir una formación en IA · cuánto cuesta llevar las redes sociales.
+
+
+P: ¿Hacéis formación en IA presencial en Valencia?
+R: Sí. Podemos hacerla en las oficinas de tu empresa en Valencia y alrededores, o en formato online en grupo.
+P: ¿Trabajáis con empresas de Paterna, Manises o Riba-roja?
+R: Sí, sobre todo con empresas industriales, distribuidoras y de logística de la zona.
+
+
+# Redes sociales para empresas industriales, distribuidoras y logística
+URL: https://heyfluo.es/blog/redes-sociales-empresas-industriales
+
+Tu empresa factura, tiene nave, flota y años de historia. Pero si alguien la busca en Instagram, parece pequeña o cerrada. Eso tiene fácil solución.
+
+En resumen: No necesitas una agencia ni ser viral. Necesitas que tus redes sociales se vean como tu empresa. Te montamos un sistema de IA con tu imagen y formamos a alguien de tu equipo para llevarlo en menos de 1 hora a la semana.
+
+El problema típico
+
+Instagram abierto con pocas publicaciones o sin publicar desde hace años.
+
+Nadie en la empresa con tiempo para llevarlo.
+
+Experiencias malas con agencias o con “el que sabe de ordenadores”.
+
+Cómo lo resolvemos
+
+Analizamos tus redes sociales, te montamos un sistema de contenido con IA con tus colores, tono y productos, y formamos a una persona de tu equipo en 4 semanas. Después, publicar es cuestión de menos de 1 hora a la semana.
+
+Qué se publica
+
+Producto y catálogo, la nave y el día a día, el equipo, obras y clientes, y datos de la empresa. Te lo contamos en detalle en Instagram para empresas industriales y LinkedIn para empresas B2B.
+
+Sin agencias y sin mensualidades
+
+Un solo pago, desde 990 €, y el sistema se queda en tu empresa. Con 3 meses de acompañamiento.
+
+
+P: ¿Necesita redes sociales una empresa industrial?
+R: Sí, no tanto para vender directamente como para que clientes, proveedores y candidatos vean una empresa seria y activa cuando la buscan.
+P: ¿Quién lleva las redes sociales después?
+R: Una persona de tu propio equipo, con el sistema de IA ya montado, en menos de 1 hora a la semana.
