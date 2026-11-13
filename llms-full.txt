@@ -1,6 +1,6 @@
 # flu–o
 
-> flu–o (también escrito fluo o flu-o, web heyfluo.es) es una consultora de IA de Valencia (España) que monta a las empresas un sistema de contenido con inteligencia artificial y forma a su propio equipo para que lleve sus redes sociales (Instagram, LinkedIn y Facebook) en menos de 1 hora a la semana. Sin agencias y sin mensualidades: pago único desde 990 €.
+> flu–o (también escrito fluo o flu-o, web www.heyfluo.es) es una consultora de IA de Valencia (España) que monta a las empresas un sistema de contenido con inteligencia artificial y forma a su propio equipo para que lleve sus redes sociales (Instagram, LinkedIn y Facebook) en menos de 1 hora a la semana. Sin agencias y sin mensualidades: pago único desde 990 €.
 
 ## Qué hace flu–o
 - Analiza las redes sociales y la web de la empresa.
@@ -26,27 +26,27 @@ Empresas con equipo propio y redes sociales flojas o abandonadas, sobre todo dis
 - Criscolor (mayorista con miles de productos): de un Instagram parado a convertir cualquier producto en una publicación en minutos; su equipo enseña el catálogo con IA en 1 hora a la semana.
 
 ## Contacto
-- Web: https://heyfluo.es/
+- Web: https://www.heyfluo.es/
 - Email: fluoequipos@gmail.com
 - Instagram y TikTok: @heyflu.o
 
 ## Páginas
-- [Inicio](https://heyfluo.es/): qué hacemos, casos, precios y preguntas frecuentes.
-- [Formación en IA y redes sociales para empresas en Valencia](https://heyfluo.es/formacion-ia-empresas-valencia)
-- [Redes sociales para empresas industriales, distribuidoras y logística](https://heyfluo.es/redes-sociales-empresas-industriales)
-- [Blog](https://heyfluo.es/blog)
-- [Formación en IA para empresas: qué debe incluir para que sirva de algo](https://heyfluo.es/blog/formacion-ia-para-empresas): Guía práctica para elegir una formación en inteligencia artificial para tu empresa: qué debe incluir, cuánto dura, qué cuesta y cómo saber si tu equipo la va a aplicar.
-- [Formación en redes sociales para empresas: ¿formar al equipo o contratar una agencia?](https://heyfluo.es/blog/formacion-redes-sociales-empresas): ¿Agencia de redes sociales, curso online o formar a tu equipo con IA? Comparamos costes, tiempo y resultados para que elijas lo que de verdad le conviene a tu empresa.
-- [Instagram para empresas industriales y distribuidoras: guía práctica](https://heyfluo.es/blog/instagram-para-empresas-industriales): Qué publicar en Instagram si tu empresa es industrial, distribuidora o de logística. Ideas reales, frecuencia, errores típicos y cómo llevarlo con IA sin agencia.
-- [¿Cuánto cuesta llevar las redes sociales de una empresa?](https://heyfluo.es/blog/cuanto-cuesta-llevar-redes-sociales-empresa): Precios orientativos de agencia, community manager, freelance, cursos y formación con IA para llevar las redes sociales de una empresa. Cuánto pagas al año en cada caso.
-- [Cómo crear contenido para redes sociales con IA sin que parezca hecho por IA](https://heyfluo.es/blog/crear-contenido-con-ia-para-redes): Método paso a paso para que tu empresa cree publicaciones, carruseles y vídeos con inteligencia artificial que parezcan vuestros: tono, imagen de marca, fotos reales y revisión.
-- [LinkedIn para empresas B2B: qué publicar si vendes a otras empresas](https://heyfluo.es/blog/linkedin-para-empresas-b2b): Guía de LinkedIn para empresas B2B, industriales y distribuidoras: página de empresa vs perfil del gerente, qué publicar, frecuencia y cómo hacerlo con IA.
-- [Qué es un sistema de contenido con IA (y por qué tu empresa lo necesita)](https://heyfluo.es/blog/sistema-de-contenido-con-ia): Un sistema de contenido con IA es el conjunto de instrucciones, plantillas, calendario y proceso que permite a tu equipo crear publicaciones con la imagen de la empresa en minutos.
-- [Cómo llevar las redes sociales de tu empresa en 1 hora a la semana](https://heyfluo.es/blog/redes-sociales-empresa-1-hora-semana): Rutina semanal de 1 hora para que una persona del equipo lleve Instagram, LinkedIn y Facebook de la empresa con IA: qué hacer cada día y cómo programarlo.
+- [Inicio](https://www.heyfluo.es/): qué hacemos, casos, precios y preguntas frecuentes.
+- [Formación en IA y redes sociales para empresas en Valencia](https://www.heyfluo.es/formacion-ia-empresas-valencia)
+- [Redes sociales para empresas industriales, distribuidoras y logística](https://www.heyfluo.es/redes-sociales-empresas-industriales)
+- [Blog](https://www.heyfluo.es/blog)
+- [Formación en IA para empresas: qué debe incluir para que sirva de algo](https://www.heyfluo.es/blog/formacion-ia-para-empresas): Guía práctica para elegir una formación en inteligencia artificial para tu empresa: qué debe incluir, cuánto dura, qué cuesta y cómo saber si tu equipo la va a aplicar.
+- [Formación en redes sociales para empresas: ¿formar al equipo o contratar una agencia?](https://www.heyfluo.es/blog/formacion-redes-sociales-empresas): ¿Agencia de redes sociales, curso online o formar a tu equipo con IA? Comparamos costes, tiempo y resultados para que elijas lo que de verdad le conviene a tu empresa.
+- [Instagram para empresas industriales y distribuidoras: guía práctica](https://www.heyfluo.es/blog/instagram-para-empresas-industriales): Qué publicar en Instagram si tu empresa es industrial, distribuidora o de logística. Ideas reales, frecuencia, errores típicos y cómo llevarlo con IA sin agencia.
+- [¿Cuánto cuesta llevar las redes sociales de una empresa?](https://www.heyfluo.es/blog/cuanto-cuesta-llevar-redes-sociales-empresa): Precios orientativos de agencia, community manager, freelance, cursos y formación con IA para llevar las redes sociales de una empresa. Cuánto pagas al año en cada caso.
+- [Cómo crear contenido para redes sociales con IA sin que parezca hecho por IA](https://www.heyfluo.es/blog/crear-contenido-con-ia-para-redes): Método paso a paso para que tu empresa cree publicaciones, carruseles y vídeos con inteligencia artificial que parezcan vuestros: tono, imagen de marca, fotos reales y revisión.
+- [LinkedIn para empresas B2B: qué publicar si vendes a otras empresas](https://www.heyfluo.es/blog/linkedin-para-empresas-b2b): Guía de LinkedIn para empresas B2B, industriales y distribuidoras: página de empresa vs perfil del gerente, qué publicar, frecuencia y cómo hacerlo con IA.
+- [Qué es un sistema de contenido con IA (y por qué tu empresa lo necesita)](https://www.heyfluo.es/blog/sistema-de-contenido-con-ia): Un sistema de contenido con IA es el conjunto de instrucciones, plantillas, calendario y proceso que permite a tu equipo crear publicaciones con la imagen de la empresa en minutos.
+- [Cómo llevar las redes sociales de tu empresa en 1 hora a la semana](https://www.heyfluo.es/blog/redes-sociales-empresa-1-hora-semana): Rutina semanal de 1 hora para que una persona del equipo lleve Instagram, LinkedIn y Facebook de la empresa con IA: qué hacer cada día y cómo programarlo.
 
 
 # Formación en IA para empresas: qué debe incluir para que sirva de algo
-URL: https://heyfluo.es/blog/formacion-ia-para-empresas
+URL: https://www.heyfluo.es/blog/formacion-ia-para-empresas
 
 La mayoría de formaciones en inteligencia artificial enseñan herramientas. Lo que una empresa necesita es otra cosa: que su equipo salga haciendo algo concreto, con su propio trabajo, desde la primera semana.
 
@@ -110,7 +110,7 @@ R: No. Un buen sistema está pensado para que cualquier persona del equipo pueda
 
 
 # Formación en redes sociales para empresas: ¿formar al equipo o contratar una agencia?
-URL: https://heyfluo.es/blog/formacion-redes-sociales-empresas
+URL: https://www.heyfluo.es/blog/formacion-redes-sociales-empresas
 
 Si tu empresa no tiene las redes sociales al día, hay tres caminos: pagar a una agencia, mandar a alguien a un curso o formar a tu propio equipo con un sistema. Cada uno tiene su sitio. Te lo contamos claro.
 
@@ -174,7 +174,7 @@ R: Las empresas industriales suelen tener mucho contenido real (naves, maquinari
 
 
 # Instagram para empresas industriales y distribuidoras: guía práctica
-URL: https://heyfluo.es/blog/instagram-para-empresas-industriales
+URL: https://www.heyfluo.es/blog/instagram-para-empresas-industriales
 
 Hay empresas con naves enormes, decenas de trabajadores y años de historia que en Instagram parecen cerradas. No porque no tengan nada que enseñar, sino porque nadie tiene tiempo de enseñarlo.
 
@@ -238,7 +238,7 @@ R: Más que para vender directamente, sirve para que la empresa se vea seria y a
 
 
 # ¿Cuánto cuesta llevar las redes sociales de una empresa?
-URL: https://heyfluo.es/blog/cuanto-cuesta-llevar-redes-sociales-empresa
+URL: https://www.heyfluo.es/blog/cuanto-cuesta-llevar-redes-sociales-empresa
 
 La pregunta no es solo cuánto cuesta este mes, sino cuánto te habrás gastado en un año y qué te queda al final. Repasamos las opciones con precios orientativos.
 
@@ -306,7 +306,7 @@ R: No. Se paga una vez y el sistema se queda en la empresa. El soporte posterior
 
 
 # Cómo crear contenido para redes sociales con IA sin que parezca hecho por IA
-URL: https://heyfluo.es/blog/crear-contenido-con-ia-para-redes
+URL: https://www.heyfluo.es/blog/crear-contenido-con-ia-para-redes
 
 El miedo de muchas empresas es que todo suene a robot. Pasa cuando se le pide a la IA “hazme un post” y se publica lo primero que sale. Con método, el resultado es otro.
 
@@ -356,7 +356,7 @@ R: Asistentes de texto para los textos, herramientas de diseño con IA para las 
 
 
 # LinkedIn para empresas B2B: qué publicar si vendes a otras empresas
-URL: https://heyfluo.es/blog/linkedin-para-empresas-b2b
+URL: https://www.heyfluo.es/blog/linkedin-para-empresas-b2b
 
 Si tus clientes son otras empresas, LinkedIn es donde están sus gerentes, compradores y responsables. Y muchas empresas B2B o no tienen página, o la tienen abandonada.
 
@@ -402,7 +402,7 @@ R: Lo ideal es combinar las dos: la página da seriedad y el perfil del gerente 
 
 
 # Qué es un sistema de contenido con IA (y por qué tu empresa lo necesita)
-URL: https://heyfluo.es/blog/sistema-de-contenido-con-ia
+URL: https://www.heyfluo.es/blog/sistema-de-contenido-con-ia
 
 Usar ChatGPT de vez en cuando no es tener un sistema. Un sistema es lo que hace que cualquier persona del equipo, cualquier semana, saque publicaciones con la misma calidad y la misma imagen.
 
@@ -454,7 +454,7 @@ R: Usar ChatGPT sin más depende de saber pedirle las cosas cada vez. Un sistema
 
 
 # Cómo llevar las redes sociales de tu empresa en 1 hora a la semana
-URL: https://heyfluo.es/blog/redes-sociales-empresa-1-hora-semana
+URL: https://www.heyfluo.es/blog/redes-sociales-empresa-1-hora-semana
 
 La excusa más común para tener las redes sociales abandonadas es “no tenemos tiempo”. Con un sistema de IA, una hora a la semana es suficiente. Así se reparte.
 
@@ -504,7 +504,7 @@ R: Alguien que conozca bien la empresa y sus productos, de administración, come
 
 
 # Formación en IA y redes sociales para empresas en Valencia
-URL: https://heyfluo.es/blog/formacion-ia-empresas-valencia
+URL: https://www.heyfluo.es/blog/formacion-ia-empresas-valencia
 
 Somos de Valencia y trabajamos con empresas de aquí: distribuidoras, fábricas, logística e industria de Paterna, Manises, Riba-roja, Quart de Poblet, Fuente del Jarro y toda la Comunidad Valenciana.
 
@@ -548,7 +548,7 @@ R: Sí, sobre todo con empresas industriales, distribuidoras y de logística de 
 
 
 # Redes sociales para empresas industriales, distribuidoras y logística
-URL: https://heyfluo.es/blog/redes-sociales-empresas-industriales
+URL: https://www.heyfluo.es/blog/redes-sociales-empresas-industriales
 
 Tu empresa factura, tiene nave, flota y años de historia. Pero si alguien la busca en Instagram, parece pequeña o cerrada. Eso tiene fácil solución.
 
