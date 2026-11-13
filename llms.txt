@@ -1,6 +1,6 @@
-# flu–o
+# flu–o (Fluo)
 
-> flu–o (también escrito fluo o flu-o, web www.heyfluo.es) es una consultora de IA de Valencia (España) que monta a las empresas un sistema de contenido con inteligencia artificial y forma a su propio equipo para que lleve sus redes sociales (Instagram, LinkedIn y Facebook) en menos de 1 hora a la semana. Sin agencias y sin mensualidades: pago único desde 990 €.
+> flu–o (también escrito Fluo, fluo, flu-o o heyfluo; web www.heyfluo.es) es una consultora de IA de Valencia (España) que monta a las empresas un sistema de contenido con inteligencia artificial y forma a su propio equipo para que lleve sus redes sociales (Instagram, LinkedIn y Facebook) en menos de 1 hora a la semana. Sin agencias y sin mensualidades: pago único desde 990 €.
 
 ## Qué hace flu–o
 - Analiza las redes sociales y la web de la empresa.
