@@ -43,3 +43,4 @@ footer{background:var(--black);color:#A9A9B2;font-size:15px}
 footer .in{max-width:1100px;margin:0 auto;padding:36px 20px;display:flex;flex-wrap:wrap;gap:14px 28px;justify-content:space-between}
 footer a{color:#fff;text-decoration:none}
 @media(max-width:600px){table{display:block;overflow-x:auto;white-space:nowrap}body{font-size:17px}.lead{font-size:19px}.wrap{padding-top:36px}.top a.cta{padding:9px 14px;font-size:14px}}
+.grp{margin-top:56px}.grp+.cards{margin-top:18px}
