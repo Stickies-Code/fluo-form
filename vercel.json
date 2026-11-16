@@ -1,31 +1,42 @@
 {
- "cleanUrls": true,
- "trailingSlash": false,
- "redirects": [
-  {
-   "source": "/blog/linkedin-para-empresas-b2b",
-   "destination": "/blog",
-   "permanent": true
-  },
-  {
-   "source": "/blog/linkedin-para-fabricantes",
-   "destination": "/blog",
-   "permanent": true
-  },
-  {
-   "source": "/blog/perfil-linkedin-director-general",
-   "destination": "/blog",
-   "permanent": true
-  },
-  {
-   "source": "/blog/que-publicar-en-linkedin-empresa-industrial",
-   "destination": "/blog",
-   "permanent": true
-  },
-  {
-   "source": "/blog/optimizar-pagina-empresa-linkedin",
-   "destination": "/blog",
-   "permanent": true
-  }
- ]
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/blog/linkedin-para-empresas-b2b",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/linkedin-para-fabricantes",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/perfil-linkedin-director-general",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/que-publicar-en-linkedin-empresa-industrial",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/optimizar-pagina-empresa-linkedin",
+      "destination": "/blog",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/assets/st/(.*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex"
+        }
+      ]
+    }
+  ]
 }
