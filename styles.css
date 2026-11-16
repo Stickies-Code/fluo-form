@@ -724,3 +724,4 @@ body{font-size:18.5px}
 @media (max-width:900px){.hero-cards{display:none}}
 .hero-grid{max-width:1320px;grid-template-columns:minmax(0,1fr) minmax(320px,410px);column-gap:clamp(56px,8vw,140px)}.hero-cards{max-width:410px}
 @media (max-width:900px){.hero-grid{grid-template-columns:1fr}}
+.plan-price b small{font-size:.38em;letter-spacing:-.01em;margin-left:4px;font-weight:600;opacity:.75}
