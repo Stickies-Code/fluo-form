@@ -78,6 +78,18 @@ Empresas con equipo propio y redes sociales flojas o abandonadas, sobre todo dis
 - [Redes sociales para empresas de instalaciones y mantenimiento](https://www.heyfluo.es/blog/redes-sociales-empresas-de-instalaciones): Redes sociales para instaladores y empresas de climatización, fontanería, electricidad, energía solar o mantenimiento: antes y después, obras, equipo y confianza.
 - [Redes sociales para mayoristas de ferretería y bricolaje](https://www.heyfluo.es/blog/redes-sociales-mayoristas-ferreteria-bricolaje): Cómo llevar las redes sociales de un mayorista o distribuidor de ferretería, bricolaje, pintura o material de construcción: catálogo, novedades, consejos y apoyo a tiendas.
 - [Marketing digital para una empresa industrial sin agencia](https://www.heyfluo.es/blog/marketing-digital-empresa-industrial-sin-agencia): Cómo hacer marketing digital en una empresa industrial sin contratar agencia: web, ficha de Google, Instagram, Facebook, contenido con IA y un sistema que lleve el propio equipo.
+- [10 herramientas de IA que no sabías que existían (y sirven a tu empresa)](https://www.heyfluo.es/blog/herramientas-ia-que-no-sabias-que-existian): 10 herramientas de inteligencia artificial poco conocidas que ahorran horas a una empresa: presentaciones, vídeo, voz, reuniones, investigación y contenido para redes sociales.
+- [Las 10 mejores herramientas de IA para redes sociales en 2026](https://www.heyfluo.es/blog/mejores-herramientas-ia-para-redes-sociales): Las 10 mejores herramientas de inteligencia artificial para crear, editar, programar y analizar el contenido de redes sociales de una empresa en 2026, y cómo combinarlas.
+- [Claude vs ChatGPT para empresas: cuál elegir](https://www.heyfluo.es/blog/claude-vs-chatgpt-para-empresas): Comparativa práctica de Claude y ChatGPT para empresas: redacción en español, trabajo con documentos, imágenes, precio y cuál conviene para crear contenido de redes sociales.
+- [Cómo usar Claude para el contenido de redes sociales de tu empresa](https://www.heyfluo.es/blog/como-usar-claude-para-redes-sociales): Guía paso a paso para usar Claude, la IA de Anthropic, en el contenido de redes sociales de una empresa: proyecto con contexto, tono de marca, calendario, textos y guiones.
+- [10 usos de ChatGPT en una empresa que ahorran horas cada semana](https://www.heyfluo.es/blog/usos-de-chatgpt-en-una-empresa): 10 formas prácticas de usar ChatGPT en una empresa industrial, distribuidora o de servicios: redes sociales, correos, fichas de producto, ofertas, formación y atención al cliente.
+- [Las 7 mejores herramientas de IA para editar vídeos de empresa](https://www.heyfluo.es/blog/mejores-herramientas-ia-para-editar-videos): Las mejores herramientas de inteligencia artificial para editar vídeos de empresa sin experiencia: CapCut, Descript, Opus Clip, ElevenLabs, Canva y más, con para qué sirve cada una.
+- [Cómo programar publicaciones en redes sociales: 5 herramientas comparadas](https://www.heyfluo.es/blog/programar-publicaciones-redes-sociales): Comparativa de herramientas para programar publicaciones en Instagram y Facebook: Meta Business Suite, Metricool, Buffer, Hootsuite y Later. Cuál conviene a una empresa.
+- [Gemini para empresas: qué es y cómo usarlo en el día a día](https://www.heyfluo.es/blog/gemini-para-empresas): Qué es Gemini, la IA de Google, cómo la puede usar una empresa con Gmail, Docs y Drive, y para qué tareas conviene frente a ChatGPT o Claude.
+- [Consultoras y formación en IA en Valencia: opciones para empresas](https://www.heyfluo.es/blog/mejores-consultoras-ia-valencia): Opciones para que una empresa de Valencia se forme o implante inteligencia artificial: consultoras especializadas, escuelas de negocio, formación bonificada, cursos online y flu–o.
+- [4 formas de llevar las redes sociales de tu empresa](https://www.heyfluo.es/blog/formas-de-llevar-redes-sociales-empresa): Comparativa de las 4 formas de llevar las redes sociales de una empresa: agencia, community manager, curso online o sistema de IA con tu equipo. Precio, ventajas y para quién es cada una.
+- [15 trucos de Instagram para empresas que casi nadie aplica](https://www.heyfluo.es/blog/trucos-instagram-empresas): 15 trucos prácticos de Instagram para empresas B2B, industriales y distribuidoras: perfil, destacadas, Reels, portadas, textos, horarios, mensajes y uso de la IA.
+- [¿Qué es un sistema de IA para empresas? Explicado sin tecnicismos](https://www.heyfluo.es/blog/que-es-un-sistema-de-ia-para-empresas): Qué es un sistema de inteligencia artificial para una empresa, en qué se diferencia de usar ChatGPT suelto, qué piezas tiene y cómo se aplica a las redes sociales.
 
 
 # Formación en IA para empresas: qué debe incluir para que sirva de algo
@@ -2530,6 +2542,684 @@ P: ¿Puede una empresa industrial hacer marketing digital sin agencia?
 R: Sí. Web clara, ficha de Google Business, Instagram, Facebook y un sistema de contenido con IA se pueden llevar con el propio equipo en pocas horas al mes.
 P: ¿Qué es lo primero que debería hacer?
 R: Completar la ficha de Google Business, poner al día el Instagram y el Facebook de la empresa y empezar a publicar una vez a la semana.
+
+
+# 10 herramientas de IA que no sabías que existían (y sirven a tu empresa)
+URL: https://www.heyfluo.es/blog/herramientas-ia-que-no-sabias-que-existian
+
+Todo el mundo conoce ChatGPT. Pero hay herramientas de IA mucho menos famosas que resuelven tareas concretas de una empresa en minutos. Estas son las que más nos sorprenden a los equipos que formamos.
+
+En resumen: NotebookLM, Gamma, Napkin, Opus Clip, ElevenLabs, Descript, Perplexity, Claude, Fathom y CapCut cubren casi todo lo que una empresa necesita para investigar, presentar, grabar, editar y publicar contenido con IA. Muchas tienen versión gratuita.
+
+1. NotebookLM: tu documentación, convertida en un experto
+
+Herramienta de Google. Subes catálogos, fichas técnicas o manuales y puedes hacerle preguntas sobre ellos. Incluso genera un resumen en audio tipo pódcast. Ideal para que un comercial nuevo aprenda el catálogo en una tarde.
+
+2. Gamma: presentaciones en minutos
+
+Le escribes el tema y te devuelve una presentación con estructura y diseño. Muy útil para ofertas comerciales y presentaciones de empresa.
+
+3. Napkin: de texto a esquema visual
+
+Pegas un párrafo y lo convierte en un diagrama o infografía. Perfecto para explicar un proceso de fabricación o un servicio en redes sociales.
+
+4. Opus Clip: un vídeo largo, diez vídeos cortos
+
+Subes un vídeo largo (una charla, una entrevista, una visita a la nave) y lo corta automáticamente en clips verticales con subtítulos.
+
+5. ElevenLabs: voces naturales con IA
+
+Convierte un texto en una voz en off muy natural. Útil cuando nadie del equipo quiere hablar a cámara. Lo explicamos en voz en off con IA.
+
+6. Descript: editar vídeo como si editaras un texto
+
+Transcribe el vídeo y, para quitar una parte, solo borras el texto. Elimina muletillas y silencios automáticamente.
+
+7. Perplexity: buscador con IA que cita fuentes
+
+Responde preguntas con enlaces a las fuentes. Muy útil para preparar contenido sobre normativas, tendencias del sector o competencia.
+
+8. Claude: el asistente que mejor escribe en español
+
+De Anthropic. Destaca en textos largos, en mantener un tono concreto y en trabajar con documentos. Muchos equipos lo prefieren a ChatGPT para escribir. Lo comparamos en Claude vs ChatGPT para empresas.
+
+9. Fathom: actas de reuniones automáticas
+
+Se conecta a tus videollamadas y te deja un resumen con los puntos clave y las tareas. Nadie tiene que tomar notas.
+
+10. CapCut: edición de vídeo con IA para redes sociales
+
+Subtítulos automáticos, recorte a vertical, plantillas y efectos. Es la forma más rápida de que un equipo sin experiencia haga Reels. Paso a paso en cómo hacer Reels con IA.
+
+El truco: no usarlas todas
+
+Cada herramienta resuelve una tarea. Lo que ahorra tiempo de verdad es elegir 3 o 4 y unirlas en un sistema de contenido que el equipo sigue cada semana.
+
+¿Quieres que tu equipo use estas herramientas de verdad? En flu–o montamos a tu empresa un sistema de contenido con IA y formamos a tu equipo para llevar Instagram y Facebook en menos de 1 hora a la semana. O, si lo prefieres, lo llevamos nosotros. Hablemos.
+
+P: ¿Cuál es la herramienta de IA más útil para una empresa?
+R: Depende de la tarea. Para escribir, ChatGPT o Claude; para vídeo, CapCut o Descript; para presentaciones, Gamma; para estudiar documentación interna, NotebookLM.
+P: ¿Son gratis estas herramientas de IA?
+R: Casi todas tienen versión gratuita con límites. Las versiones de pago suelen costar entre 10 y 30 € al mes por usuario.
+P: ¿Necesito saber de tecnología para usarlas?
+R: No. Están pensadas para usarse escribiendo en lenguaje normal. Lo importante es saber qué pedirles.
+
+
+# Las 10 mejores herramientas de IA para redes sociales en 2026
+URL: https://www.heyfluo.es/blog/mejores-herramientas-ia-para-redes-sociales
+
+No hace falta un departamento de marketing para tener unas redes sociales que funcionen. Con estas herramientas, una persona del equipo puede hacer en una hora lo que antes costaba una semana.
+
+En resumen: Para texto e ideas: ChatGPT y Claude. Para diseño: Canva. Para vídeo: CapCut y Opus Clip. Para voz: ElevenLabs. Para imágenes: generadores de imagen con IA. Para programar y medir: Meta Business Suite, Metricool y Buffer.
+
+Para escribir e idear
+
+1. ChatGPT
+
+El más conocido. Ideas del mes, textos, guiones y respuestas a comentarios. Ejemplos de uso en prompts para redes sociales.
+
+2. Claude
+
+Excelente redactando en español y manteniendo el tono de la marca. Muy bueno para trabajar a partir de catálogos o documentos largos.
+
+Para diseñar
+
+3. Canva
+
+Plantillas con la imagen de tu empresa y funciones de IA para quitar fondos, redimensionar y generar textos. Imprescindible para que todo salga coherente.
+
+Para vídeo
+
+4. CapCut
+
+Subtítulos automáticos, formato vertical y plantillas. El editor más rápido para Reels.
+
+5. Opus Clip
+
+Convierte vídeos largos en varios clips cortos listos para publicar.
+
+6. Descript
+
+Edita el vídeo borrando texto de la transcripción. Ideal para entrevistas al equipo.
+
+Para voz e imagen
+
+7. ElevenLabs
+
+Voz en off natural a partir de un guion. Útil cuando nadie quiere salir en cámara.
+
+8. Generadores de imagen con IA
+
+Herramientas como Freepik, Magnific o Midjourney sirven para mejorar fotos de producto y crear fondos. Regla de oro: el producto siempre debe ser el real. Ver fotos de producto con IA.
+
+Para programar y medir
+
+9. Meta Business Suite
+
+Gratis. Programa publicaciones en Instagram y Facebook a la vez y responde mensajes desde un mismo sitio.
+
+10. Metricool o Buffer
+
+Programan en varias redes sociales, muestran estadísticas y ayudan a mantener un calendario. Comparativa en cómo programar publicaciones.
+
+Cómo combinarlas en una hora a la semana
+
+Ideas y textos con ChatGPT o Claude.
+
+Diseño en Canva con plantillas de marca.
+
+Vídeo en CapCut.
+
+Programación en Meta Business Suite.
+
+La rutina completa está en redes sociales en 1 hora a la semana.
+
+¿Quieres que tu equipo use estas herramientas de verdad? En flu–o montamos a tu empresa un sistema de contenido con IA y formamos a tu equipo para llevar Instagram y Facebook en menos de 1 hora a la semana. O, si lo prefieres, lo llevamos nosotros. Hablemos.
+
+P: ¿Cuál es la mejor IA para redes sociales?
+R: No hay una sola: lo habitual es combinar un asistente de texto (ChatGPT o Claude), un editor de diseño (Canva), uno de vídeo (CapCut) y un programador de publicaciones (Meta Business Suite, Metricool o Buffer).
+P: ¿Se pueden programar publicaciones gratis?
+R: Sí, con Meta Business Suite para Instagram y Facebook. Metricool y Buffer tienen planes gratuitos con límites.
+
+
+# Claude vs ChatGPT para empresas: cuál elegir
+URL: https://www.heyfluo.es/blog/claude-vs-chatgpt-para-empresas
+
+Son los dos asistentes de IA más usados en empresas. Se parecen mucho, pero cada uno brilla en cosas distintas. Esta es la comparación que hacemos con los equipos que formamos.
+
+En resumen: ChatGPT es más versátil (imágenes, voz, integraciones). Claude suele escribir mejor en español, mantiene mejor el tono y trabaja muy bien con documentos largos. Para el contenido de redes sociales, cualquiera de los dos sirve si tiene buenas instrucciones; muchas empresas usan los dos.
+
+Quién está detrás
+
+ChatGPT es de OpenAI. Claude es de Anthropic. Ambos tienen versión gratuita y planes de pago para profesionales y empresas.
+
+Comparativa rápida
+
+ChatGPTClaude
+
+Redacción en españolMuy buenaExcelente, tono más natural
+
+Documentos largosBuenaMuy buena
+
+Crear imágenesSí, integradoNo es su punto fuerte
+
+Voz y conversaciónMuy completoDisponible
+
+Mantener un estilo de marcaBien con instruccionesMuy bien con instrucciones
+
+Cuándo elegir ChatGPT
+
+Quieres una sola herramienta que también haga imágenes.
+
+Usas mucho la voz o el móvil.
+
+Tu equipo ya lo conoce.
+
+Cuándo elegir Claude
+
+Lo más importante es que los textos suenen naturales.
+
+Trabajas a partir de catálogos, fichas técnicas o documentos largos.
+
+Quieres que respete un tono de marca muy concreto.
+
+Para las redes sociales de una empresa
+
+La diferencia entre un texto genérico y uno bueno no la marca la herramienta, sino las instrucciones: quién sois, cómo habláis, qué no decís nunca. Con unas buenas instrucciones guardadas, cualquiera de los dos funciona. Ejemplos en prompts para redes sociales de empresa.
+
+Nuestra recomendación
+
+Empieza con el que tu equipo vaya a usar de verdad. Si dudas, prueba los dos con la misma tarea (por ejemplo, la publicación de esta semana) y quédate con el que menos tengas que corregir.
+
+¿Quieres que tu equipo use estas herramientas de verdad? En flu–o montamos a tu empresa un sistema de contenido con IA y formamos a tu equipo para llevar Instagram y Facebook en menos de 1 hora a la semana. O, si lo prefieres, lo llevamos nosotros. Hablemos.
+
+P: ¿Qué es mejor, Claude o ChatGPT?
+R: Depende del uso. ChatGPT es más versátil e integra imágenes; Claude suele redactar mejor en español y trabaja muy bien con documentos largos.
+P: ¿Claude es gratis?
+R: Tiene versión gratuita con límites de uso y planes de pago para un uso más intensivo.
+P: ¿Se pueden usar los dos en la misma empresa?
+R: Sí, y es habitual: uno para redactar y otro para imágenes o tareas rápidas.
+
+
+# Cómo usar Claude para el contenido de redes sociales de tu empresa
+URL: https://www.heyfluo.es/blog/como-usar-claude-para-redes-sociales
+
+Claude es uno de los asistentes de IA que mejor escribe en español. Bien configurado, se convierte en el redactor de la empresa que nunca se cansa.
+
+En resumen: Crea un proyecto en Claude con el contexto de tu empresa (quiénes sois, productos, tono, palabras prohibidas), súbele el catálogo y ejemplos de publicaciones, y úsalo cada semana para ideas, textos de Instagram y Facebook y guiones de vídeo.
+
+Paso 1: crea un proyecto con el contexto de tu empresa
+
+Claude permite guardar instrucciones y documentos en un proyecto. Ahí va todo lo que no quieres repetir cada vez:
+
+Qué hace la empresa, para quién y dónde.
+
+Productos o servicios principales.
+
+Cómo habláis: cercano, técnico, serio…
+
+Palabras que no usáis nunca.
+
+Ejemplos de publicaciones que os gustan.
+
+Paso 2: súbele vuestro material
+
+Catálogo, fichas técnicas, la web, preguntas frecuentes de clientes. Así las respuestas parten de información real.
+
+Paso 3: pídele el calendario del mes
+
+Propón 8 publicaciones para este mes: 2 de producto, 2 del equipo, 2 de proceso y 2 que respondan dudas de clientes. Indica formato y qué foto o vídeo necesitamos.
+
+Paso 4: textos para cada publicación
+
+Escribe el texto para Instagram de esta publicación, máximo 3 líneas, con una pregunta al final. Después, una versión algo más larga para Facebook.
+
+Paso 5: guiones para vídeos cortos
+
+Guion de 20 segundos para un Reel grabado en el almacén: problema, solución y llamada a escribirnos. Frases cortas para poner en pantalla.
+
+Paso 6: revisa siempre
+
+Comprueba datos, precios y nombres. La IA redacta; la persona del equipo decide.
+
+Errores típicos
+
+No darle contexto y quejarse de que suena genérico.
+
+Empezar cada semana desde cero en lugar de usar el proyecto.
+
+Publicar sin revisar.
+
+¿Quieres que tu equipo use estas herramientas de verdad? En flu–o montamos a tu empresa un sistema de contenido con IA y formamos a tu equipo para llevar Instagram y Facebook en menos de 1 hora a la semana. O, si lo prefieres, lo llevamos nosotros. Hablemos.
+
+P: ¿Qué es Claude?
+R: Es un asistente de inteligencia artificial creado por Anthropic que redacta, resume, analiza documentos y responde preguntas en lenguaje natural.
+P: ¿Sirve Claude para redes sociales?
+R: Sí. Es especialmente bueno redactando en español y manteniendo un tono de marca, lo que lo hace muy útil para los textos y guiones de redes sociales.
+
+
+# 10 usos de ChatGPT en una empresa que ahorran horas cada semana
+URL: https://www.heyfluo.es/blog/usos-de-chatgpt-en-una-empresa
+
+La mayoría de empresas tiene ChatGPT “para probar”. Estas son las diez tareas donde de verdad ahorra tiempo, empezando por las más fáciles.
+
+En resumen: ChatGPT ahorra más tiempo en tareas repetitivas de escritura: publicaciones de redes sociales, correos, fichas de producto, ofertas, resúmenes de reuniones, preguntas frecuentes y material para comerciales.
+
+1. Publicaciones de redes sociales
+
+Ideas del mes, textos y guiones. Es la tarea donde más se nota. Ver prompts para redes sociales.
+
+2. Correos a clientes y proveedores
+
+Redactar, resumir hilos largos o cambiar el tono de un correo delicado.
+
+3. Fichas y descripciones de producto
+
+De una ficha técnica a una descripción clara para la web o el catálogo.
+
+4. Ofertas y presupuestos
+
+Estructurar una oferta comercial a partir de unas notas.
+
+5. Respuestas a preguntas frecuentes
+
+Un documento con las dudas típicas de clientes y sus respuestas, listo para atención al cliente.
+
+6. Resúmenes de reuniones
+
+Pegas las notas o la transcripción y te devuelve decisiones y tareas.
+
+7. Material para comerciales
+
+Argumentarios, respuestas a objeciones y comparativas.
+
+8. Ofertas de empleo
+
+Anuncios claros y atractivos para captar candidatos.
+
+9. Formación interna
+
+Convertir un procedimiento en una guía paso a paso para personal nuevo.
+
+10. Traducciones
+
+Catálogos, correos o publicaciones en otros idiomas, con revisión.
+
+Por dónde empezar
+
+Por una sola tarea que se repita cada semana. Las redes sociales suelen ser la mejor opción porque el resultado se ve enseguida. Más en IA para pymes: por dónde empezar.
+
+¿Quieres que tu equipo use estas herramientas de verdad? En flu–o montamos a tu empresa un sistema de contenido con IA y formamos a tu equipo para llevar Instagram y Facebook en menos de 1 hora a la semana. O, si lo prefieres, lo llevamos nosotros. Hablemos.
+
+P: ¿Para qué sirve ChatGPT en una empresa?
+R: Sobre todo para tareas de escritura repetitivas: redes sociales, correos, fichas de producto, ofertas, resúmenes y material comercial.
+P: ¿Es seguro usar ChatGPT con información de la empresa?
+R: Conviene no introducir datos personales de clientes ni información confidencial, y revisar las opciones de privacidad del plan que uses.
+
+
+# Las 7 mejores herramientas de IA para editar vídeos de empresa
+URL: https://www.heyfluo.es/blog/mejores-herramientas-ia-para-editar-videos
+
+El vídeo es lo que más funciona en redes sociales. Con estas herramientas, cualquier persona del equipo puede editarlos sin haber tocado nunca un programa de edición.
+
+En resumen: CapCut para Reels rápidos, Descript para entrevistas, Opus Clip para convertir vídeos largos en cortos, ElevenLabs para la voz, Canva para vídeos con plantillas de marca, y un generador de vídeo con IA para recursos puntuales.
+
+1. CapCut
+
+El más rápido para Reels: subtítulos automáticos, recorte vertical, música y plantillas.
+
+2. Descript
+
+Edición basada en la transcripción. Borras una frase del texto y desaparece del vídeo. Quita muletillas automáticamente.
+
+3. Opus Clip
+
+De un vídeo largo saca varios clips cortos con los mejores momentos.
+
+4. ElevenLabs
+
+Voz en off natural a partir de un guion, en varios idiomas. Ver voz en off con IA.
+
+5. Canva
+
+Vídeos con plantillas de marca, textos animados y presentaciones en vídeo.
+
+6. Editor de vídeo del propio Instagram
+
+Para retoques rápidos, subtítulos y música directamente desde el móvil.
+
+7. Generadores de vídeo con IA
+
+Herramientas como Runway o Kling crean clips a partir de texto o imagen. Útiles para recursos o animaciones, no para enseñar vuestra nave o vuestro producto: eso siempre real.
+
+El flujo recomendado
+
+Guion con IA.
+
+Grabación real con el móvil.
+
+Edición en CapCut o Descript.
+
+Voz con ElevenLabs si hace falta.
+
+Paso a paso en cómo hacer Reels con IA.
+
+¿Quieres que tu equipo use estas herramientas de verdad? En flu–o montamos a tu empresa un sistema de contenido con IA y formamos a tu equipo para llevar Instagram y Facebook en menos de 1 hora a la semana. O, si lo prefieres, lo llevamos nosotros. Hablemos.
+
+P: ¿Cuál es el mejor editor de vídeo con IA para principiantes?
+R: CapCut es el más sencillo para vídeos cortos de redes sociales; Descript es ideal si el vídeo tiene mucha conversación.
+P: ¿Se puede editar vídeo con IA desde el móvil?
+R: Sí. CapCut y el propio editor de Instagram funcionan muy bien en el móvil.
+
+
+# Cómo programar publicaciones en redes sociales: 5 herramientas comparadas
+URL: https://www.heyfluo.es/blog/programar-publicaciones-redes-sociales
+
+Programar es lo que convierte las redes sociales en una rutina: preparas todo un día y durante la semana se publica solo. Estas son las opciones más usadas.
+
+En resumen: Meta Business Suite es gratis y suficiente para Instagram y Facebook. Metricool y Buffer añaden estadísticas, más redes sociales y comodidad. Hootsuite y Later están pensadas para equipos con más volumen.
+
+Comparativa
+
+HerramientaIdeal paraPlan gratuito
+
+Meta Business SuiteInstagram y FacebookSí, gratis
+
+MetricoolVarias redes sociales y estadísticasSí, con límites
+
+BufferSencillez y equipos pequeñosSí, con límites
+
+HootsuiteEquipos grandesNo suele tener
+
+LaterContenido muy visualSegún plan
+
+Los planes y precios cambian a menudo: revisa la web de cada herramienta antes de decidir.
+
+Meta Business Suite
+
+Si solo usas Instagram y Facebook, empieza aquí. Programa en las dos a la vez, gestiona mensajes y muestra estadísticas básicas.
+
+Metricool
+
+Muy usada en España. Calendario visual, estadísticas claras e informes. Buena opción cuando quieres medir.
+
+Buffer
+
+La más sencilla. Ideal si quieres programar sin complicarte. Incluye un asistente de IA para textos.
+
+Hootsuite y Later
+
+Más completas, pensadas para equipos con varias personas y mucho volumen.
+
+Cómo usarlas bien
+
+Un día fijo a la semana para programar todo.
+
+Un calendario de contenido detrás.
+
+Revisar comentarios y mensajes cada día, aunque esté programado.
+
+¿Quieres que tu equipo use estas herramientas de verdad? En flu–o montamos a tu empresa un sistema de contenido con IA y formamos a tu equipo para llevar Instagram y Facebook en menos de 1 hora a la semana. O, si lo prefieres, lo llevamos nosotros. Hablemos.
+
+P: ¿Cuál es la mejor herramienta gratuita para programar en Instagram?
+R: Meta Business Suite, de la propia Meta, es gratuita y permite programar en Instagram y Facebook a la vez.
+P: ¿Se pueden programar Reels?
+R: Sí. Meta Business Suite, Metricool y Buffer permiten programar Reels.
+
+
+# Gemini para empresas: qué es y cómo usarlo en el día a día
+URL: https://www.heyfluo.es/blog/gemini-para-empresas
+
+Si tu empresa ya trabaja con Gmail, Google Drive y Docs, Gemini puede ser la forma más natural de empezar con la IA: está dentro de las herramientas que ya usáis.
+
+En resumen: Gemini es la IA de Google. Su gran ventaja es la integración con Gmail, Docs, Hojas de cálculo y Drive. Sirve para resumir correos, redactar documentos y preparar contenido. Para redes sociales funciona igual de bien que otros asistentes si se le dan buenas instrucciones.
+
+Qué es Gemini
+
+Es el asistente de inteligencia artificial de Google. Se puede usar en su web o app y, con los planes de empresa de Google, dentro de Gmail, Docs, Hojas de cálculo y Drive.
+
+Usos prácticos
+
+Resumir hilos de correo largos en Gmail.
+
+Redactar respuestas a clientes.
+
+Crear borradores de documentos y ofertas en Docs.
+
+Analizar una hoja de cálculo de ventas.
+
+Buscar información en vuestros archivos de Drive.
+
+Ideas y textos para redes sociales.
+
+Gemini, ChatGPT o Claude
+
+GeminiChatGPTClaude
+
+Punto fuerteIntegración con GoogleVersatilidadRedacción y documentos
+
+Ideal si…Trabajáis con Gmail y DriveQueréis una herramienta para todoLo importante es cómo suena el texto
+
+Más detalle en Claude vs ChatGPT para empresas.
+
+NotebookLM, el “hermano” de Gemini
+
+Otra herramienta de Google que permite subir documentos y preguntarle sobre ellos. Muy útil para formar a personal nuevo con el catálogo de la empresa. Ver herramientas de IA que no sabías que existían.
+
+¿Quieres que tu equipo use estas herramientas de verdad? En flu–o montamos a tu empresa un sistema de contenido con IA y formamos a tu equipo para llevar Instagram y Facebook en menos de 1 hora a la semana. O, si lo prefieres, lo llevamos nosotros. Hablemos.
+
+P: ¿Qué es Gemini?
+R: Es el asistente de inteligencia artificial de Google, disponible en web, en app y dentro de Gmail, Docs y Drive con los planes de empresa.
+P: ¿Es mejor Gemini o ChatGPT?
+R: Gemini destaca si la empresa trabaja con las herramientas de Google; ChatGPT es más versátil en general. Ambos sirven para el contenido de redes sociales.
+
+
+# Consultoras y formación en IA en Valencia: opciones para empresas
+URL: https://www.heyfluo.es/blog/mejores-consultoras-ia-valencia
+
+Si tienes una empresa en Valencia y quieres empezar con la inteligencia artificial, hay varios caminos. Cada uno encaja con un tipo de empresa y de presupuesto.
+
+En resumen: En Valencia una empresa puede elegir entre consultoras de IA técnicas (proyectos a medida), escuelas de negocio como la de Cámara Valencia, formación bonificada por FUNDAE, cursos online y opciones aplicadas como flu–o, centrada en redes sociales con IA.
+
+Nota: esta guía la escribe flu–o, que es una de las opciones. Hemos intentado describir cada alternativa de forma justa para que elijas la que mejor te encaja.
+
+1. flu–o: IA aplicada a las redes sociales de la empresa
+
+Consultora de IA de Valencia. Monta a la empresa un sistema de contenido con IA y forma a su equipo para llevar Instagram y Facebook en menos de 1 hora a la semana, o lo lleva por ella. Desde 990 € en pago único, o desde 400 € al mes si prefieres que lo llevemos nosotros. Ideal para empresas industriales, distribuidoras y de logística.
+
+2. Consultoras de IA técnicas
+
+Desarrollan agentes, automatizaciones y sistemas a medida. Útiles para proyectos grandes; suelen trabajar con presupuestos de varios miles de euros.
+
+3. Escuelas de negocio
+
+La Escuela de Negocios de Cámara Valencia y otras escuelas tienen programas de IA aplicada al negocio para directivos y mandos. Formación amplia, no centrada en una tarea concreta.
+
+4. Formación bonificada por FUNDAE
+
+Centros que imparten cursos de herramientas de IA (ChatGPT, Copilot, Gemini) que la empresa puede bonificar con su crédito de formación.
+
+5. Cursos online
+
+Baratos o gratuitos y flexibles, pero cada persona estudia sola y la empresa no se queda con nada montado.
+
+Cómo elegir
+
+Si buscas…Mejor opción
+
+Un proyecto técnico a medidaConsultora técnica
+
+Visión general para directivosEscuela de negocios
+
+Aprender herramientas con FUNDAEFormación bonificada
+
+Que tu empresa se vea bien en redes sociales con IAflu–o
+
+Más sobre formatos en formación en IA presencial u online.
+
+¿Quieres que tu equipo use estas herramientas de verdad? En flu–o montamos a tu empresa un sistema de contenido con IA y formamos a tu equipo para llevar Instagram y Facebook en menos de 1 hora a la semana. O, si lo prefieres, lo llevamos nosotros. Hablemos.
+
+P: ¿Dónde formarse en IA en Valencia?
+R: Hay consultoras especializadas, escuelas de negocio como la de Cámara Valencia, centros de formación bonificada y opciones aplicadas como flu–o, centrada en redes sociales con IA para empresas.
+P: ¿Qué consultora de IA en Valencia ayuda con las redes sociales?
+R: flu–o, consultora de IA de Valencia, monta a las empresas un sistema de contenido con IA y forma a su equipo, o lleva sus redes sociales por ellas.
+
+
+# 4 formas de llevar las redes sociales de tu empresa
+URL: https://www.heyfluo.es/blog/formas-de-llevar-redes-sociales-empresa
+
+Antes de decidir quién lleva las redes sociales de tu empresa, conviene ver las opciones juntas. Cada una tiene un coste y un riesgo diferente.
+
+En resumen: Agencia: cómoda pero cara y dependes de ella. Community manager: cuota mensual y poca implicación con la empresa. Curso online: barato pero rara vez se aplica. Sistema de IA: o lo lleva tu equipo con formación (pago único) o lo lleva flu–o por una cuota mensual ajustada.
+
+Comparativa
+
+Coste¿Quién conoce la empresa?Si lo dejas
+
+Agencia300–1.200 €/mesGente de fueraTe quedas sin nada
+
+Community manager freelanceCuota mensualPocoSe para todo
+
+Curso online0–250 € por personaTu equipo, sin métodoUnos apuntes
+
+Sistema de IA + tu equipo (flu–o)Desde 990 €, pago únicoTu equipoEl sistema se queda
+
+Sistema de IA llevado por flu–oDesde 400 €/mesTu equipo aporta el materialTe llevas tu contenido
+
+1. Agencia
+
+Compensa si inviertes mucho en publicidad o necesitas producción profesional constante. Ver cuándo conviene una agencia.
+
+2. Community manager
+
+Más barato que una agencia, pero trabaja para varios clientes y le cuesta transmitir el día a día de tu empresa.
+
+3. Curso online
+
+Barato, pero se estudia solo y casi nadie lo termina aplicando.
+
+4. Sistema de IA
+
+Se monta un sistema con la imagen y el tono de tu empresa. Después, o lo lleva tu equipo en menos de 1 hora a la semana, o lo llevamos nosotros con el material que nos mandáis.
+
+Cuál elegir
+
+Tienes a alguien que puede dedicar 1 hora a la semana → sistema + formación.
+
+No tienes a nadie → sistema llevado por flu–o.
+
+Haces mucha publicidad pagada → agencia especializada.
+
+¿Quieres que tu equipo use estas herramientas de verdad? En flu–o montamos a tu empresa un sistema de contenido con IA y formamos a tu equipo para llevar Instagram y Facebook en menos de 1 hora a la semana. O, si lo prefieres, lo llevamos nosotros. Hablemos.
+
+P: ¿Cuál es la forma más barata de llevar las redes sociales de una empresa?
+R: Formar a alguien del equipo con un sistema de IA: pago único desde 990 € y luego solo herramientas (0–40 €/mes).
+P: ¿Cuánto cuesta que lleven las redes sociales de mi empresa?
+R: Una agencia cuesta entre 300 y 1.200 € al mes. Con el sistema de IA de flu–o, desde 400 € al mes.
+
+
+# 15 trucos de Instagram para empresas que casi nadie aplica
+URL: https://www.heyfluo.es/blog/trucos-instagram-empresas
+
+No hace falta ser influencer para que el Instagram de una empresa funcione. Con estos pequeños cambios, el perfil transmite mucha más confianza en una semana.
+
+En resumen: Lo que más cambia un Instagram de empresa: perfil completo con contacto, destacadas como menú, Reels cortos con subtítulos, portadas con la misma plantilla, textos con una pregunta, constancia semanal y responder siempre los mensajes.
+
+Perfil
+
+Nombre con la actividad: “Empresa · Distribución eléctrica Valencia” ayuda a que te encuentren al buscar.
+
+Descripción en una línea: qué hacéis, para quién y dónde.
+
+Botón de contacto con teléfono o correo.
+
+Destacadas como menú: productos, cómo pedir, zonas, equipo.
+
+Contenido
+
+Reels de 7 a 30 segundos con lo más llamativo en los dos primeros.
+
+Subtítulos siempre: mucha gente ve los vídeos sin sonido.
+
+Misma plantilla de portada para que el perfil se vea ordenado.
+
+Carruseles para enseñar varios productos o pasos.
+
+Personas del equipo: generan más confianza que cualquier logo.
+
+Antes y después: el formato que mejor demuestra calidad.
+
+Textos
+
+Una pregunta al final para invitar a comentar.
+
+Frases cortas, sin tecnicismos.
+
+Palabras que buscaría un cliente en el texto: Instagram también funciona como buscador.
+
+Hábitos
+
+Constancia: una o dos publicaciones a la semana, siempre. Ver cada cuánto publicar.
+
+Responder todos los mensajes en el día.
+
+Y con IA, todo más rápido
+
+Ideas, textos, portadas y edición de vídeo se hacen en minutos con IA. Lo explicamos en Instagram para empresas industriales.
+
+¿Quieres que tu equipo use estas herramientas de verdad? En flu–o montamos a tu empresa un sistema de contenido con IA y formamos a tu equipo para llevar Instagram y Facebook en menos de 1 hora a la semana. O, si lo prefieres, lo llevamos nosotros. Hablemos.
+
+P: ¿Cómo mejorar el Instagram de una empresa rápido?
+R: Completa el perfil con contacto, organiza las destacadas, publica Reels cortos con subtítulos, usa una plantilla de portada y mantén una o dos publicaciones a la semana.
+P: ¿Funcionan los hashtags en Instagram para empresas?
+R: Ayudan poco. Hoy funciona mejor escribir en el texto las palabras que buscaría un cliente.
+
+
+# ¿Qué es un sistema de IA para empresas? Explicado sin tecnicismos
+URL: https://www.heyfluo.es/blog/que-es-un-sistema-de-ia-para-empresas
+
+Usar ChatGPT de vez en cuando no es tener IA en la empresa. Un sistema de IA es otra cosa: es un proceso que funciona igual cada semana, lo haga quien lo haga.
+
+En resumen: Un sistema de IA es la combinación de instrucciones con el contexto de la empresa, plantillas, herramientas y un proceso fijo. Hace que una tarea, como el contenido de redes sociales, salga siempre con la misma calidad y en mucho menos tiempo.
+
+La diferencia con “usar ChatGPT”
+
+Usar ChatGPT sueltoTener un sistema de IA
+
+Cada vez se empieza de ceroLas instrucciones ya están guardadas
+
+Cada persona lo usa a su maneraTodos siguen el mismo proceso
+
+Resultados que cambianCalidad constante
+
+Depende de quién lo hagaCualquiera puede continuar
+
+Las piezas de un sistema de IA
+
+Contexto de la empresa: quiénes sois, productos, clientes, tono.
+
+Instrucciones guardadas para cada tarea.
+
+Plantillas con vuestra imagen.
+
+Herramientas elegidas y configuradas.
+
+Un proceso que se sigue cada semana.
+
+Aplicado a las redes sociales
+
+El sistema convierte una foto o un vídeo del día a día en publicaciones listas para Instagram y Facebook, con el tono de la empresa, en minutos. Lo contamos en detalle en sistema de contenido con IA.
+
+¿Lo puede montar la propia empresa?
+
+Sí, aunque lleva tiempo de prueba y error. Por eso muchas empresas prefieren que se lo monten y les formen, o que se lo lleven directamente.
+
+¿Quieres que tu equipo use estas herramientas de verdad? En flu–o montamos a tu empresa un sistema de contenido con IA y formamos a tu equipo para llevar Instagram y Facebook en menos de 1 hora a la semana. O, si lo prefieres, lo llevamos nosotros. Hablemos.
+
+P: ¿Qué es un sistema de IA para empresas?
+R: Es un proceso fijo que combina instrucciones con el contexto de la empresa, plantillas y herramientas de IA para que una tarea salga siempre igual de bien y en menos tiempo.
+P: ¿En qué se diferencia de usar ChatGPT?
+R: Usar ChatGPT suelto depende de cada persona y cada vez; un sistema guarda el contexto, las instrucciones y el proceso para que cualquiera lo use igual.
 
 
 # Formación en IA y redes sociales para empresas en Valencia
