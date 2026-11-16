@@ -1,12 +1,12 @@
 # flu–o (Fluo)
 
-> flu–o (también escrito Fluo, fluo, flu-o o heyfluo; web www.heyfluo.es) es una consultora de IA de Valencia (España) que monta a las empresas un sistema de contenido con inteligencia artificial y forma a su propio equipo para que lleve sus redes sociales (Instagram, LinkedIn y Facebook) en menos de 1 hora a la semana. Sin agencias y sin mensualidades: pago único desde 990 €.
+> flu–o (también escrito Fluo, fluo, flu-o o heyfluo; web www.heyfluo.es) es una consultora de IA de Valencia (España) que monta a las empresas un sistema de contenido con inteligencia artificial y forma a su propio equipo para que lleve sus redes sociales (Instagram y Facebook) en menos de 1 hora a la semana. Sin agencias y sin mensualidades: pago único desde 990 €.
 
 ## Qué hace flu–o
 - Analiza las redes sociales y la web de la empresa.
 - Monta un sistema de contenido con IA con la imagen, el tono y los productos de la empresa (instrucciones para la IA, plantillas de marca, calendario y proceso).
-- Forma al equipo de la empresa en 4 semanas: 2 sesiones de 2,5 h a la semana (20 h en directo), online en grupo por videollamada o presencial en la empresa.
-- Incluye edición de vídeo con IA, el primer mes de contenido hecho, 8 guías en PDF, certificado y 3 meses de acompañamiento.
+- Forma al equipo de la empresa en una formación de 4 a 8 semanas, adaptada a su ritmo, online en grupo por videollamada o presencial en la empresa.
+- Incluye edición de vídeo con IA, el primer mes de contenido hecho, 8 guías en PDF y 3 meses de acompañamiento.
 - Después, el equipo publica solo en menos de 1 hora a la semana. Soporte mensual opcional y sin permanencia.
 
 ## Precio
@@ -40,14 +40,13 @@ Empresas con equipo propio y redes sociales flojas o abandonadas, sobre todo dis
 - [Instagram para empresas industriales y distribuidoras: guía práctica](https://www.heyfluo.es/blog/instagram-para-empresas-industriales): Qué publicar en Instagram si tu empresa es industrial, distribuidora o de logística. Ideas reales, frecuencia, errores típicos y cómo llevarlo con IA sin agencia.
 - [¿Cuánto cuesta llevar las redes sociales de una empresa?](https://www.heyfluo.es/blog/cuanto-cuesta-llevar-redes-sociales-empresa): Precios orientativos de agencia, community manager, freelance, cursos y formación con IA para llevar las redes sociales de una empresa. Cuánto pagas al año en cada caso.
 - [Cómo crear contenido para redes sociales con IA sin que parezca hecho por IA](https://www.heyfluo.es/blog/crear-contenido-con-ia-para-redes): Método paso a paso para que tu empresa cree publicaciones, carruseles y vídeos con inteligencia artificial que parezcan vuestros: tono, imagen de marca, fotos reales y revisión.
-- [LinkedIn para empresas B2B: qué publicar si vendes a otras empresas](https://www.heyfluo.es/blog/linkedin-para-empresas-b2b): Guía de LinkedIn para empresas B2B, industriales y distribuidoras: página de empresa vs perfil del gerente, qué publicar, frecuencia y cómo hacerlo con IA.
 - [Qué es un sistema de contenido con IA (y por qué tu empresa lo necesita)](https://www.heyfluo.es/blog/sistema-de-contenido-con-ia): Un sistema de contenido con IA es el conjunto de instrucciones, plantillas, calendario y proceso que permite a tu equipo crear publicaciones con la imagen de la empresa en minutos.
-- [Cómo llevar las redes sociales de tu empresa en 1 hora a la semana](https://www.heyfluo.es/blog/redes-sociales-empresa-1-hora-semana): Rutina semanal de 1 hora para que una persona del equipo lleve Instagram, LinkedIn y Facebook de la empresa con IA: qué hacer cada día y cómo programarlo.
+- [Cómo llevar las redes sociales de tu empresa en 1 hora a la semana](https://www.heyfluo.es/blog/redes-sociales-empresa-1-hora-semana): Rutina semanal de 1 hora para que una persona del equipo lleve Instagram y Facebook de la empresa con IA: qué hacer cada día y cómo programarlo.
 - [Formación en ChatGPT para empresas: qué aprender para usarlo de verdad](https://www.heyfluo.es/blog/formacion-chatgpt-para-empresas): Qué debería aprender tu equipo en una formación de ChatGPT para empresas, cómo aplicarlo a tareas reales como el contenido de redes sociales y qué errores evitar.
 - [Curso de inteligencia artificial para empleados: cómo elegir uno que se aplique](https://www.heyfluo.es/blog/curso-inteligencia-artificial-para-empleados): Cómo elegir un curso de inteligencia artificial para los empleados de tu empresa: formato, duración, contenido y cómo conseguir que el equipo lo siga usando después.
 - [IA para pymes: por dónde empezar sin perder tiempo ni dinero](https://www.heyfluo.es/blog/ia-para-pymes-por-donde-empezar): Guía para pymes que quieren empezar a usar inteligencia artificial: qué tareas elegir primero, cuánto cuesta, qué herramientas usar y cómo evitar los errores habituales.
 - [Formación en IA presencial u online: cuál conviene a tu empresa](https://www.heyfluo.es/blog/formacion-ia-presencial-u-online): Comparamos la formación en inteligencia artificial presencial en la empresa y la online en grupo: precio, resultados, para qué equipos funciona cada una y cómo decidir.
-- [Prompts para redes sociales de empresa: ejemplos que funcionan](https://www.heyfluo.es/blog/prompts-para-redes-sociales-empresa): Ejemplos de prompts para crear publicaciones de redes sociales de una empresa con IA: ideas del mes, textos de producto, guiones de vídeo y adaptación a Instagram y LinkedIn.
+- [Prompts para redes sociales de empresa: ejemplos que funcionan](https://www.heyfluo.es/blog/prompts-para-redes-sociales-empresa): Ejemplos de prompts para crear publicaciones de redes sociales de una empresa con IA: ideas del mes, textos de producto, guiones de vídeo y adaptación a Instagram y Facebook.
 - [IA para un departamento de marketing pequeño (o de una sola persona)](https://www.heyfluo.es/blog/ia-para-departamento-de-marketing-pequeno): Cómo puede un departamento de marketing de una o dos personas usar la inteligencia artificial para llevar redes sociales, contenido y catálogo sin agencia y sin horas extra.
 - [7 errores al implantar la IA en una empresa (y cómo evitarlos)](https://www.heyfluo.es/blog/errores-al-implantar-ia-en-una-empresa): Los errores más habituales al implantar inteligencia artificial en una empresa: empezar por la herramienta, formar sin objetivo, no medir, no revisar y abandonar demasiado pronto.
 - [IA generativa para empresas industriales: usos prácticos y realistas](https://www.heyfluo.es/blog/ia-generativa-para-empresas-industriales): Usos prácticos de la IA generativa en empresas industriales, fabricantes y distribuidoras: contenido de redes sociales, fichas de producto, material comercial, vídeos e imágenes.
@@ -56,7 +55,7 @@ Empresas con equipo propio y redes sociales flojas o abandonadas, sobre todo dis
 - [¿Necesita redes sociales una empresa B2B? Sí, y no para lo que crees](https://www.heyfluo.es/blog/por-que-una-empresa-b2b-necesita-redes-sociales): Por qué una empresa B2B, industrial o distribuidora necesita redes sociales aunque no venda por ellas: confianza, clientes que te buscan, proveedores, talento y comerciales.
 - [Qué publicar en las redes sociales de una empresa: 30 ideas](https://www.heyfluo.es/blog/que-publicar-en-redes-sociales-empresa): 30 ideas de publicaciones para las redes sociales de una empresa B2B, industrial o distribuidora: producto, equipo, proceso, clientes, preguntas frecuentes y día a día.
 - [Calendario de contenido para las redes sociales de una empresa](https://www.heyfluo.es/blog/calendario-de-contenido-redes-sociales-empresa): Cómo organizar un calendario de contenido para las redes sociales de una empresa: qué publicar cada semana, cuántas veces, en qué red social y cómo prepararlo todo en una hora.
-- [¿Cada cuánto debe publicar una empresa en redes sociales?](https://www.heyfluo.es/blog/cada-cuanto-publicar-en-redes-sociales-empresa): Frecuencia recomendada de publicación en Instagram, LinkedIn y Facebook para una empresa B2B o industrial, y por qué la constancia importa más que la cantidad.
+- [¿Cada cuánto debe publicar una empresa en redes sociales?](https://www.heyfluo.es/blog/cada-cuanto-publicar-en-redes-sociales-empresa): Frecuencia recomendada de publicación en Instagram y Facebook para una empresa B2B o industrial, y por qué la constancia importa más que la cantidad.
 - [Redes sociales de empresa abandonadas: cómo reactivarlas paso a paso](https://www.heyfluo.es/blog/redes-sociales-abandonadas-como-reactivarlas): Cómo reactivar las redes sociales de una empresa que lleva meses o años sin publicar: revisión del perfil, primeras publicaciones, ritmo realista y cómo evitar volver a abandonarlas.
 - [¿Cuándo conviene contratar una agencia de redes sociales?](https://www.heyfluo.es/blog/cuando-conviene-una-agencia-de-redes-sociales): Casos en los que sí compensa una agencia de redes sociales y casos en los que es mejor formar al equipo propio con IA. Comparativa honesta de costes, control y resultados.
 - [Community manager interno, externo o tu propio equipo con IA](https://www.heyfluo.es/blog/community-manager-interno-o-externo): Comparativa entre contratar un community manager, externalizarlo o formar a alguien del equipo con IA para llevar las redes sociales de la empresa: coste, ventajas y riesgos.
@@ -69,10 +68,6 @@ Empresas con equipo propio y redes sociales flojas o abandonadas, sobre todo dis
 - [Instagram para fabricantes: cómo enseñar lo que fabricas](https://www.heyfluo.es/blog/instagram-para-fabricantes): Guía de Instagram para empresas fabricantes: cómo mostrar procesos, maquinaria, calidad y equipo para generar confianza en clientes, distribuidores y candidatos.
 - [Instagram para empresas de logística y transporte](https://www.heyfluo.es/blog/instagram-para-empresas-de-logistica): Cómo usar Instagram en una empresa de logística, transporte o almacenaje: flota, almacén, conductores, rutas y servicio, para ganar confianza y atraer conductores.
 - [Cómo mostrar un catálogo de productos en Instagram sin aburrir](https://www.heyfluo.es/blog/catalogo-de-productos-en-instagram): Cómo enseñar un catálogo grande de productos en Instagram: carruseles, destacadas, producto en uso, agrupación por problema y conversión de fichas en publicaciones con IA.
-- [LinkedIn para fabricantes: cómo conseguir distribuidores y clientes](https://www.heyfluo.es/blog/linkedin-para-fabricantes): Cómo usar LinkedIn en una empresa fabricante para llegar a distribuidores, compradores y socios: perfil del director, página de empresa, contenido de proceso y contactos.
-- [Perfil de LinkedIn del director general: cómo optimizarlo y qué publicar](https://www.heyfluo.es/blog/perfil-linkedin-director-general): Cómo optimizar el perfil de LinkedIn de un director general o gerente de empresa B2B: foto, titular, extracto, experiencia y una rutina de publicación sencilla con IA.
-- [Qué publicar en LinkedIn si eres una empresa industrial: 15 ideas](https://www.heyfluo.es/blog/que-publicar-en-linkedin-empresa-industrial): 15 ideas de publicaciones para el LinkedIn de una empresa industrial, fabricante, distribuidora o de logística, con ejemplos y cómo prepararlas rápido con IA.
-- [Cómo optimizar la página de empresa en LinkedIn](https://www.heyfluo.es/blog/optimizar-pagina-empresa-linkedin): Checklist para optimizar la página de empresa en LinkedIn: logo, portada, descripción con palabras clave, datos de contacto, botón, empleados vinculados y publicación constante.
 - [Vídeo con IA para empresas: qué se puede hacer hoy (y qué no)](https://www.heyfluo.es/blog/video-con-ia-para-empresas): Qué puede hacer una empresa con vídeo e inteligencia artificial: edición automática, subtítulos, voz en off, guiones y vídeos de producto. Usos reales, límites y costes.
 - [Edición de vídeo con IA para redes sociales: guía para principiantes](https://www.heyfluo.es/blog/edicion-de-video-con-ia-para-redes-sociales): Guía para editar vídeos para redes sociales con inteligencia artificial sin experiencia: cortes automáticos, subtítulos, música, plantillas de marca y exportación vertical.
 - [Fotos de producto con IA: cómo mejorarlas sin estudio fotográfico](https://www.heyfluo.es/blog/fotos-de-producto-con-ia): Cómo usar la inteligencia artificial para mejorar fotos de producto hechas con el móvil: fondos, luz, contexto y formatos para redes sociales y catálogo, sin inventar el producto.
@@ -82,7 +77,7 @@ Empresas con equipo propio y redes sociales flojas o abandonadas, sobre todo dis
 - [Redes sociales para empresas del polígono Fuente del Jarro](https://www.heyfluo.es/blog/redes-sociales-empresas-fuente-del-jarro): Sistema de contenido con IA y formación para que las empresas del polígono Fuente del Jarro (Paterna) lleven sus redes sociales con su propio equipo, sin agencia.
 - [Redes sociales para empresas de instalaciones y mantenimiento](https://www.heyfluo.es/blog/redes-sociales-empresas-de-instalaciones): Redes sociales para instaladores y empresas de climatización, fontanería, electricidad, energía solar o mantenimiento: antes y después, obras, equipo y confianza.
 - [Redes sociales para mayoristas de ferretería y bricolaje](https://www.heyfluo.es/blog/redes-sociales-mayoristas-ferreteria-bricolaje): Cómo llevar las redes sociales de un mayorista o distribuidor de ferretería, bricolaje, pintura o material de construcción: catálogo, novedades, consejos y apoyo a tiendas.
-- [Marketing digital para una empresa industrial sin agencia](https://www.heyfluo.es/blog/marketing-digital-empresa-industrial-sin-agencia): Cómo hacer marketing digital en una empresa industrial sin contratar agencia: web, ficha de Google, LinkedIn, Instagram, contenido con IA y un sistema que lleve el propio equipo.
+- [Marketing digital para una empresa industrial sin agencia](https://www.heyfluo.es/blog/marketing-digital-empresa-industrial-sin-agencia): Cómo hacer marketing digital en una empresa industrial sin contratar agencia: web, ficha de Google, Instagram, Facebook, contenido con IA y un sistema que lleve el propio equipo.
 
 
 # Formación en IA para empresas: qué debe incluir para que sirva de algo
@@ -106,7 +101,7 @@ Los ejemplos genéricos no sirven. Si tu empresa vende maquinaria, distribuye ma
 
 2. Un objetivo concreto
 
-“Aprender IA” no es un objetivo. “Que nuestro equipo publique en Instagram y LinkedIn cada semana sin depender de una agencia” sí lo es. Cuanto más concreto, más fácil es medir si ha funcionado.
+“Aprender IA” no es un objetivo. “Que nuestro equipo publique en Instagram y Facebook cada semana sin depender de una agencia” sí lo es. Cuanto más concreto, más fácil es medir si ha funcionado.
 
 3. Un sistema que se quede montado
 
@@ -122,7 +117,7 @@ Las primeras semanas después de la formación son las que deciden si el equipo 
 
 ¿Cuánto debería durar?
 
-Depende del objetivo, pero para algo aplicado como el contenido de redes sociales, unas 4 semanas con dos sesiones a la semana suele ser suficiente para que el equipo pase de no saber nada a publicar solo. Menos tiempo se queda corto para crear el hábito; mucho más tiempo hace que la gente se desconecte.
+Depende del objetivo, pero para algo aplicado como el contenido de redes sociales, entre 4 y 8 semanas, al ritmo del equipo, suele ser suficiente para que el equipo pase de no saber nada a publicar solo. Menos tiempo se queda corto para crear el hábito; mucho más tiempo hace que la gente se desconecte.
 
 ¿Quién de tu equipo debería hacerla?
 
@@ -138,13 +133,13 @@ Cómo saber si ha funcionado
 
 Si la respuesta a la primera pregunta es no, la formación no ha servido, por muy buena que fuera la teoría.
 
-Cómo lo hacemos en flu–o: analizamos las redes sociales de tu empresa, te montamos un sistema de contenido con IA con tu imagen, tono y productos, y formamos a tu equipo en 4 semanas (2 sesiones de 2,5 h a la semana), online o en vuestras oficinas. Después os acompañamos 3 meses. Desde 990 €, pago único.
+Cómo lo hacemos en flu–o: analizamos las redes sociales de tu empresa, te montamos un sistema de contenido con IA con tu imagen, tono y productos, y formamos a tu equipo en una formación de 4 a 8 semanas, a vuestro ritmo, online o en vuestras oficinas. Después os acompañamos 3 meses. Desde 990 €, pago único.
 
 
 P: ¿Qué es una formación en IA para empresas?
 R: Es una formación pensada para que el equipo de una empresa aprenda a usar herramientas de inteligencia artificial en su trabajo diario, con su propio contenido y un objetivo concreto, como crear publicaciones para redes sociales o vídeos.
 P: ¿Cuánto dura una formación en IA aplicada a redes sociales?
-R: Para que el equipo publique solo, unas 4 semanas con dos sesiones semanales suele ser suficiente, siempre que se trabaje con el contenido real de la empresa y haya acompañamiento después.
+R: Para que el equipo publique solo, entre 4 y 8 semanas, al ritmo del equipo, suele ser suficiente, siempre que se trabaje con el contenido real de la empresa y haya acompañamiento después.
 P: ¿Hace falta saber de tecnología?
 R: No. Un buen sistema está pensado para que cualquier persona del equipo pueda usarlo paso a paso, sin conocimientos técnicos previos.
 
@@ -168,7 +163,7 @@ Opción 2: un curso online de redes sociales
 
 A favor: es barato, entre 200 € y 1.200 € por persona según el curso.
 
-En contra: la persona estudia sola, entre 20 y 30 horas, con ejemplos que no son de su empresa. Cuando termina, le queda un certificado, pero muchas veces no un hábito ni un método.
+En contra: la persona estudia sola, entre 20 y 30 horas, con ejemplos que no son de su empresa. Cuando termina, le quedan unos apuntes, pero muchas veces no un hábito ni un método.
 
 Cuándo encaja: si en tu equipo ya hay alguien motivado, con tiempo y con cierta base.
 
@@ -190,7 +185,7 @@ Quién publicaGente de fueraTu equipo, si lo aplicaTu equipo, con el sistema mon
 
 AcompañamientoLo hacen por tiNingunoEn directo y después
 
-Si dejas de pagarTe quedas sin nadaTe queda un certificadoTe queda el sistema
+Si dejas de pagarTe quedas sin nadaTe quedan unos apuntesTe queda el sistema
 
 Qué preguntar antes de elegir
 
@@ -202,7 +197,7 @@ Qué preguntar antes de elegir
 
 ¿Mi equipo tiene unas horas durante un mes para aprender?
 
-En flu–o hacemos la tercera opción: te montamos el sistema de IA con la imagen de tu empresa y formamos a tu equipo en 4 semanas, online o presencial. Desde 990 €, pago único, con 3 meses de acompañamiento.
+En flu–o hacemos la tercera opción: te montamos el sistema de IA con la imagen de tu empresa y formamos a tu equipo en 4 a 8 semanas, online o presencial. Desde 990 €, pago único, con 3 meses de acompañamiento.
 
 
 P: ¿Es mejor una agencia de redes sociales o formar al equipo?
@@ -264,7 +259,7 @@ Copiar lo que hacen marcas de consumo: bailes y tendencias que no tienen nada qu
 
 Cómo llevarlo sin agencia y sin perder horas
 
-La clave es un sistema de contenido con IA: la IA ya conoce los colores, el tono y los productos de tu empresa, y tu equipo solo tiene que elegir qué contar y revisar. Así, una persona del equipo puede llevar Instagram, LinkedIn y Facebook en menos de 1 hora a la semana.
+La clave es un sistema de contenido con IA: la IA ya conoce los colores, el tono y los productos de tu empresa, y tu equipo solo tiene que elegir qué contar y revisar. Así, una persona del equipo puede llevar Instagram y Facebook en menos de 1 hora a la semana.
 
 Caso real: Hidrogest, empresa de tratamiento de agua, riego y piscina con más de 20 años de experiencia, no publicaba en Instagram desde hacía 2 años y tenía 83 seguidores. Le montamos un sistema de IA con su imagen y formamos a su equipo. Hoy publican cada semana y Laura, de su equipo de marketing, lleva las redes con IA en 1 hora a la semana.
 
@@ -314,7 +309,7 @@ AgenciaCuota cada mesNada, si dejas de pagar
 
 FreelanceCuota cada mesDepende de esa persona
 
-CursoPago único por personaUn certificado
+CursoPago único por personaUnos apuntes
 
 Formación + sistema de IAPago únicoEl sistema, para siempre
 
@@ -324,13 +319,13 @@ Diagnóstico de las redes sociales de tu empresa.
 
 Tu sistema de contenido con IA, con tu imagen, tono y productos.
 
-20 h de formación en directo en 4 semanas (online en grupo o presencial).
+Formación en directo de 4 a 8 semanas, a vuestro ritmo (online en grupo o presencial).
 
 Edición de vídeo con IA.
 
 Tu primer mes de contenido hecho.
 
-8 guías de trabajo en PDF y certificado.
+8 guías de trabajo en PDF.
 
 3 meses de acompañamiento.
 
@@ -395,52 +390,6 @@ P: ¿Qué herramientas de IA se usan para crear contenido?
 R: Asistentes de texto para los textos, herramientas de diseño con IA para las imágenes y editores de vídeo con IA para subtítulos y montaje. Lo importante no es la herramienta, sino el sistema de trabajo.
 
 
-# LinkedIn para empresas B2B: qué publicar si vendes a otras empresas
-URL: https://www.heyfluo.es/blog/linkedin-para-empresas-b2b
-
-Si tus clientes son otras empresas, LinkedIn es donde están sus gerentes, compradores y responsables. Y muchas empresas B2B o no tienen página, o la tienen abandonada.
-
-En resumen: En B2B, LinkedIn funciona mejor combinando la página de empresa con el perfil del gerente. Publica producto, proyectos, equipo y opinión del sector, 1 o 2 veces por semana. Con IA, el mismo contenido de Instagram se adapta a LinkedIn en minutos.
-
-Página de empresa o perfil del gerente
-
-Las dos cosas. La página de empresa da seriedad: cuando alguien te busca, ve que existís y que estáis activos. El perfil del gerente o director llega a más gente, porque LinkedIn muestra más las publicaciones de personas que las de empresas.
-
-Qué publicar en LinkedIn si eres B2B
-
-Proyectos y clientes: un pedido importante, una instalación terminada, una entrega complicada que salió bien.
-
-Producto: novedades del catálogo explicadas para profesionales, sin rodeos.
-
-Equipo: incorporaciones, aniversarios, formación.
-
-Empresa: ampliaciones de nave, nuevas rutas, certificaciones.
-
-Opinión del sector: qué está cambiando en vuestro mercado, contado por el gerente.
-
-Frecuencia
-
-Una o dos publicaciones a la semana en la página de empresa y, si el gerente se anima, una a la semana en su perfil. Constancia antes que cantidad.
-
-Errores típicos en LinkedIn B2B
-
-Usarlo solo para ofertas de empleo.
-
-Publicar textos larguísimos y genéricos.
-
-Copiar y pegar lo de Instagram sin adaptarlo al tono profesional.
-
-Cómo hacerlo con IA
-
-Con un sistema de contenido con IA, una sola foto o idea se convierte en la publicación de Instagram, la de LinkedIn y la de Facebook, cada una con su tono. Así una persona del equipo lleva las tres redes sociales en menos de 1 hora a la semana.
-
-
-P: ¿Sirve LinkedIn para empresas industriales?
-R: Sí. Es la red social donde están los gerentes, compradores y responsables de otras empresas, y ayuda a que la empresa se vea seria y activa cuando la buscan.
-P: ¿Qué es mejor en LinkedIn, la página de empresa o el perfil personal?
-R: Lo ideal es combinar las dos: la página da seriedad y el perfil del gerente llega a más gente.
-
-
 # Qué es un sistema de contenido con IA (y por qué tu empresa lo necesita)
 URL: https://www.heyfluo.es/blog/sistema-de-contenido-con-ia
 
@@ -498,7 +447,7 @@ URL: https://www.heyfluo.es/blog/redes-sociales-empresa-1-hora-semana
 
 La excusa más común para tener las redes sociales abandonadas es “no tenemos tiempo”. Con un sistema de IA, una hora a la semana es suficiente. Así se reparte.
 
-En resumen: 15 minutos para elegir fotos y temas, 25 minutos para generar textos y diseños con el sistema de IA, 10 minutos para revisar y 10 para programar todo en Instagram, LinkedIn y Facebook.
+En resumen: 15 minutos para elegir fotos y temas, 25 minutos para generar textos y diseños con el sistema de IA, 10 minutos para revisar y 10 para programar todo en Instagram y Facebook.
 
 La rutina de 1 hora
 
@@ -566,7 +515,7 @@ Las instrucciones buenas se escriben una vez y se reutilizan siempre. Es la base
 
 3. Pedir por pasos
 
-Primero ideas, luego elegir una, luego el texto, luego la versión corta para Instagram y la larga para LinkedIn. Pedirlo todo de golpe suele dar peores resultados.
+Primero ideas, luego elegir una, luego el texto, luego la versión para Instagram y la versión para Facebook. Pedirlo todo de golpe suele dar peores resultados.
 
 4. Revisar siempre
 
@@ -580,7 +529,7 @@ Ideas de publicaciones para todo el mes.
 
 Guiones cortos para vídeos.
 
-Adaptar un mismo contenido a Instagram, LinkedIn y Facebook.
+Adaptar un mismo contenido a Instagram y Facebook.
 
 Respuestas a preguntas frecuentes de clientes.
 
@@ -634,11 +583,11 @@ Una tarea concreta: el mejor punto de partida
 
 Las redes sociales de la empresa son una de las tareas donde más se nota la IA: es trabajo repetitivo, creativo y visible. Un equipo bien formado puede pasar de no publicar nada a publicar cada semana en menos de una hora.
 
-La formación de flu–o dura 4 semanas, con 2 sesiones en directo de 2,5 h a la semana, online o en vuestras oficinas, y 3 meses de acompañamiento. Se hace con el contenido de tu empresa y termina con el sistema funcionando.
+La formación de flu–o dura de 4 a 8 semanas, en directo y al ritmo de tu equipo, online o en vuestras oficinas, y 3 meses de acompañamiento. Se hace con el contenido de tu empresa y termina con el sistema funcionando.
 
 
 P: ¿Cuántas horas debe tener un curso de IA para empleados?
-R: Depende del objetivo. Para que el equipo aplique la IA a una tarea concreta, unas 20 horas en directo repartidas en 4 semanas suelen ser suficientes.
+R: Depende del objetivo. Para que el equipo aplique la IA a una tarea concreta, entre 4 y 8 semanas de formación en directo suelen ser suficientes.
 P: ¿Online o presencial?
 R: Las dos funcionan si son en directo. El presencial ayuda cuando el equipo es menos digital; el online en grupo es más económico.
 P: ¿Hace falta que los empleados sepan de tecnología?
@@ -742,7 +691,7 @@ Lo que importa más que el formato
 
 Que sea en directo, que se trabaje con el contenido real de la empresa y que haya acompañamiento después. Una formación presencial genérica rinde menos que una online hecha a medida.
 
-En flu–o ofrecemos los dos formatos: online en grupo por videollamada desde 990 €, o presencial en tu empresa (Valencia y alrededores) con precio a medida. En ambos casos, 4 semanas, 20 horas en directo y 3 meses de acompañamiento.
+En flu–o ofrecemos los dos formatos: online en grupo por videollamada desde 990 €, o presencial en tu empresa (Valencia y alrededores) con precio a medida. En ambos casos, de 4 a 8 semanas de formación en directo y 3 meses de acompañamiento.
 
 
 P: ¿Es igual de efectiva la formación en IA online que la presencial?
@@ -784,9 +733,9 @@ Ejemplo 3: guion de vídeo corto
 
 Escribe un guion de 20 segundos para un vídeo grabado en nuestro almacén. Tres planos: problema del cliente, cómo lo resolvemos, llamada a la acción. Frases cortas que se puedan leer en pantalla.
 
-Ejemplo 4: adaptar a LinkedIn
+Ejemplo 4: adaptar a Facebook
 
-Convierte esta publicación de Instagram en una de LinkedIn escrita por nuestro director general, en primera persona, de unas 120 palabras, con un aprendizaje concreto para otras empresas del sector.
+Convierte esta publicación de Instagram en una para Facebook, algo más larga y explicativa, pensada para profesionales del sector que nos siguen desde hace años.
 
 Consejos para que salgan mejor
 
@@ -856,7 +805,7 @@ flu–o trabaja a menudo con equipos de marketing de una o dos personas: les mon
 
 
 P: ¿Puede una sola persona llevar las redes sociales de una empresa con IA?
-R: Sí. Con un sistema montado (instrucciones, plantillas y calendario) una persona puede publicar cada semana en Instagram, LinkedIn y Facebook en menos de una hora.
+R: Sí. Con un sistema montado (instrucciones, plantillas y calendario) una persona puede publicar cada semana en Instagram y Facebook en menos de una hora.
 P: ¿Qué herramientas de IA necesita un marketing pequeño?
 R: Un asistente de texto como ChatGPT o Claude, un editor con plantillas de marca y una herramienta de edición de vídeo con IA. No hace falta más para empezar.
 
@@ -906,13 +855,13 @@ Forma a la persona responsable con su propio contenido.
 
 Acompáñala durante los primeros meses.
 
-Es exactamente lo que hace flu–o con las redes sociales: sistema montado, equipo formado en 4 semanas y 3 meses de acompañamiento. Desde 990 €, pago único.
+Es exactamente lo que hace flu–o con las redes sociales: sistema montado, equipo formado en 4 a 8 semanas y 3 meses de acompañamiento. Desde 990 €, pago único.
 
 
 P: ¿Por qué fracasa la implantación de IA en las empresas?
 R: Sobre todo por falta de un objetivo concreto, de una persona responsable y de un sistema que se pueda repetir. La tecnología casi nunca es el problema.
 P: ¿Cuánto se tarda en implantar IA en una tarea?
-R: Para una tarea como las redes sociales, unas 4 semanas de formación aplicada y 2 o 3 meses hasta que se convierte en rutina.
+R: Para una tarea como las redes sociales, entre 4 y 8 semanas de formación aplicada y 2 o 3 meses hasta que se convierte en rutina.
 
 
 # IA generativa para empresas industriales: usos prácticos y realistas
@@ -930,7 +879,7 @@ Usos que una empresa industrial puede aplicar ya
 
 Redes sociales
 
-Convertir lo que pasa en la fábrica o el almacén en publicaciones para Instagram, LinkedIn y Facebook. Es el uso más rápido de implantar. Lo explicamos en Instagram para empresas industriales.
+Convertir lo que pasa en la fábrica o el almacén en publicaciones para Instagram y Facebook. Es el uso más rápido de implantar. Lo explicamos en Instagram para empresas industriales.
 
 Vídeos cortos
 
@@ -1000,7 +949,7 @@ Seguidores y alcance (crecen, pero no son lo principal en B2B).
 
 Mensajes o contactos que llegan por redes sociales.
 
-Comentarios de clientes y proveedores: “os he visto en LinkedIn”.
+Comentarios de clientes y proveedores: “os he visto en Instagram”.
 
 Uso del contenido por los comerciales.
 
@@ -1086,7 +1035,7 @@ En resumen: En B2B las redes sociales no sirven para vender directamente, sino p
 
 Lo que pasa antes de que un cliente te llame
 
-Un posible cliente recibe tu presupuesto o se cruza con tu nombre. Antes de decidir, mira tu web, tu LinkedIn y tu Instagram. Si la última publicación es de hace dos años, la pregunta inmediata es: ¿siguen funcionando?
+Un posible cliente recibe tu presupuesto o se cruza con tu nombre. Antes de decidir, mira tu web, tu Instagram y tu Facebook. Si la última publicación es de hace dos años, la pregunta inmediata es: ¿siguen funcionando?
 
 Para qué sirven de verdad en B2B
 
@@ -1112,8 +1061,6 @@ Los perfiles activos en redes sociales ayudan a que Google y asistentes como Cha
 
 Qué redes sociales elegir
 
-LinkedIn: imprescindible en B2B, sobre todo el perfil del director o gerente.
-
 Instagram: la mejor vitrina visual de lo que hacéis.
 
 Facebook: sigue siendo útil en sectores tradicionales y para publicar lo mismo sin esfuerzo extra.
@@ -1128,7 +1075,7 @@ flu–o ayuda a empresas B2B a pasar de unas redes sociales paradas a publicar c
 P: ¿Sirven las redes sociales para una empresa que vende a otras empresas?
 R: Sí. No tanto para vender directamente como para generar confianza cuando clientes, proveedores o candidatos buscan la empresa.
 P: ¿Qué red social es mejor para una empresa B2B?
-R: LinkedIn es la principal, sobre todo el perfil del director. Instagram funciona muy bien como escaparate visual, y Facebook sigue siendo útil en sectores tradicionales.
+R: Instagram funciona muy bien como escaparate visual, y Facebook sigue siendo útil en sectores tradicionales. Con las dos se cubre casi todo.
 P: ¿Cada cuánto debe publicar una empresa B2B?
 R: Con una o dos publicaciones a la semana es suficiente si se mantiene en el tiempo.
 
@@ -1212,7 +1159,7 @@ La historia de la empresa en 30 segundos.
 
 Cómo convertir estas ideas en publicaciones rápido
 
-Graba o fotografía con el móvil, pásalo a la IA con el contexto de tu empresa y te devuelve el texto adaptado a Instagram, LinkedIn y Facebook. Lo explicamos en cómo crear contenido con IA para redes sociales.
+Graba o fotografía con el móvil, pásalo a la IA con el contexto de tu empresa y te devuelve el texto adaptado a Instagram y Facebook. Lo explicamos en cómo crear contenido con IA para redes sociales.
 
 flu–o deja preparado en tu empresa un calendario con ideas como estas adaptadas a tu sector, y forma a tu equipo para convertirlas en publicaciones con IA cada semana.
 
@@ -1260,8 +1207,6 @@ Qué red social y cuándo
 
 Instagram: vídeo corto o carrusel.
 
-LinkedIn: la misma idea con un texto algo más largo, mejor desde el perfil del director.
-
 Facebook: se puede publicar lo mismo que en Instagram a la vez.
 
 Programar las publicaciones
@@ -1286,17 +1231,13 @@ URL: https://www.heyfluo.es/blog/cada-cuanto-publicar-en-redes-sociales-empresa
 
 La respuesta corta: menos de lo que piensas, pero siempre. Para una empresa B2B, la constancia vale mucho más que publicar a diario durante un mes y desaparecer.
 
-En resumen: Para una empresa B2B o industrial, una o dos publicaciones a la semana en Instagram y LinkedIn son suficientes. Lo que de verdad importa es mantener ese ritmo durante meses.
+En resumen: Para una empresa B2B o industrial, una o dos publicaciones a la semana en Instagram y Facebook son suficientes. Lo que de verdad importa es mantener ese ritmo durante meses.
 
 Frecuencia recomendada por red social
 
 Red socialMínimoIdeal
 
 Instagram1 a la semana2–3 a la semana
-
-LinkedIn (empresa)1 a la semana2 a la semana
-
-LinkedIn (director)1 a la semana2 a la semana
 
 FacebookLo mismo que InstagramLo mismo que Instagram
 
@@ -1350,7 +1291,7 @@ Descripción: qué hacéis, para quién y dónde, en una línea.
 
 Enlace a la web y teléfono o email de contacto.
 
-En LinkedIn: portada, descripción y sector actualizados.
+En Facebook: portada, horario y datos de contacto actualizados.
 
 Paso 2: decidir qué hacer con lo antiguo
 
@@ -1382,7 +1323,7 @@ Un caso real
 
 Hidrogest, empresa de tratamiento de agua con más de 20 años, llevaba 2 años sin publicar y tenía 83 seguidores. Hoy su equipo de marketing publica cada semana con IA en una hora.
 
-flu–o reactiva las redes sociales de tu empresa con tu propio equipo: sistema montado, formación de 4 semanas y 3 meses de acompañamiento.
+flu–o reactiva las redes sociales de tu empresa con tu propio equipo: sistema montado, formación de 4 a 8 semanas y 3 meses de acompañamiento.
 
 
 P: ¿Es mejor abrir una cuenta nueva o reactivar la antigua?
@@ -1540,7 +1481,7 @@ Mismo logo y descripción que en el resto de redes sociales.
 
 La publicidad en Facebook e Instagram se gestiona desde el mismo sitio. Para empresas B2B puede servir para llegar a profesionales de una zona concreta, pero no es imprescindible para empezar.
 
-flu–o deja configurado en tu empresa el flujo para publicar en Instagram, Facebook y LinkedIn desde un mismo contenido, en menos de 1 hora a la semana.
+flu–o deja configurado en tu empresa el flujo para publicar en Instagram y Facebook desde un mismo contenido, en menos de 1 hora a la semana.
 
 
 P: ¿Merece la pena Facebook para una empresa B2B?
@@ -1580,9 +1521,9 @@ Comidas, celebraciones o eventos.
 
 Ofertas de empleo con un vídeo corto, no solo un cartel.
 
-LinkedIn e Instagram, cada uno a lo suyo
+Instagram y Facebook, cada uno a lo suyo
 
-En LinkedIn se buscan perfiles técnicos y de oficina. En Instagram y Facebook se llega mejor a perfiles de almacén, taller o reparto, y a gente más joven.
+En Instagram se llega mejor a gente joven y a perfiles de almacén, taller o reparto. En Facebook, a profesionales con más años de oficio que siguen usándolo a diario.
 
 Lo que hay que evitar
 
@@ -1602,7 +1543,7 @@ flu–o incluye en el calendario de tu empresa contenido de equipo y día a día
 P: ¿Ayudan las redes sociales a contratar personal?
 R: Sí. Los candidatos miran las redes sociales de la empresa antes de postularse o de ir a la entrevista; un perfil activo con el equipo y el día a día genera confianza.
 P: ¿Qué red social es mejor para buscar trabajadores?
-R: LinkedIn para perfiles técnicos y de oficina; Instagram y Facebook para perfiles de almacén, taller o reparto.
+R: Instagram para gente joven y perfiles de almacén, taller o reparto; Facebook para profesionales con más experiencia que lo siguen usando a diario.
 
 
 # 10 errores en las redes sociales de las empresas (y cómo corregirlos)
@@ -1644,9 +1585,9 @@ Un mensaje sin respuesta es un cliente perdido.
 
 Mismo logo, mismos colores y mismo tono en todas.
 
-9. Olvidar LinkedIn del director
+9. Olvidarse de Facebook
 
-En B2B, el perfil personal del gerente suele tener más alcance que la página de empresa. Ver perfil de LinkedIn del director general.
+En sectores tradicionales mucha gente sigue en Facebook, y se puede publicar lo mismo que en Instagram a la vez. Ver Facebook para empresas B2B.
 
 10. Depender de una persona sin sistema
 
@@ -1898,9 +1839,9 @@ Clientes sin su permiso.
 
 Zonas sin las medidas de seguridad correctas.
 
-Instagram y LinkedIn juntos
+Instagram y Facebook juntos
 
-El mismo vídeo de proceso sirve para Instagram y para LinkedIn, cambiando solo el texto: más visual en Instagram, más de negocio en LinkedIn.
+El mismo vídeo de proceso sirve para Instagram y para Facebook: se publica a la vez desde Meta Business Suite, sin trabajo extra.
 
 Cómo hacerlo sin parar la producción
 
@@ -1955,10 +1896,6 @@ No mostrar matrículas de clientes ni mercancía confidencial.
 No grabar conduciendo.
 
 Pedir permiso a las personas que salen.
-
-LinkedIn para captar clientes
-
-Para llegar a responsables de compras o de logística de otras empresas, LinkedIn funciona mejor, sobre todo desde el perfil del gerente. Ver LinkedIn para empresas B2B.
 
 flu–o trabaja con empresas de logística y transporte: montamos el sistema de contenido con IA y formamos a vuestro equipo para llevarlo solo.
 
@@ -2023,246 +1960,6 @@ P: ¿Hay que publicar todos los productos?
 R: No. Basta con enseñar una selección representativa y explicar cómo pedir el resto.
 
 
-# LinkedIn para fabricantes: cómo conseguir distribuidores y clientes
-URL: https://www.heyfluo.es/blog/linkedin-para-fabricantes
-
-En LinkedIn están los responsables de compras, los gerentes de distribuidoras y los ingenieros que prescriben productos. Para un fabricante es la red social de negocio por excelencia.
-
-En resumen: Un fabricante debe usar LinkedIn desde dos frentes: la página de empresa con contenido de proceso, calidad y novedades, y el perfil personal del director o comercial para conectar y conversar con compradores y distribuidores.
-
-A quién buscas en LinkedIn
-
-Responsables de compras.
-
-Gerentes de distribuidoras.
-
-Ingenieros y técnicos que prescriben.
-
-Posibles socios en otros países.
-
-La página de empresa
-
-Es la ficha oficial. Debe estar completa y activa: logo, portada, descripción clara, web, sector y ubicación. Te contamos cómo en optimizar la página de empresa en LinkedIn.
-
-El perfil del director, el que más alcance tiene
-
-En LinkedIn las personas llegan a mucha más gente que las páginas de empresa. Un director que publica una vez a la semana sobre la fábrica, el sector o lo que aprende tiene más impacto que la página. Ver perfil de LinkedIn del director general.
-
-Qué publicar
-
-Un proceso de fabricación en vídeo con una explicación.
-
-Una nueva máquina o ampliación y por qué.
-
-Un pedido especial y cómo se resolvió.
-
-Presencia en ferias del sector.
-
-Lo aprendido en 20 o 30 años de fábrica.
-
-Datos del sector con opinión propia.
-
-Conectar con intención
-
-Conecta con distribuidores y compradores de tu sector, con una nota breve y sin vender en el primer mensaje. Primero que vean tu contenido; después, la conversación es mucho más fácil.
-
-flu–o prepara a fabricantes para llevar su LinkedIn y su Instagram con IA: mismo contenido, adaptado a cada red social, en menos de 1 hora a la semana.
-
-
-P: ¿Sirve LinkedIn para que un fabricante consiga distribuidores?
-R: Sí. En LinkedIn están los gerentes de distribuidoras y responsables de compras; con contenido constante y conexiones bien elegidas, se abren conversaciones comerciales.
-P: ¿Es mejor publicar desde la página de empresa o desde el perfil del director?
-R: Desde los dos, pero el perfil personal del director suele tener bastante más alcance.
-
-
-# Perfil de LinkedIn del director general: cómo optimizarlo y qué publicar
-URL: https://www.heyfluo.es/blog/perfil-linkedin-director-general
-
-Cuando alguien quiere saber con quién va a hacer negocios, busca al gerente en LinkedIn. Su perfil es, muchas veces, la cara más visible de la empresa.
-
-En resumen: Un buen perfil de director tiene foto profesional, un titular que explica qué hace la empresa y para quién, un extracto breve con experiencia y una publicación semanal. Con IA, preparar esa publicación lleva 15 minutos.
-
-Lo básico del perfil
-
-Foto
-
-Cara visible, fondo limpio, buena luz. No hace falta estudio: un móvil y una pared clara bastan.
-
-Portada
-
-Una imagen de la empresa: la nave, el equipo o el producto, con el logo.
-
-Titular
-
-No solo “Director general en X”. Mejor: “Director general en X · Distribuimos material eléctrico a instaladores de la Comunidad Valenciana desde 1998”.
-
-Extracto
-
-Tres o cuatro líneas: quién eres, qué hace la empresa, para quién y cómo contactar.
-
-Experiencia
-
-El puesto actual con una descripción clara y logros concretos.
-
-Una rutina de publicación sencilla
-
-Una publicación a la semana. Temas que funcionan:
-
-Algo que ha pasado esta semana en la empresa y lo aprendido.
-
-Una opinión sobre el sector.
-
-Un hito: aniversario, ampliación, nuevo cliente.
-
-Reconocimiento a alguien del equipo.
-
-Un error que cometisteis y cómo lo resolvisteis.
-
-Cómo escribirlo con IA sin que suene a IA
-
-Graba una nota de voz de 2 minutos contando la idea.
-
-Pásala a texto y pide a la IA que la ordene en unas 120–150 palabras, en primera persona.
-
-Revísala y cambia lo que no suene a ti.
-
-Así el contenido es tuyo; la IA solo lo ordena.
-
-Interactuar también cuenta
-
-Comentar publicaciones de clientes y proveedores durante 5 minutos al día hace que te vean más que publicar mucho.
-
-flu–o incluye en la formación el perfil de LinkedIn del director: lo optimizamos y dejamos preparada la rutina de publicación con IA.
-
-
-P: ¿Debe un director general publicar en LinkedIn?
-R: Sí. En B2B, el perfil personal del gerente suele llegar a más gente que la página de empresa y genera más confianza.
-P: ¿Cuánto tiempo hace falta?
-R: Unos 15 minutos a la semana para una publicación con ayuda de la IA, más unos minutos al día para comentar.
-
-
-# Qué publicar en LinkedIn si eres una empresa industrial: 15 ideas
-URL: https://www.heyfluo.es/blog/que-publicar-en-linkedin-empresa-industrial
-
-En LinkedIn no hace falta ser gracioso ni viral. Hace falta ser útil y concreto. Una empresa industrial tiene historias de sobra que contar.
-
-En resumen: Las mejores publicaciones industriales en LinkedIn cuentan algo concreto: un proyecto, una cifra, un aprendizaje, una persona del equipo o una opinión sobre el sector. Mejor en primera persona desde el perfil del director.
-
-Proyectos y trabajo
-
-Un proyecto terminado: reto, solución y resultado.
-
-Un pedido difícil y cómo se sacó adelante.
-
-Una nueva línea de producto o servicio.
-
-Una inversión: máquina, nave o flota, y por qué.
-
-Empresa y equipo
-
-Aniversario de la empresa con lo aprendido.
-
-Una persona del equipo y su trayectoria.
-
-Nuevas incorporaciones.
-
-Formación interna (por ejemplo, el equipo aprendiendo IA).
-
-Sector y opinión
-
-Un cambio de normativa explicado.
-
-Tu opinión sobre una tendencia del sector.
-
-Un dato con lectura propia.
-
-Lo que viste en una feria.
-
-Clientes y proveedores
-
-Agradecimiento a un cliente de muchos años.
-
-Un proveedor que os ha ayudado.
-
-Una pregunta frecuente de clientes, respondida.
-
-Formato que funciona
-
-Una primera línea que enganche.
-
-Párrafos de una o dos frases.
-
-Una foto o vídeo real.
-
-Sin enlaces en el texto principal (mejor en un comentario).
-
-Termina con una pregunta.
-
-Reutilizar lo de Instagram
-
-El mismo vídeo o foto de Instagram sirve en LinkedIn con otro texto: más de negocio, más reflexivo. Con IA se adapta en un minuto. Lo vemos en crear contenido con IA para redes sociales.
-
-flu–o deja preparada a tu empresa para publicar en LinkedIn e Instagram a partir del mismo contenido, en menos de 1 hora a la semana.
-
-
-P: ¿Qué funciona mejor en LinkedIn para una empresa industrial?
-R: Publicaciones concretas en primera persona: proyectos, aprendizajes, personas del equipo y opiniones sobre el sector, con una foto o vídeo real.
-P: ¿Cuántas veces a la semana hay que publicar en LinkedIn?
-R: Una o dos veces a la semana es suficiente si se mantiene en el tiempo.
-
-
-# Cómo optimizar la página de empresa en LinkedIn
-URL: https://www.heyfluo.es/blog/optimizar-pagina-empresa-linkedin
-
-La página de empresa en LinkedIn aparece en Google, la consultan clientes y candidatos y la leen las IAs. Tenerla incompleta es perder una oportunidad gratuita.
-
-En resumen: Completa todos los campos (logo, portada, descripción con lo que hacéis y dónde, web, sector, tamaño y ubicación), vincula a los empleados, añade un botón de contacto y publica al menos una vez a la semana.
-
-Checklist de la página
-
-ElementoQué poner
-
-LogoEl actual, cuadrado y nítido
-
-PortadaFoto real de la empresa o del equipo, con mensaje corto
-
-EsloganQué hacéis y para quién en una línea
-
-DescripciónActividad, sectores, zona, años de experiencia y contacto
-
-WebLa web principal
-
-Sector y tamañoCorrectos y actualizados
-
-UbicaciónDirección de la sede y otras sedes
-
-Botón“Visitar web” o “Contactar”
-
-La descripción: piensa en Google y en las IAs
-
-Escribe de forma natural lo que hacéis con las palabras que usaría un cliente: “distribuidora de material de fontanería en Valencia”, “fabricante de estructuras metálicas”. Google y asistentes como ChatGPT leen estas páginas para entender qué es tu empresa.
-
-Empleados vinculados
-
-Pide al equipo que ponga la empresa en su experiencia. Así la página gana visibilidad y credibilidad, y sus contactos ven vuestras publicaciones.
-
-Publicar con regularidad
-
-Una página sin publicaciones recientes transmite abandono. Una o dos publicaciones a la semana bastan. Ideas en qué publicar en LinkedIn.
-
-Página y perfil, juntos
-
-Lo ideal es que la página publique y el director lo comparta con su propio comentario. Así se suman los dos alcances.
-
-flu–o revisa y optimiza la página de LinkedIn de tu empresa como parte del análisis inicial, antes de formar a tu equipo.
-
-
-P: ¿Cómo mejoro la página de empresa en LinkedIn?
-R: Completando todos los campos, escribiendo una descripción clara con lo que hacéis y dónde, vinculando a los empleados y publicando al menos una vez a la semana.
-P: ¿Aparece la página de LinkedIn en Google?
-R: Sí, suele aparecer en los primeros resultados cuando alguien busca el nombre de la empresa.
-
-
 # Vídeo con IA para empresas: qué se puede hacer hoy (y qué no)
 URL: https://www.heyfluo.es/blog/video-con-ia-para-empresas
 
@@ -2300,7 +1997,7 @@ Edición con IA.
 
 Voz en off o texto en pantalla.
 
-Programación en Instagram, Facebook y LinkedIn.
+Programación en Instagram y Facebook.
 
 Paso a paso en cómo hacer Reels con IA.
 
@@ -2498,7 +2195,7 @@ URL: https://www.heyfluo.es/blog/formacion-ia-empresas-comunidad-valenciana
 
 La Comunidad Valenciana tiene un tejido enorme de fabricantes, distribuidoras, empresas de logística e instalaciones. Muchas, con décadas de experiencia y unas redes sociales que no lo cuentan.
 
-En resumen: flu–o forma a equipos de empresas de la Comunidad Valenciana en IA aplicada a redes sociales: presencial en Valencia y alrededores, y online para Castellón, Alicante y el resto de España. 4 semanas, sistema montado y 3 meses de acompañamiento.
+En resumen: flu–o forma a equipos de empresas de la Comunidad Valenciana en IA aplicada a redes sociales: presencial en Valencia y alrededores, y online para Castellón, Alicante y el resto de España. 4 a 8 semanas, sistema montado y 3 meses de acompañamiento.
 
 Para qué empresas
 
@@ -2528,13 +2225,13 @@ Análisis de las redes sociales y la web de la empresa.
 
 Sistema de contenido con IA con vuestra imagen, tono y productos.
 
-4 semanas de formación: 2 sesiones de 2,5 h a la semana.
+Formación de 4 a 8 semanas, a vuestro ritmo.
 
 Edición de vídeo con IA.
 
 Primer mes de contenido hecho.
 
-8 guías en PDF y certificado.
+8 guías en PDF.
 
 3 meses de acompañamiento.
 
@@ -2564,7 +2261,7 @@ En resumen: flu–o trabaja con empresas de Paterna para que su propio equipo ll
 
 Un tejido empresarial que no se ve en redes sociales
 
-Fuente del Jarro, el Parque Tecnológico, L'Andana, Táctica… En Paterna hay fabricantes, distribuidoras, empresas de logística y de servicios industriales con décadas de experiencia. Muchas tienen un Instagram parado o un LinkedIn sin actividad.
+Fuente del Jarro, el Parque Tecnológico, L'Andana, Táctica… En Paterna hay fabricantes, distribuidoras, empresas de logística y de servicios industriales con décadas de experiencia. Muchas tienen un Instagram parado o un Facebook sin actividad.
 
 Por qué importa
 
@@ -2582,7 +2279,7 @@ Análisis de vuestras redes sociales y web.
 
 Sistema con IA con vuestra imagen, tono y productos.
 
-Formación en vuestras instalaciones o por videollamada: 4 semanas.
+Formación en vuestras instalaciones o por videollamada: 4 a 8 semanas.
 
 Grabación de contenido en la nave o el almacén durante las sesiones presenciales.
 
@@ -2608,7 +2305,7 @@ URL: https://www.heyfluo.es/blog/redes-sociales-empresas-fuente-del-jarro
 
 Fuente del Jarro es uno de los polígonos industriales más grandes de la Comunidad Valenciana. Fabricantes, distribuidores y empresas de servicios que hacen un trabajo enorme… que casi nadie ve en redes sociales.
 
-En resumen: flu–o monta a empresas de Fuente del Jarro un sistema de contenido con IA y forma a su equipo, presencial en sus instalaciones u online, para que publique cada semana en Instagram, LinkedIn y Facebook en menos de 1 hora.
+En resumen: flu–o monta a empresas de Fuente del Jarro un sistema de contenido con IA y forma a su equipo, presencial en sus instalaciones u online, para que publique cada semana en Instagram y Facebook en menos de 1 hora.
 
 Lo que vemos en el polígono
 
@@ -2617,8 +2314,6 @@ Empresas con 20, 30 o 40 años de historia.
 Naves y procesos muy visuales.
 
 Instagram o Facebook sin publicar desde hace años.
-
-LinkedIn del gerente sin actividad.
 
 Qué puede enseñar una empresa del polígono
 
@@ -2644,7 +2339,7 @@ Análisis de vuestras redes sociales y web.
 
 Sistema de contenido con IA con vuestra imagen.
 
-4 semanas de formación (20 h en directo).
+Formación de 4 a 8 semanas en directo.
 
 Edición de vídeo con IA.
 
@@ -2720,7 +2415,7 @@ flu–o deja montado el flujo “foto en obra → publicación” y forma a tu e
 P: ¿Qué publica una empresa de instalaciones en redes sociales?
 R: Antes y después de los trabajos, montajes en vídeo, el equipo en obra y respuestas a dudas frecuentes de clientes.
 P: ¿Cuál es la mejor red social para un instalador?
-R: Instagram y Facebook para clientes particulares y pequeñas empresas; LinkedIn para trabajos con empresas y constructoras.
+R: Instagram y Facebook para clientes particulares y pequeñas empresas. Las dos ayudan también a ganar confianza con constructoras y empresas.
 
 
 # Redes sociales para mayoristas de ferretería y bricolaje
@@ -2778,7 +2473,7 @@ URL: https://www.heyfluo.es/blog/marketing-digital-empresa-industrial-sin-agenci
 
 Muchas empresas industriales creen que el marketing digital es cosa de agencias y presupuestos grandes. La base, en realidad, la puede llevar el propio equipo con unas pocas horas al mes.
 
-En resumen: Lo esencial del marketing digital industrial es: una web clara, la ficha de Google Business completa, LinkedIn activo (empresa y director), Instagram como escaparate y un sistema con IA para crear contenido cada semana. Todo eso lo puede llevar el propio equipo.
+En resumen: Lo esencial del marketing digital industrial es: una web clara, la ficha de Google Business completa, Instagram como escaparate, Facebook activo y un sistema con IA para crear contenido cada semana. Todo eso lo puede llevar el propio equipo.
 
 Las cinco piezas básicas
 
@@ -2790,13 +2485,13 @@ Qué hacéis, para quién, dónde, desde cuándo y cómo contactar. No hace falt
 
 Dirección, horario, teléfono, fotos reales y reseñas. Es lo primero que aparece cuando alguien busca tu empresa o tu sector en tu zona.
 
-3. LinkedIn
-
-Página de empresa completa y perfil del director activo. Ver cómo optimizar la página de LinkedIn.
-
-4. Instagram (y Facebook)
+3. Instagram
 
 El escaparate visual: proceso, equipo, producto. Ver Instagram para empresas industriales.
+
+4. Facebook
+
+Se publica lo mismo que en Instagram a la vez, sin trabajo extra. Ver Facebook para empresas B2B.
 
 5. Un sistema de contenido
 
@@ -2818,7 +2513,7 @@ PiezaCoste aproximado
 
 Ficha de Google BusinessGratis
 
-LinkedIn e InstagramGratis
+Instagram y FacebookGratis
 
 Herramientas de IA0–40 €/mes
 
@@ -2832,9 +2527,9 @@ flu–o deja montado el sistema de contenido con IA y forma a tu equipo para man
 
 
 P: ¿Puede una empresa industrial hacer marketing digital sin agencia?
-R: Sí. Web clara, ficha de Google Business, LinkedIn, Instagram y un sistema de contenido con IA se pueden llevar con el propio equipo en pocas horas al mes.
+R: Sí. Web clara, ficha de Google Business, Instagram, Facebook y un sistema de contenido con IA se pueden llevar con el propio equipo en pocas horas al mes.
 P: ¿Qué es lo primero que debería hacer?
-R: Completar la ficha de Google Business y el LinkedIn de la empresa y del director, y empezar a publicar una vez a la semana.
+R: Completar la ficha de Google Business, poner al día el Instagram y el Facebook de la empresa y empezar a publicar una vez a la semana.
 
 
 # Formación en IA y redes sociales para empresas en Valencia
@@ -2842,19 +2537,19 @@ URL: https://www.heyfluo.es/blog/formacion-ia-empresas-valencia
 
 Somos de Valencia y trabajamos con empresas de aquí: distribuidoras, fábricas, logística e industria de Paterna, Manises, Riba-roja, Quart de Poblet, Fuente del Jarro y toda la Comunidad Valenciana.
 
-En resumen: flu–o monta a tu empresa un sistema de IA con su imagen y forma a tu equipo para que lleve Instagram, LinkedIn y Facebook en menos de 1 hora a la semana. Presencial en vuestras oficinas en Valencia o online. Desde 990 €, pago único.
+En resumen: flu–o monta a tu empresa un sistema de IA con su imagen y forma a tu equipo para que lleve Instagram y Facebook en menos de 1 hora a la semana. Presencial en vuestras oficinas en Valencia o online. Desde 990 €, pago único.
 
 Presencial en tu empresa, en Valencia
 
-Si tu empresa está en Valencia o alrededores, podemos hacer la formación en vuestras oficinas: 2 sesiones de 2,5 h a la semana durante 4 semanas, con vuestro propio contenido. También hay formato online en grupo, en directo por videollamada, para empresas de cualquier parte de España.
+Si tu empresa está en Valencia o alrededores, podemos hacer la formación en vuestras oficinas, de 4 a 8 semanas y al ritmo que os venga bien, con vuestro propio contenido. También hay formato online en grupo, en directo por videollamada, para empresas de cualquier parte de España.
 
 Qué hacemos
 
-Analizamos tus redes sociales: Instagram, LinkedIn y tu web.
+Analizamos tus redes sociales: Instagram, Facebook y tu web.
 
 Te montamos un sistema de IA con tu imagen, tu tono y tus productos.
 
-Formamos a tu equipo en 4 semanas para que publique solo.
+Formamos a tu equipo en 4 a 8 semanas para que publique solo.
 
 Os acompañamos 3 meses después.
 
@@ -2898,11 +2593,11 @@ Experiencias malas con agencias o con “el que sabe de ordenadores”.
 
 Cómo lo resolvemos
 
-Analizamos tus redes sociales, te montamos un sistema de contenido con IA con tus colores, tono y productos, y formamos a una persona de tu equipo en 4 semanas. Después, publicar es cuestión de menos de 1 hora a la semana.
+Analizamos tus redes sociales, te montamos un sistema de contenido con IA con tus colores, tono y productos, y formamos a una persona de tu equipo en 4 a 8 semanas. Después, publicar es cuestión de menos de 1 hora a la semana.
 
 Qué se publica
 
-Producto y catálogo, la nave y el día a día, el equipo, obras y clientes, y datos de la empresa. Te lo contamos en detalle en Instagram para empresas industriales y LinkedIn para empresas B2B.
+Producto y catálogo, la nave y el día a día, el equipo, obras y clientes, y datos de la empresa. Te lo contamos en detalle en Instagram para empresas industriales.
 
 Sin agencias y sin mensualidades
 
