@@ -1,0 +1,433 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>gen–o · Tus redes sociales, hechas cada semana</title>
+<meta name="description" content="Llevamos el Instagram y el Facebook de tu empresa con IA y criterio: 3 publicaciones a la semana, historias y 4 reels al mes. 490 € al mes, sin permanencia. Máximo 20 empresas.">
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230E0E10'/%3E%3Crect x='14' y='26' width='36' height='14' rx='7' fill='%23FF5B2E'/%3E%3C/svg%3E">
+<style>
+@font-face{font-family:SG;font-weight:500;font-display:swap;src:url(/fonts/space-grotesk-latin-500-normal.woff2) format("woff2")}
+@font-face{font-family:SG;font-weight:600;font-display:swap;src:url(/fonts/space-grotesk-latin-600-normal.woff2) format("woff2")}
+@font-face{font-family:SG;font-weight:700;font-display:swap;src:url(/fonts/space-grotesk-latin-700-normal.woff2) format("woff2")}
+@font-face{font-family:IN;font-weight:400;font-display:swap;src:url(/fonts/inter-latin-400-normal.woff2) format("woff2")}
+@font-face{font-family:IN;font-weight:500;font-display:swap;src:url(/fonts/inter-latin-500-normal.woff2) format("woff2")}
+@font-face{font-family:IN;font-weight:600;font-display:swap;src:url(/fonts/inter-latin-600-normal.woff2) format("woff2")}
+:root{
+  --bg:#F6F3EE; --paper:#FFFFFF; --ink:#111012; --muted:#5F5B57; --line:#E3DDD4;
+  --or:#FF5B2E; --or-soft:#FFE3D8; --dark:#111012; --dark-2:#1B1A1D; --dark-line:#2C2A2E; --dark-muted:#A6A1A8;
+  --d:SG,"Helvetica Neue",Arial,sans-serif; --b:IN,system-ui,-apple-system,"Segoe UI",Arial,sans-serif;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 18px/1.6 var(--b);-webkit-font-smoothing:antialiased;overflow-x:hidden}
+h1,h2,h3{font-family:var(--d);margin:0;letter-spacing:-.03em;line-height:1.02;text-wrap:balance}
+p{margin:0}
+a{color:inherit}
+.wrap{max-width:1160px;margin:0 auto;padding:0 max(20px,env(safe-area-inset-left))}
+.eyebrow{font:600 13px/1 var(--b);letter-spacing:.16em;text-transform:uppercase;color:var(--muted)}
+.dark .eyebrow{color:var(--dark-muted)}
+em{font-style:normal;color:var(--or)}
+.logo{font:600 27px/1 var(--d);letter-spacing:-.04em;display:inline-flex;align-items:center;text-decoration:none}
+.logo .bar{display:inline-block;width:.78em;height:.34em;border-radius:1em;background:var(--or);margin:0 .05em 0 .09em;transform:translateY(.04em)}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;font:600 17px/1 var(--b);padding:18px 28px;border-radius:999px;border:0;cursor:pointer;text-decoration:none;background:var(--or);color:#111012;transition:transform .15s ease,box-shadow .15s ease}
+.btn:hover{transform:translateY(-2px);box-shadow:0 10px 24px -10px rgba(255,91,46,.7)}
+.btn.ghost{background:transparent;color:inherit;border:1.5px solid currentColor}
+.btn.ghost:hover{box-shadow:none}
+.btn.sm{padding:13px 20px;font-size:15px}
+.btn:focus-visible,input:focus-visible,textarea:focus-visible,summary:focus-visible{outline:3px solid var(--or);outline-offset:3px}
+section{padding:clamp(72px,10vw,128px) 0}
+.dark{background:var(--dark);color:#F4F1EC}
+
+/* header */
+header{position:sticky;top:0;z-index:20;background:rgba(246,243,238,.88);backdrop-filter:saturate(1.4) blur(12px);-webkit-backdrop-filter:saturate(1.4) blur(12px);border-bottom:1px solid var(--line)}
+header .wrap{display:flex;align-items:center;justify-content:space-between;gap:20px;height:72px}
+header nav{display:flex;align-items:center;gap:28px}
+header nav a.l{font:500 15px/1 var(--b);text-decoration:none;color:var(--muted)}
+header nav a.l:hover{color:var(--ink)}
+
+/* hero */
+.hero{padding:clamp(56px,8vw,104px) 0 clamp(64px,8vw,112px)}
+.hero-grid{display:grid;grid-template-columns:1.25fr .75fr;gap:clamp(32px,5vw,72px);align-items:center}
+.pill{display:inline-flex;align-items:center;gap:10px;background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:8px 16px 8px 10px;font:500 15px/1 var(--b);color:var(--muted)}
+.pill .dot{width:10px;height:10px;border-radius:50%;background:var(--or);box-shadow:0 0 0 5px var(--or-soft)}
+.hero h1{font-size:clamp(44px,6.2vw,84px);font-weight:700;margin-top:26px}
+.hero .lead{font-size:clamp(19px,2.1vw,23px);color:var(--muted);margin-top:26px;max-width:32ch;line-height:1.5}
+.hero .ctas{display:flex;flex-wrap:wrap;gap:14px;margin-top:36px}
+.hero .facts{display:flex;flex-wrap:wrap;gap:10px 28px;margin-top:34px;font:500 15px/1.3 var(--b);color:var(--muted)}
+.hero .facts b{color:var(--ink);font-weight:600}
+
+/* phone */
+.phone-wrap{position:relative;display:flex;justify-content:center}
+.phone{width:min(360px,100%);background:var(--dark);border-radius:46px;padding:14px;box-shadow:0 40px 80px -30px rgba(17,16,18,.45),0 0 0 1px rgba(0,0,0,.08)}
+.screen{background:#FFFFFF;border-radius:34px;overflow:hidden;color:#111012}
+.ig-top{display:flex;align-items:center;gap:14px;padding:22px 18px 14px}
+.ig-av{width:62px;height:62px;border-radius:50%;background:var(--dark);display:flex;align-items:center;justify-content:center;flex:none;box-shadow:0 0 0 3px #fff,0 0 0 5px var(--or)}
+.ig-av span{display:block;width:26px;height:11px;border-radius:9px;background:var(--or)}
+.ig-name{font:600 15px/1.2 var(--b)}
+.ig-stats{display:flex;gap:14px;font:400 12.5px/1.2 var(--b);color:#6B6670;margin-top:5px}
+.ig-stats b{color:#111012;font-weight:600}
+.ig-bio{padding:0 18px 14px;font:400 12.5px/1.45 var(--b);color:#3C383F}
+.ig-hl{display:flex;gap:12px;padding:0 18px 14px}
+.ig-hl i{width:40px;height:40px;border-radius:50%;border:1.5px solid #E3DDD4;display:block;background:#F6F3EE}
+.ig-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:2px}
+.tile{aspect-ratio:4/5;position:relative;overflow:hidden;display:flex;align-items:flex-end;padding:9px;font:700 11px/1.1 var(--d);letter-spacing:-.01em}
+.t1{background:var(--or);color:#111012}
+.t2{background:#1B1A1D;color:#F4F1EC}
+.t3{background:#EFE8DE;color:#111012}
+.t4{background:linear-gradient(160deg,#2C2A2E,#111012);color:#F4F1EC}
+.t5{background:#FFD3C2;color:#111012}
+.t6{background:#111012;color:var(--or)}
+.tile .reel{position:absolute;top:8px;right:8px;width:14px;height:14px;border-radius:4px;border:1.5px solid currentColor;opacity:.85}
+.tile .reel::after{content:"";position:absolute;left:4px;top:2.5px;border-left:5px solid currentColor;border-top:3px solid transparent;border-bottom:3px solid transparent}
+.badge{position:absolute;background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:12px 16px;font:500 14px/1.3 var(--b);box-shadow:0 18px 40px -20px rgba(17,16,18,.35)}
+.badge b{display:block;font:700 22px/1 var(--d);letter-spacing:-.03em;margin-bottom:4px}
+.badge.b1{left:-34px;top:52%}
+.badge.b2{right:-28px;bottom:8%}
+.badge.b2 b{color:var(--or)}
+
+/* marquee strip */
+.strip{background:var(--or);color:#111012;overflow:hidden;padding:18px 0;border-block:1px solid rgba(0,0,0,.08)}
+.strip .row{display:flex;gap:44px;white-space:nowrap;font:600 clamp(18px,2.2vw,24px)/1 var(--d);letter-spacing:-.02em;width:max-content;animation:mq 38s linear infinite}
+.strip .row span::before{content:"";display:inline-block;width:16px;height:7px;border-radius:6px;background:#111012;margin-right:44px;vertical-align:middle;transform:translateY(-2px)}
+@keyframes mq{to{transform:translateX(-50%)}}
+@media (prefers-reduced-motion:reduce){.strip .row{animation:none}}
+
+/* problem */
+.prob{display:grid;grid-template-columns:.95fr 1.05fr;gap:clamp(32px,6vw,96px);align-items:start}
+.prob h2{font-size:clamp(36px,5vw,62px);font-weight:700;margin-top:18px}
+.quotes{display:grid;gap:14px}
+.q{background:var(--paper);border:1px solid var(--line);border-radius:22px;padding:22px 24px;display:flex;gap:16px;align-items:flex-start}
+.q .n{flex:none;width:34px;height:34px;border-radius:50%;background:var(--dark);color:var(--or);font:700 15px/34px var(--d);text-align:center}
+.q p{font:500 19px/1.4 var(--b)}
+.q p small{display:block;font:400 15px/1.45 var(--b);color:var(--muted);margin-top:6px}
+.answer{margin-top:22px;padding:26px 28px;border-radius:22px;background:var(--dark);color:#F4F1EC;font:500 20px/1.45 var(--b)}
+.answer b{color:var(--or);font-weight:600}
+
+/* week */
+.sec-head{display:flex;justify-content:space-between;align-items:flex-end;gap:32px;flex-wrap:wrap}
+.sec-head h2{font-size:clamp(34px,4.8vw,58px);font-weight:700;margin-top:16px;max-width:17ch}
+.sec-head p{max-width:40ch;color:var(--muted);font-size:19px}
+.dark .sec-head p{color:var(--dark-muted)}
+.week{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:12px;margin-top:52px}
+.day{border:1px solid var(--dark-line);background:var(--dark-2);border-radius:20px;padding:18px 14px 16px;min-height:200px;display:flex;flex-direction:column;gap:10px}
+.day.off{background:transparent;border-style:dashed}
+.day .dn{font:600 14px/1 var(--d);letter-spacing:.08em;color:var(--dark-muted)}
+.chip{border-radius:12px;padding:10px 11px;font:600 14px/1.25 var(--b)}
+.chip small{display:block;font:400 12.5px/1.3 var(--b);opacity:.75;margin-top:3px}
+.c-post{background:var(--or);color:#111012}
+.c-story{background:#2C2A2E;color:#F4F1EC}
+.c-reel{background:#F4F1EC;color:#111012}
+.day.off .rest{margin-top:auto;font:500 14px/1.3 var(--b);color:var(--dark-muted)}
+.totals{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:14px}
+.tot{border-radius:20px;border:1px solid var(--dark-line);padding:22px 22px 20px}
+.tot b{display:block;font:700 46px/1 var(--d);letter-spacing:-.04em;color:var(--or)}
+.tot span{display:block;margin-top:8px;font:500 15px/1.35 var(--b);color:var(--dark-muted)}
+
+/* steps */
+.steps{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:52px;counter-reset:s}
+.step{background:var(--paper);border:1px solid var(--line);border-radius:24px;padding:28px 24px 30px;position:relative}
+.step .num{font:700 15px/1 var(--d);color:var(--or);letter-spacing:.06em}
+.step h3{font-size:24px;font-weight:600;margin-top:22px;line-height:1.15}
+.step p{color:var(--muted);font-size:16.5px;margin-top:12px;line-height:1.55}
+.step .t{display:inline-block;margin-top:18px;font:600 13px/1 var(--b);letter-spacing:.04em;background:var(--or-soft);color:#7A2A12;border-radius:999px;padding:8px 12px}
+
+/* pricing */
+.price-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:52px;align-items:stretch}
+.card{border-radius:28px;padding:clamp(28px,4vw,44px)}
+.card.main{background:var(--dark);color:#F4F1EC;position:relative;overflow:hidden}
+.card.main::after{content:"";position:absolute;right:-60px;top:-60px;width:220px;height:220px;border-radius:50%;background:var(--or);opacity:.14}
+.card .tag{display:inline-block;font:600 13px/1 var(--b);letter-spacing:.1em;text-transform:uppercase;background:var(--or);color:#111012;border-radius:999px;padding:8px 13px}
+.amount{font:700 clamp(64px,8vw,96px)/1 var(--d);letter-spacing:-.05em;margin-top:24px}
+.amount span{font:500 22px/1 var(--b);letter-spacing:0;color:var(--dark-muted);margin-left:6px}
+.card .small{font-size:15px;color:var(--dark-muted);margin-top:10px}
+.inc{list-style:none;padding:0;margin:28px 0 32px;display:grid;gap:13px;font:500 17px/1.4 var(--b)}
+.inc li{display:flex;gap:12px;align-items:flex-start}
+.inc li::before{content:"";flex:none;width:20px;height:9px;border-radius:6px;background:var(--or);margin-top:8px}
+.card.cmp{background:var(--paper);border:1px solid var(--line)}
+.card.cmp h3{font-size:clamp(26px,3vw,34px);font-weight:700}
+.rows{margin-top:24px;display:grid}
+.r{display:grid;grid-template-columns:1.2fr 1fr 1fr;gap:12px;padding:15px 0;border-top:1px solid var(--line);font-size:16px;align-items:center}
+.r.h{border-top:0;font:600 13px/1 var(--b);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);padding-top:0}
+.r .us{font-weight:600}
+.r .us::before{content:"";display:inline-block;width:12px;height:6px;border-radius:4px;background:var(--or);margin-right:8px;vertical-align:middle;transform:translateY(-2px)}
+.r .them{color:var(--muted)}
+.cmp .foot{margin-top:22px;font-size:15px;color:var(--muted)}
+
+/* seats */
+.seats{display:grid;grid-template-columns:1fr 1fr;gap:clamp(32px,6vw,96px);align-items:center}
+.seats h2{font-size:clamp(40px,6vw,76px);font-weight:700;margin-top:16px}
+.seats p{color:var(--dark-muted);font-size:19px;margin-top:20px;max-width:38ch}
+.dots{display:grid;grid-template-columns:repeat(5,1fr);gap:14px;max-width:420px;justify-self:end;width:100%}
+.dots i{aspect-ratio:1;border-radius:50%;border:2px solid var(--dark-line);display:block}
+.dots i.on{background:var(--or);border-color:var(--or)}
+.dots-cap{grid-column:1/-1;font:500 15px/1.4 var(--b);color:var(--dark-muted);margin-top:6px}
+
+/* faq */
+.faq{max-width:860px;margin:44px auto 0}
+details{border-top:1px solid var(--line);padding:6px 0}
+details:last-child{border-bottom:1px solid var(--line)}
+summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;gap:20px;align-items:center;padding:20px 0;font:600 clamp(19px,2vw,22px)/1.3 var(--d);letter-spacing:-.01em}
+summary::-webkit-details-marker{display:none}
+summary .pm{flex:none;width:32px;height:32px;border-radius:50%;background:var(--paper);border:1px solid var(--line);position:relative}
+summary .pm::before,summary .pm::after{content:"";position:absolute;left:50%;top:50%;width:12px;height:2px;background:var(--ink);transform:translate(-50%,-50%)}
+summary .pm::after{transform:translate(-50%,-50%) rotate(90deg);transition:transform .2s}
+details[open] summary .pm::after{transform:translate(-50%,-50%) rotate(0)}
+details p{color:var(--muted);padding:0 52px 22px 0;font-size:17px}
+
+/* contact */
+.contact{display:grid;grid-template-columns:1fr 1fr;gap:clamp(32px,6vw,80px);align-items:start}
+.contact h2{font-size:clamp(38px,5.4vw,68px);font-weight:700;margin-top:16px}
+.contact .lead{color:var(--dark-muted);font-size:19px;margin-top:20px;max-width:36ch}
+.contact .mail{display:inline-block;margin-top:28px;font:600 18px/1 var(--b);color:#F4F1EC;text-decoration:none;border-bottom:2px solid var(--or);padding-bottom:6px}
+form{background:var(--dark-2);border:1px solid var(--dark-line);border-radius:28px;padding:clamp(24px,3.5vw,36px);display:grid;gap:16px}
+label{display:grid;gap:8px;font:500 14px/1 var(--b);color:var(--dark-muted)}
+input,textarea{width:100%;font:400 17px/1.4 var(--b);color:#F4F1EC;background:#111012;border:1px solid var(--dark-line);border-radius:14px;padding:15px 16px}
+input::placeholder,textarea::placeholder{color:#6F6A72}
+textarea{resize:vertical;min-height:110px}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+form .btn{width:100%;margin-top:6px}
+form .legal{font-size:13px;color:#7E7980;line-height:1.5}
+.ok{display:none;font:500 16px/1.5 var(--b);color:var(--or)}
+
+footer{background:var(--dark);color:var(--dark-muted);border-top:1px solid var(--dark-line);padding:34px 0}
+footer .wrap{display:flex;justify-content:space-between;align-items:center;gap:20px;flex-wrap:wrap;font-size:15px}
+footer .logo{color:#F4F1EC;font-size:24px}
+
+/* reveal */
+.rv{opacity:0;transform:translateY(18px);transition:opacity .7s ease,transform .7s cubic-bezier(.2,.7,.2,1)}
+.rv.in{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){.rv{opacity:1;transform:none;transition:none}}
+
+/* responsive */
+@media (max-width:1020px){
+  .week{grid-template-columns:repeat(4,minmax(0,1fr))}
+  .steps{grid-template-columns:1fr 1fr}
+  .totals{grid-template-columns:1fr 1fr}
+}
+@media (max-width:860px){
+  header nav a.l{display:none}
+  .hero-grid,.prob,.price-grid,.seats,.contact{grid-template-columns:1fr}
+  .phone-wrap{margin-top:12px}
+  .badge.b1{left:0}.badge.b2{right:0}
+  .dots{justify-self:start}
+}
+@media (max-width:560px){
+  body{font-size:17px}
+  .week{grid-template-columns:1fr 1fr}
+  .day{min-height:0}
+  .steps{grid-template-columns:1fr}
+  .two{grid-template-columns:1fr}
+  .r{grid-template-columns:1fr 1fr 1fr;font-size:14.5px}
+  .badge{display:none}
+  details p{padding-right:0}
+  .hero .ctas .btn{width:100%}
+}
+</style>
+</head>
+<body>
+
+<header><div class="wrap">
+  <a class="logo" href="#" aria-label="gen–o">gen<span class="bar"></span>o</a>
+  <nav>
+    <a class="l" href="#semana">La semana</a>
+    <a class="l" href="#como">Cómo funciona</a>
+    <a class="l" href="#precio">Precio</a>
+    <a class="l" href="#dudas">Dudas</a>
+    <a class="btn sm" href="#contacto">Pedir plaza</a>
+  </nav>
+</div></header>
+
+<main>
+<section class="hero"><div class="wrap hero-grid">
+  <div class="rv">
+    <span class="pill"><span class="dot"></span>Solo 20 empresas a la vez</span>
+    <h1>Tus redes sociales, <em>hechas.</em> Cada semana.</h1>
+    <p class="lead">Llevamos el Instagram y el Facebook de tu empresa con IA y criterio. Tú nos cuentas qué pasa en la empresa y das el visto bueno. Del resto nos encargamos nosotros.</p>
+    <div class="ctas">
+      <a class="btn" href="#contacto">Quiero una plaza</a>
+      <a class="btn ghost" href="#semana">Ver una semana tipo</a>
+    </div>
+    <div class="facts"><span><b>490 €</b> al mes</span><span><b>Sin</b> permanencia</span><span><b>10 min</b> a la semana por tu parte</span></div>
+  </div>
+  <div class="phone-wrap rv" aria-hidden="true">
+    <div class="phone"><div class="screen">
+      <div class="ig-top">
+        <div class="ig-av"><span></span></div>
+        <div><div class="ig-name">tu_empresa</div><div class="ig-stats"><span><b>124</b> publicaciones</span><span><b>2.380</b> seguidores</span></div></div>
+      </div>
+      <div class="ig-bio">Distribución industrial desde 1987 · Valencia<br>Pedidos y presupuestos por mensaje</div>
+      <div class="ig-hl"><i></i><i></i><i></i><i></i></div>
+      <div class="ig-grid">
+        <div class="tile t1">Nuevo almacén en marcha</div>
+        <div class="tile t2"><span class="reel"></span>Así sale un pedido</div>
+        <div class="tile t3">El equipo de la nave</div>
+        <div class="tile t4"><span class="reel"></span>Novedades de noviembre</div>
+        <div class="tile t5">Consejo de la semana</div>
+        <div class="tile t6">40 años de oficio</div>
+      </div>
+    </div></div>
+    <div class="badge b1"><b>3</b>publicaciones a la semana</div>
+    <div class="badge b2"><b>4</b>reels editados al mes</div>
+  </div>
+</div></section>
+
+<div class="strip" aria-hidden="true"><div class="row">
+  <span>Instagram y Facebook al día</span><span>Publicaciones con la imagen de tu empresa</span><span>Historias de lunes a viernes</span><span>Reels editados con IA</span><span>Programado y publicado</span><span>Sin permanencia</span>
+  <span>Instagram y Facebook al día</span><span>Publicaciones con la imagen de tu empresa</span><span>Historias de lunes a viernes</span><span>Reels editados con IA</span><span>Programado y publicado</span><span>Sin permanencia</span>
+</div></div>
+
+<section><div class="wrap prob">
+  <div class="rv">
+    <span class="eyebrow">El problema de siempre</span>
+    <h2>Saben que tienen que publicar. Nunca hay <em>tiempo.</em></h2>
+  </div>
+  <div class="rv">
+    <div class="quotes">
+      <div class="q"><span class="n">1</span><p>«Lo lleva quien puede, cuando puede.»<small>Y la última publicación acaba siendo de hace meses.</small></p></div>
+      <div class="q"><span class="n">2</span><p>«Las agencias nos cobran un dineral.»<small>Y aun así hay que explicarles cada semana cómo es la empresa.</small></p></div>
+      <div class="q"><span class="n">3</span><p>«Lo que publicamos no se parece a nosotros.»<small>Fotos de banco de imágenes y textos que podría firmar cualquiera.</small></p></div>
+    </div>
+    <div class="answer">Con gen–o, tu empresa publica <b>cada semana sin falta</b>, con vuestras fotos y vídeos reales, y sin que nadie de dentro tenga que sacar horas de donde no hay.</div>
+  </div>
+</div></section>
+
+<section class="dark" id="semana"><div class="wrap">
+  <div class="sec-head rv">
+    <div><span class="eyebrow">Una semana con gen–o</span><h2>Siempre hay algo nuevo en tu perfil.</h2></div>
+    <p>Publicaciones lunes, miércoles y viernes. Historias los días que no hay publicación. Un reel a la semana. El fin de semana, descanso.</p>
+  </div>
+  <div class="week rv">
+    <div class="day"><span class="dn">LUN</span><div class="chip c-post">Publicación<small>Novedad o producto</small></div></div>
+    <div class="day"><span class="dn">MAR</span><div class="chip c-story">Historias<small>Del día a día</small></div><div class="chip c-reel">Reel<small>Editado con IA</small></div></div>
+    <div class="day"><span class="dn">MIÉ</span><div class="chip c-post">Publicación<small>Equipo o proceso</small></div></div>
+    <div class="day"><span class="dn">JUE</span><div class="chip c-story">Historias<small>Pregunta o consejo</small></div></div>
+    <div class="day"><span class="dn">VIE</span><div class="chip c-post">Publicación<small>Caso o pedido</small></div></div>
+    <div class="day off"><span class="dn">SÁB</span><span class="rest">Descanso</span></div>
+    <div class="day off"><span class="dn">DOM</span><span class="rest">Descanso</span></div>
+  </div>
+  <div class="totals rv">
+    <div class="tot"><b>12</b><span>publicaciones al mes</span></div>
+    <div class="tot"><b>~20</b><span>historias al mes</span></div>
+    <div class="tot"><b>4</b><span>reels editados al mes</span></div>
+    <div class="tot"><b>1</b><span>informe mensual en lenguaje claro</span></div>
+  </div>
+</div></section>
+
+<section id="como"><div class="wrap">
+  <div class="sec-head rv">
+    <div><span class="eyebrow">Cómo funciona</span><h2>Tú decides el qué. Nosotros, todo lo demás.</h2></div>
+    <p>Sin reuniones eternas ni briefings de veinte páginas. Montamos el sistema una vez y a partir de ahí va solo.</p>
+  </div>
+  <div class="steps">
+    <div class="step rv"><span class="num">01</span><h3>Conocemos tu empresa</h3><p>Una llamada de 30 minutos: qué hacéis, cómo habláis, qué queréis que se vea. Nos pasáis logo, fotos y algún vídeo.</p><span class="t">Semana 1</span></div>
+    <div class="step rv"><span class="num">02</span><h3>Preparamos el mes</h3><p>Montamos vuestro sistema de IA con la imagen de tu empresa y te enseñamos el calendario del mes entero.</p><span class="t">Semana 1</span></div>
+    <div class="step rv"><span class="num">03</span><h3>Tú das el visto bueno</h3><p>Lo revisas desde el móvil en 10 minutos. Si algo no te convence, lo cambiamos.</p><span class="t">Cada semana</span></div>
+    <div class="step rv"><span class="num">04</span><h3>Publicamos y te contamos</h3><p>Todo sale programado a su hora. A final de mes, un resumen claro de lo que ha funcionado.</p><span class="t">Cada mes</span></div>
+  </div>
+</div></section>
+
+<section style="padding-top:0" id="precio"><div class="wrap">
+  <div class="sec-head rv">
+    <div><span class="eyebrow">Precio</span><h2>Lo de una agencia, por bastante menos.</h2></div>
+    <p>Un precio cerrado al mes. Sin permanencia: si un mes no te compensa, lo dejas.</p>
+  </div>
+  <div class="price-grid">
+    <div class="card main rv">
+      <span class="tag">Todo incluido</span>
+      <div class="amount">490 €<span>/ mes</span></div>
+      <p class="small">Más IVA. Sin permanencia ni coste de alta.</p>
+      <ul class="inc">
+        <li>3 publicaciones a la semana en Instagram y Facebook</li>
+        <li>Historias los días sin publicación, de lunes a viernes</li>
+        <li>4 reels al mes, editados con IA a partir de vuestros vídeos</li>
+        <li>Textos, diseños y programación</li>
+        <li>Informe mensual claro y una llamada al mes</li>
+      </ul>
+      <a class="btn" href="#contacto">Quiero una plaza</a>
+    </div>
+    <div class="card cmp rv">
+      <h3>Comparado con lo de siempre</h3>
+      <div class="rows">
+        <div class="r h"><span></span><span>gen–o</span><span>Agencia</span></div>
+        <div class="r"><span>Precio al mes</span><span class="us">490 €</span><span class="them">800 – 1.500 €</span></div>
+        <div class="r"><span>Permanencia</span><span class="us">Ninguna</span><span class="them">6 – 12 meses</span></div>
+        <div class="r"><span>Publicaciones</span><span class="us">12 al mes</span><span class="them">8 – 12 al mes</span></div>
+        <div class="r"><span>Reels</span><span class="us">4 al mes</span><span class="them">Aparte</span></div>
+        <div class="r"><span>Tu tiempo</span><span class="us">10 min / semana</span><span class="them">Reuniones y correos</span></div>
+      </div>
+      <p class="foot">Precios de agencia orientativos para empresas medianas en España.</p>
+    </div>
+  </div>
+</div></section>
+
+<section class="dark" id="plazas"><div class="wrap seats">
+  <div class="rv">
+    <span class="eyebrow">Plazas limitadas</span>
+    <h2>Solo <em>20</em> empresas a la vez.</h2>
+    <p>Así cada cuenta tiene la atención que necesita. Cuando se llenan, se abre lista de espera.</p>
+    <a class="btn" href="#contacto" style="margin-top:32px">Reservar mi plaza</a>
+  </div>
+  <div class="dots rv" aria-hidden="true">
+    <i></i><i></i><i></i><i></i><i></i>
+    <i></i><i></i><i></i><i></i><i></i>
+    <i></i><i></i><i></i><i></i><i></i>
+    <i></i><i></i><i></i><i></i><i></i>
+  </div>
+</div></section>
+
+<section id="dudas"><div class="wrap">
+  <div class="sec-head rv" style="justify-content:center;text-align:center"><div><span class="eyebrow">Dudas</span><h2 style="margin-inline:auto">Lo que suelen preguntarnos.</h2></div></div>
+  <div class="faq">
+    <details class="rv"><summary>¿Qué tengo que hacer yo?<span class="pm"></span></summary><p>Pasarnos fotos y vídeos de vez en cuando (vale el móvil), contarnos novedades y revisar el calendario. Unos 10 minutos a la semana.</p></details>
+    <details class="rv"><summary>¿Y si no me gusta lo que preparáis?<span class="pm"></span></summary><p>Nada sale sin tu visto bueno. Si algo no encaja, lo cambiamos antes de publicarlo.</p></details>
+    <details class="rv"><summary>¿Hay permanencia?<span class="pm"></span></summary><p>No. Se paga mes a mes y puedes darte de baja avisando con 15 días.</p></details>
+    <details class="rv"><summary>¿Usáis IA? ¿No queda todo igual?<span class="pm"></span></summary><p>Usamos IA para trabajar más rápido, pero con vuestras fotos, vuestros vídeos y vuestra forma de hablar. Por eso no parece de banco de imágenes.</p></details>
+    <details class="rv"><summary>¿Hacéis LinkedIn o TikTok?<span class="pm"></span></summary><p>De momento nos centramos en Instagram y Facebook, que es donde mejor funciona para la mayoría de empresas. Si lo necesitas, lo hablamos.</p></details>
+    <details class="rv"><summary>¿Cuánto se tarda en empezar?<span class="pm"></span></summary><p>Si hay plaza, la primera semana hacemos la llamada y preparamos el mes. A partir de la segunda, ya publicas.</p></details>
+  </div>
+</div></section>
+
+<section class="dark" id="contacto"><div class="wrap contact">
+  <div class="rv">
+    <span class="eyebrow">Contacto</span>
+    <h2>Hablamos 10 minutos y te decimos si encajas.</h2>
+    <p class="lead">Sin compromiso. Si no somos lo que buscas, te lo decimos claro.</p>
+    <a class="mail" href="mailto:fluoequipos@gmail.com?subject=gen%E2%80%93o%20%C2%B7%20Quiero%20informaci%C3%B3n">fluoequipos@gmail.com</a>
+  </div>
+  <form class="rv" id="f" novalidate>
+    <div class="two">
+      <label>Nombre<input name="nombre" autocomplete="name" placeholder="Tu nombre" required></label>
+      <label>Empresa<input name="empresa" autocomplete="organization" placeholder="Nombre de la empresa" required></label>
+    </div>
+    <div class="two">
+      <label>Teléfono<input name="tel" type="tel" autocomplete="tel" placeholder="600 000 000"></label>
+      <label>Instagram de la empresa<input name="ig" placeholder="@tuempresa"></label>
+    </div>
+    <label>¿Algo que debamos saber?<textarea name="msg" placeholder="Opcional"></textarea></label>
+    <button class="btn" type="submit">Enviar y pedir plaza</button>
+    <p class="ok" id="ok">Se ha abierto tu correo con el mensaje listo. Solo tienes que darle a enviar.</p>
+    <p class="legal">Usaremos tus datos solo para contestarte. No los compartimos con nadie.</p>
+  </form>
+</div></section>
+</main>
+
+<footer><div class="wrap">
+  <a class="logo" href="#" aria-label="gen–o">gen<span class="bar"></span>o</a>
+  <span>Redes sociales para empresas · Valencia · fluoequipos@gmail.com</span>
+</div></footer>
+
+<script>
+const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.12});
+document.querySelectorAll('.rv').forEach(el=>io.observe(el));
+document.getElementById('f').addEventListener('submit',e=>{
+  e.preventDefault();const f=e.target;
+  if(!f.nombre.value.trim()||!f.empresa.value.trim()){(f.nombre.value.trim()?f.empresa:f.nombre).focus();return}
+  const body=`Nombre: ${f.nombre.value}\nEmpresa: ${f.empresa.value}\nTeléfono: ${f.tel.value}\nInstagram: ${f.ig.value}\n\n${f.msg.value}`;
+  location.href='mailto:fluoequipos@gmail.com?subject='+encodeURIComponent('gen–o · Pedir plaza · '+f.empresa.value)+'&body='+encodeURIComponent(body);
+  document.getElementById('ok').style.display='block';
+});
+</script>
+</body>
+</html>
