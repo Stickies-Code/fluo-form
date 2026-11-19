@@ -10,9 +10,9 @@
 - Después, el equipo publica solo en menos de 1 hora a la semana. Soporte mensual opcional y sin permanencia.
 
 ## Precio
-- Sistema IA (online): desde 990 €, pago único, sin cuotas mensuales.
-- Sistema + Formación (online, formación de 12 horas, hasta 3 personas, 3 meses de acompañamiento): precio a medida, pago único.
-- Presencial en la empresa (12 horas, hasta 3 personas): precio a medida, pago único o en 2 pagos.
+- Sistema IA (online): 990 €, pago único, sin cuotas mensuales.
+- Sistema + Formación (online, formación de 12 horas, hasta 3 personas, 3 meses de acompañamiento): 1.290 €, pago único.
+- Presencial en la empresa (12 horas, hasta 3 personas): 1.990 €, pago único o en 2 pagos.
 
 ## Para quién
 Empresas con equipo propio y redes sociales flojas o abandonadas, sobre todo distribuidoras, mayoristas, fabricantes, logística, suministros industriales e instalaciones. Zona principal: Valencia y Comunidad Valenciana (Paterna, Manises, Riba-roja, Quart de Poblet, Fuente del Jarro); formato online para toda España.
@@ -342,13 +342,13 @@ Tu primer mes de contenido hecho.
 
 3 meses de acompañamiento.
 
-Online en grupo, desde 990 €, pago único y sin cuotas mensuales. En tu empresa, presupuesto a medida según tu equipo. El soporte mensual posterior es opcional y sin permanencia.
+Online en grupo, desde 990 €, pago único y sin cuotas mensuales. En tu empresa, 1.990 €. El soporte mensual posterior es opcional y sin permanencia.
 
 
 P: ¿Cuánto cobra una agencia por llevar las redes sociales?
 R: Normalmente una cuota mensual, desde unos 500 € al mes, según el número de redes sociales, publicaciones y vídeos.
 P: ¿Cuánto cuesta flu–o?
-R: Desde 990 € en formato online en grupo, en un solo pago y sin mensualidades. En formato presencial en la empresa, el precio se calcula a medida según el equipo.
+R: Desde 990 € en formato online en grupo, en un solo pago y sin mensualidades. En formato presencial en la empresa, 1.990 €.
 P: ¿Hay cuotas mensuales en flu–o?
 R: No. Se paga una vez y el sistema se queda en la empresa. El soporte posterior es opcional y sin permanencia.
 
@@ -704,7 +704,7 @@ Lo que importa más que el formato
 
 Que sea en directo, que se trabaje con el contenido real de la empresa y que haya acompañamiento después. Una formación presencial genérica rinde menos que una online hecha a medida.
 
-En flu–o ofrecemos los dos formatos: online en grupo por videollamada desde 990 €, o presencial en tu empresa (Valencia y alrededores) con precio a medida. En ambos casos, 12 horas de formación en directo y 3 meses de acompañamiento.
+En flu–o ofrecemos los dos formatos: online en grupo por videollamada desde 990 €, o presencial en tu empresa (Valencia y alrededores) por 1.990 €. En ambos casos, 12 horas de formación en directo y 3 meses de acompañamiento.
 
 
 P: ¿Es igual de efectiva la formación en IA online que la presencial?
@@ -2250,7 +2250,7 @@ guías de trabajo en PDF.
 
 Precio
 
-Online en grupo desde 990 €, pago único. Presencial en vuestra empresa, a medida según el equipo.
+Online en grupo desde 990 €, pago único. Presencial en vuestra empresa, 1.990 €.
 
 Casos de la zona
 
@@ -2262,7 +2262,7 @@ Más detalle en formación en IA para empresas en Valencia.
 P: ¿Hacéis formación en IA presencial en Valencia?
 R: Sí, en las oficinas de la empresa en Valencia y su área metropolitana. Para Castellón y Alicante, la formación es online en grupo.
 P: ¿Cuánto cuesta la formación en IA para empresas en Valencia?
-R: Online en grupo desde 990 €, pago único. Presencial, a medida según el tamaño del equipo.
+R: Online en grupo desde 990 €, pago único. Presencial en la empresa, 1.990 €.
 
 
 # Redes sociales para empresas de Paterna
@@ -2304,13 +2304,13 @@ Criscolor, mayorista de bricolaje con miles de productos, pasó de un Instagram 
 
 Si estás en Fuente del Jarro, tienes más detalle en redes sociales para empresas de Fuente del Jarro.
 
-Precio: online en grupo desde 990 €, pago único. Presencial en Paterna, a medida.
+Precio: online en grupo desde 990 €, pago único. Presencial en Paterna, 1.990 €.
 
 
 P: ¿Trabaja flu–o con empresas de Paterna?
 R: Sí, con empresas de Fuente del Jarro, el Parque Tecnológico, L'Andana, Táctica y el resto de Paterna, de forma presencial u online.
 P: ¿Cuánto cuesta?
-R: Desde 990 € en formato online en grupo, pago único. Presencial, a medida según el equipo.
+R: Desde 990 € en formato online en grupo, pago único. Presencial, 1.990 €.
 
 
 # Redes sociales para empresas del polígono Fuente del Jarro
@@ -2360,7 +2360,7 @@ Primer mes de contenido hecho.
 
 3 meses de acompañamiento.
 
-Desde 990 € en formato online en grupo, pago único y sin mensualidades. Presencial en Fuente del Jarro, a medida.
+Desde 990 € en formato online en grupo, pago único y sin mensualidades. Presencial en Fuente del Jarro, 1.990 €.
 
 
 P: ¿Hacéis formación presencial en Fuente del Jarro?
@@ -3254,7 +3254,7 @@ Criscolor (mayorista): de un Instagram parado a convertir cualquier producto del
 
 Precio
 
-Online en grupo, desde 990 €, pago único y sin mensualidades. En tu empresa, presupuesto a medida según tu equipo.
+Online en grupo, desde 990 €, pago único y sin mensualidades. En tu empresa, 1.990 €.
 
 Más información: qué debe incluir una formación en IA · cuánto cuesta llevar las redes sociales.
 
