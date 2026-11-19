@@ -737,3 +737,5 @@ body{font-size:18.5px}
 .plans-3 .plan li{font-size:16.5px}
 .plan-badge{position:absolute;top:-14px;left:clamp(26px,3vw,36px);background:var(--green);color:var(--black);font-family:var(--display);font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;padding:6px 12px;border-radius:999px}
 @media (max-width:980px){.plans-3{grid-template-columns:1fr}.plans-3 .plan-rec{order:-1}}
+.plans-3 .plan-sub{padding-bottom:22px;margin-bottom:24px;border-bottom:1px solid var(--line)}
+.plans-3 .plan-dark .plan-sub{border-color:#E4E4E8}
