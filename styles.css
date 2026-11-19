@@ -725,3 +725,15 @@ body{font-size:18.5px}
 .hero-grid{max-width:1320px;grid-template-columns:minmax(0,1fr) minmax(320px,410px);column-gap:clamp(56px,8vw,140px)}.hero-cards{max-width:410px}
 @media (max-width:900px){.hero-grid{grid-template-columns:1fr}}
 .plan-price b small{font-size:.38em;letter-spacing:-.01em;margin-left:4px;font-weight:600;opacity:.75}
+
+/* precios: 3 planes (nov 2026) + hero solo texto */
+.hero-grid{grid-template-columns:minmax(0,1fr)}
+.hero-copy{max-width:900px}
+.plans-3{grid-template-columns:repeat(3,minmax(0,1fr));align-items:stretch}
+.plans-3 .plan{position:relative;padding:clamp(26px,3vw,36px)}
+.plans-3 .plan h3.plan-name{font-size:clamp(24px,2.05vw,30px);white-space:nowrap}
+.plans-3 .plan-sub{font-size:17px;margin-bottom:20px}
+.plans-3 .plan .plan-price b{font-size:clamp(40px,3.8vw,52px)}
+.plans-3 .plan li{font-size:16.5px}
+.plan-badge{position:absolute;top:-14px;left:clamp(26px,3vw,36px);background:var(--green);color:var(--black);font-family:var(--display);font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;padding:6px 12px;border-radius:999px}
+@media (max-width:980px){.plans-3{grid-template-columns:1fr}.plans-3 .plan-rec{order:-1}}

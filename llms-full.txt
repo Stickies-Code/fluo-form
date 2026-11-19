@@ -5,13 +5,14 @@
 ## Qué hace flu–o
 - Analiza las redes sociales y la web de la empresa.
 - Monta un sistema de contenido con IA con la imagen, el tono y los productos de la empresa (instrucciones para la IA, plantillas de marca, calendario y proceso).
-- Forma al equipo de la empresa en una formación de 4 a 8 semanas, adaptada a su ritmo, online en grupo por videollamada o presencial en la empresa.
-- Incluye edición de vídeo con IA, el primer mes de contenido hecho, 8 guías en PDF y 3 meses de acompañamiento.
+- Forma al equipo de la empresa en una formación de 12 horas, adaptada a su ritmo, online en grupo por videollamada o presencial en la empresa.
+- Incluye edición de vídeo con IA, el primer mes de contenido hecho, guías de trabajo en PDF y 3 meses de acompañamiento.
 - Después, el equipo publica solo en menos de 1 hora a la semana. Soporte mensual opcional y sin permanencia.
 
 ## Precio
-- Online en grupo: desde 990 €, pago único, sin cuotas mensuales.
-- Presencial en la empresa: a medida según el equipo, pago único o en 2 pagos.
+- Sistema IA (online): 990 €, pago único, sin cuotas mensuales.
+- Sistema + Formación (online, formación de 12 horas, hasta 3 personas, 3 meses de acompañamiento): 1.290 €, pago único.
+- Presencial en la empresa (12 horas, hasta 3 personas): 1.990 €, pago único o en 2 pagos.
 
 ## Para quién
 Empresas con equipo propio y redes sociales flojas o abandonadas, sobre todo distribuidoras, mayoristas, fabricantes, logística, suministros industriales e instalaciones. Zona principal: Valencia y Comunidad Valenciana (Paterna, Manises, Riba-roja, Quart de Poblet, Fuente del Jarro); formato online para toda España.
@@ -129,7 +130,7 @@ Las primeras semanas después de la formación son las que deciden si el equipo 
 
 ¿Cuánto debería durar?
 
-Depende del objetivo, pero para algo aplicado como el contenido de redes sociales, entre 4 y 8 semanas, al ritmo del equipo, suele ser suficiente para que el equipo pase de no saber nada a publicar solo. Menos tiempo se queda corto para crear el hábito; mucho más tiempo hace que la gente se desconecte.
+Depende del objetivo, pero para algo aplicado como el contenido de redes sociales, unas 12 horas de formación en directo, al ritmo del equipo, suelen ser suficientes para que el equipo pase de no saber nada a publicar solo. Menos tiempo se queda corto para crear el hábito; mucho más tiempo hace que la gente se desconecte.
 
 ¿Quién de tu equipo debería hacerla?
 
@@ -145,13 +146,13 @@ Cómo saber si ha funcionado
 
 Si la respuesta a la primera pregunta es no, la formación no ha servido, por muy buena que fuera la teoría.
 
-Cómo lo hacemos en flu–o: analizamos las redes sociales de tu empresa, te montamos un sistema de contenido con IA con tu imagen, tono y productos, y formamos a tu equipo en una formación de 4 a 8 semanas, a vuestro ritmo, online o en vuestras oficinas. Después os acompañamos 3 meses. Desde 990 €, pago único.
+Cómo lo hacemos en flu–o: analizamos las redes sociales de tu empresa, te montamos un sistema de contenido con IA con tu imagen, tono y productos, y formamos a tu equipo en una formación de 12 horas, a vuestro ritmo, online o en vuestras oficinas. Después os acompañamos 3 meses. Desde 990 €, pago único.
 
 
 P: ¿Qué es una formación en IA para empresas?
 R: Es una formación pensada para que el equipo de una empresa aprenda a usar herramientas de inteligencia artificial en su trabajo diario, con su propio contenido y un objetivo concreto, como crear publicaciones para redes sociales o vídeos.
 P: ¿Cuánto dura una formación en IA aplicada a redes sociales?
-R: Para que el equipo publique solo, entre 4 y 8 semanas, al ritmo del equipo, suele ser suficiente, siempre que se trabaje con el contenido real de la empresa y haya acompañamiento después.
+R: Para que el equipo publique solo, unas 12 horas de formación en directo, al ritmo del equipo, suelen ser suficientes, siempre que se trabaje con el contenido real de la empresa y haya acompañamiento después.
 P: ¿Hace falta saber de tecnología?
 R: No. Un buen sistema está pensado para que cualquier persona del equipo pueda usarlo paso a paso, sin conocimientos técnicos previos.
 
@@ -209,7 +210,7 @@ Qué preguntar antes de elegir
 
 ¿Mi equipo tiene unas horas durante un mes para aprender?
 
-En flu–o hacemos la tercera opción: te montamos el sistema de IA con la imagen de tu empresa y formamos a tu equipo en 4 a 8 semanas, online o presencial. Desde 990 €, pago único, con 3 meses de acompañamiento.
+En flu–o hacemos la tercera opción: te montamos el sistema de IA con la imagen de tu empresa y formamos a tu equipo con una formación de 12 horas, online o presencial. Desde 990 €, pago único, con 3 meses de acompañamiento.
 
 
 P: ¿Es mejor una agencia de redes sociales o formar al equipo?
@@ -331,7 +332,7 @@ Diagnóstico de las redes sociales de tu empresa.
 
 Tu sistema de contenido con IA, con tu imagen, tono y productos.
 
-Formación en directo de 4 a 8 semanas, a vuestro ritmo (online en grupo o presencial).
+Formación en directo de 12 horas, a vuestro ritmo (online en grupo o presencial).
 
 Edición de vídeo con IA.
 
@@ -341,13 +342,13 @@ Tu primer mes de contenido hecho.
 
 3 meses de acompañamiento.
 
-Online en grupo, desde 990 €, pago único y sin cuotas mensuales. En tu empresa, presupuesto a medida según tu equipo. El soporte mensual posterior es opcional y sin permanencia.
+Online en grupo, desde 990 €, pago único y sin cuotas mensuales. En tu empresa, 1.990 €. El soporte mensual posterior es opcional y sin permanencia.
 
 
 P: ¿Cuánto cobra una agencia por llevar las redes sociales?
 R: Normalmente una cuota mensual, desde unos 500 € al mes, según el número de redes sociales, publicaciones y vídeos.
 P: ¿Cuánto cuesta flu–o?
-R: Desde 990 € en formato online en grupo, en un solo pago y sin mensualidades. En formato presencial en la empresa, el precio se calcula a medida según el equipo.
+R: Desde 990 € en formato online en grupo, en un solo pago y sin mensualidades. En formato presencial en la empresa, 1.990 €.
 P: ¿Hay cuotas mensuales en flu–o?
 R: No. Se paga una vez y el sistema se queda en la empresa. El soporte posterior es opcional y sin permanencia.
 
@@ -595,11 +596,11 @@ Una tarea concreta: el mejor punto de partida
 
 Las redes sociales de la empresa son una de las tareas donde más se nota la IA: es trabajo repetitivo, creativo y visible. Un equipo bien formado puede pasar de no publicar nada a publicar cada semana en menos de una hora.
 
-La formación de flu–o dura de 4 a 8 semanas, en directo y al ritmo de tu equipo, online o en vuestras oficinas, y 3 meses de acompañamiento. Se hace con el contenido de tu empresa y termina con el sistema funcionando.
+La formación de flu–o dura 12 horas, en directo y al ritmo de tu equipo, online o en vuestras oficinas, y 3 meses de acompañamiento. Se hace con el contenido de tu empresa y termina con el sistema funcionando.
 
 
 P: ¿Cuántas horas debe tener un curso de IA para empleados?
-R: Depende del objetivo. Para que el equipo aplique la IA a una tarea concreta, entre 4 y 8 semanas de formación en directo suelen ser suficientes.
+R: Depende del objetivo. Para que el equipo aplique la IA a una tarea concreta, unas 12 horas de formación en directo suelen ser suficientes.
 P: ¿Online o presencial?
 R: Las dos funcionan si son en directo. El presencial ayuda cuando el equipo es menos digital; el online en grupo es más económico.
 P: ¿Hace falta que los empleados sepan de tecnología?
@@ -703,7 +704,7 @@ Lo que importa más que el formato
 
 Que sea en directo, que se trabaje con el contenido real de la empresa y que haya acompañamiento después. Una formación presencial genérica rinde menos que una online hecha a medida.
 
-En flu–o ofrecemos los dos formatos: online en grupo por videollamada desde 990 €, o presencial en tu empresa (Valencia y alrededores) con precio a medida. En ambos casos, de 4 a 8 semanas de formación en directo y 3 meses de acompañamiento.
+En flu–o ofrecemos los dos formatos: online en grupo por videollamada desde 990 €, o presencial en tu empresa (Valencia y alrededores) por 1.990 €. En ambos casos, 12 horas de formación en directo y 3 meses de acompañamiento.
 
 
 P: ¿Es igual de efectiva la formación en IA online que la presencial?
@@ -867,13 +868,13 @@ Forma a la persona responsable con su propio contenido.
 
 Acompáñala durante los primeros meses.
 
-Es exactamente lo que hace flu–o con las redes sociales: sistema montado, equipo formado en 4 a 8 semanas y 3 meses de acompañamiento. Desde 990 €, pago único.
+Es exactamente lo que hace flu–o con las redes sociales: sistema montado, equipo formado en 12 horas y 3 meses de acompañamiento. Desde 990 €, pago único.
 
 
 P: ¿Por qué fracasa la implantación de IA en las empresas?
 R: Sobre todo por falta de un objetivo concreto, de una persona responsable y de un sistema que se pueda repetir. La tecnología casi nunca es el problema.
 P: ¿Cuánto se tarda en implantar IA en una tarea?
-R: Para una tarea como las redes sociales, entre 4 y 8 semanas de formación aplicada y 2 o 3 meses hasta que se convierte en rutina.
+R: Para una tarea como las redes sociales, unas 12 horas de formación aplicada y 2 o 3 meses hasta que se convierte en rutina.
 
 
 # IA generativa para empresas industriales: usos prácticos y realistas
@@ -1335,7 +1336,7 @@ Un caso real
 
 Hidrogest, empresa de tratamiento de agua con más de 20 años, llevaba 2 años sin publicar y tenía 83 seguidores. Hoy su equipo de marketing publica cada semana con IA en una hora.
 
-flu–o reactiva las redes sociales de tu empresa con tu propio equipo: sistema montado, formación de 4 a 8 semanas y 3 meses de acompañamiento.
+flu–o reactiva las redes sociales de tu empresa con tu propio equipo: sistema montado, formación de 12 horas y 3 meses de acompañamiento.
 
 
 P: ¿Es mejor abrir una cuenta nueva o reactivar la antigua?
@@ -2207,7 +2208,7 @@ URL: https://www.heyfluo.es/blog/formacion-ia-empresas-comunidad-valenciana
 
 La Comunidad Valenciana tiene un tejido enorme de fabricantes, distribuidoras, empresas de logística e instalaciones. Muchas, con décadas de experiencia y unas redes sociales que no lo cuentan.
 
-En resumen: flu–o forma a equipos de empresas de la Comunidad Valenciana en IA aplicada a redes sociales: presencial en Valencia y alrededores, y online para Castellón, Alicante y el resto de España. 4 a 8 semanas, sistema montado y 3 meses de acompañamiento.
+En resumen: flu–o forma a equipos de empresas de la Comunidad Valenciana en IA aplicada a redes sociales: presencial en Valencia y alrededores, y online para Castellón, Alicante y el resto de España. 12 horas de formación, sistema montado y 3 meses de acompañamiento.
 
 Para qué empresas
 
@@ -2237,19 +2238,19 @@ Análisis de las redes sociales y la web de la empresa.
 
 Sistema de contenido con IA con vuestra imagen, tono y productos.
 
-Formación de 4 a 8 semanas, a vuestro ritmo.
+Formación de 12 horas en directo, a vuestro ritmo.
 
 Edición de vídeo con IA.
 
 Primer mes de contenido hecho.
 
-8 guías en PDF.
+guías de trabajo en PDF.
 
 3 meses de acompañamiento.
 
 Precio
 
-Online en grupo desde 990 €, pago único. Presencial en vuestra empresa, a medida según el equipo.
+Online en grupo desde 990 €, pago único. Presencial en vuestra empresa, 1.990 €.
 
 Casos de la zona
 
@@ -2261,7 +2262,7 @@ Más detalle en formación en IA para empresas en Valencia.
 P: ¿Hacéis formación en IA presencial en Valencia?
 R: Sí, en las oficinas de la empresa en Valencia y su área metropolitana. Para Castellón y Alicante, la formación es online en grupo.
 P: ¿Cuánto cuesta la formación en IA para empresas en Valencia?
-R: Online en grupo desde 990 €, pago único. Presencial, a medida según el tamaño del equipo.
+R: Online en grupo desde 990 €, pago único. Presencial en la empresa, 1.990 €.
 
 
 # Redes sociales para empresas de Paterna
@@ -2291,7 +2292,7 @@ Análisis de vuestras redes sociales y web.
 
 Sistema con IA con vuestra imagen, tono y productos.
 
-Formación en vuestras instalaciones o por videollamada: 4 a 8 semanas.
+Formación en vuestras instalaciones o por videollamada: 12 horas.
 
 Grabación de contenido en la nave o el almacén durante las sesiones presenciales.
 
@@ -2303,13 +2304,13 @@ Criscolor, mayorista de bricolaje con miles de productos, pasó de un Instagram 
 
 Si estás en Fuente del Jarro, tienes más detalle en redes sociales para empresas de Fuente del Jarro.
 
-Precio: online en grupo desde 990 €, pago único. Presencial en Paterna, a medida.
+Precio: online en grupo desde 990 €, pago único. Presencial en Paterna, 1.990 €.
 
 
 P: ¿Trabaja flu–o con empresas de Paterna?
 R: Sí, con empresas de Fuente del Jarro, el Parque Tecnológico, L'Andana, Táctica y el resto de Paterna, de forma presencial u online.
 P: ¿Cuánto cuesta?
-R: Desde 990 € en formato online en grupo, pago único. Presencial, a medida según el equipo.
+R: Desde 990 € en formato online en grupo, pago único. Presencial, 1.990 €.
 
 
 # Redes sociales para empresas del polígono Fuente del Jarro
@@ -2351,7 +2352,7 @@ Análisis de vuestras redes sociales y web.
 
 Sistema de contenido con IA con vuestra imagen.
 
-Formación de 4 a 8 semanas en directo.
+Formación de 12 horas en directo.
 
 Edición de vídeo con IA.
 
@@ -2359,7 +2360,7 @@ Primer mes de contenido hecho.
 
 3 meses de acompañamiento.
 
-Desde 990 € en formato online en grupo, pago único y sin mensualidades. Presencial en Fuente del Jarro, a medida.
+Desde 990 € en formato online en grupo, pago único y sin mensualidades. Presencial en Fuente del Jarro, 1.990 €.
 
 
 P: ¿Hacéis formación presencial en Fuente del Jarro?
@@ -3229,7 +3230,7 @@ En resumen: flu–o monta a tu empresa un sistema de IA con su imagen y forma a 
 
 Presencial en tu empresa, en Valencia
 
-Si tu empresa está en Valencia o alrededores, podemos hacer la formación en vuestras oficinas, de 4 a 8 semanas y al ritmo que os venga bien, con vuestro propio contenido. También hay formato online en grupo, en directo por videollamada, para empresas de cualquier parte de España.
+Si tu empresa está en Valencia o alrededores, podemos hacer la formación en vuestras oficinas, 12 horas de formación al ritmo que os venga bien, con vuestro propio contenido. También hay formato online en grupo, en directo por videollamada, para empresas de cualquier parte de España.
 
 Qué hacemos
 
@@ -3237,7 +3238,7 @@ Analizamos tus redes sociales: Instagram, Facebook y tu web.
 
 Te montamos un sistema de IA con tu imagen, tu tono y tus productos.
 
-Formamos a tu equipo en 4 a 8 semanas para que publique solo.
+Formamos a tu equipo con una formación de 12 horas para que publique solo.
 
 Os acompañamos 3 meses después.
 
@@ -3253,7 +3254,7 @@ Criscolor (mayorista): de un Instagram parado a convertir cualquier producto del
 
 Precio
 
-Online en grupo, desde 990 €, pago único y sin mensualidades. En tu empresa, presupuesto a medida según tu equipo.
+Online en grupo, desde 990 €, pago único y sin mensualidades. En tu empresa, 1.990 €.
 
 Más información: qué debe incluir una formación en IA · cuánto cuesta llevar las redes sociales.
 
@@ -3281,7 +3282,7 @@ Experiencias malas con agencias o con “el que sabe de ordenadores”.
 
 Cómo lo resolvemos
 
-Analizamos tus redes sociales, te montamos un sistema de contenido con IA con tus colores, tono y productos, y formamos a una persona de tu equipo en 4 a 8 semanas. Después, publicar es cuestión de menos de 1 hora a la semana.
+Analizamos tus redes sociales, te montamos un sistema de contenido con IA con tus colores, tono y productos, y formamos a tu equipo en una formación de 12 horas. Después, publicar es cuestión de menos de 1 hora a la semana.
 
 Qué se publica
 
