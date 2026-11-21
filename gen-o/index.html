@@ -62,6 +62,7 @@ header nav{display:flex;align-items:center;gap:28px}
 header nav a.l{font:500 15px/1 var(--b);text-decoration:none;color:var(--muted);transition:color .2s ease}
 header nav a.l:hover{color:var(--ink)}
 
+html,body{overflow-x:clip}
 /* hero */
 .hero{padding:clamp(48px,7vw,96px) 0 clamp(64px,8vw,112px);position:relative;overflow:hidden}
 .hero .glow{position:absolute;right:-12vw;top:-14vw;width:52vw;height:52vw;max-width:720px;max-height:720px;border-radius:50%;background:radial-gradient(circle at 50% 50%,rgba(255,91,46,.20),rgba(255,91,46,0) 62%);pointer-events:none}
@@ -75,6 +76,7 @@ header nav a.l:hover{color:var(--ink)}
 .hero h1{font-size:clamp(40px,4.7vw,70px);font-weight:700;margin-top:26px}
 .hero h1 .ln{display:block;overflow:hidden;padding-bottom:.06em;margin-bottom:-.06em}
 .hero h1 .ln>span{display:inline-block}
+.hero h1 br.m{display:none}
 @media (min-width:861px){.hero h1 .ln>span{white-space:nowrap}}
 .hero .lead{font-size:clamp(19px,2.1vw,23px);color:var(--muted);margin-top:26px;max-width:34ch;line-height:1.5}
 .hero .ctas{display:flex;flex-wrap:wrap;gap:14px;margin-top:36px}
@@ -318,6 +320,14 @@ footer .logo{color:#F4F1EC;font-size:24px}
   .badge{display:none}
   details p{padding-right:0}
   .hero .ctas .btn{width:100%}
+  .hero{padding-top:28px}
+  .hero h1{font-size:min(16.2vw,76px);line-height:.9;letter-spacing:-.05em;margin-top:30px}
+  .hero h1 br.m{display:inline}
+  .hero h1 em::after{content:"";display:inline-block;width:.62em;height:.24em;border-radius:99px;background:var(--or);margin-left:.14em;vertical-align:.12em}
+  .hero .lead{font-size:18px;margin-top:24px}
+  .hero .facts{display:grid;gap:8px;margin-top:28px}
+  .hero .facts span{display:flex;align-items:baseline;gap:8px;background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:14px 16px;font-size:14.5px}
+  .hero .facts b{font:700 19px/1.1 var(--d);letter-spacing:-.02em;white-space:nowrap}
   .ex-item{width:252px}
   .track{gap:18px}
   .seat-pill{border-radius:18px;font-size:14px;gap:8px 10px;padding:10px 14px}
@@ -354,13 +364,13 @@ footer .logo{color:#F4F1EC;font-size:24px}
 <section class="hero"><span class="glow" aria-hidden="true"></span><div class="wrap hero-grid">
   <div>
     <a class="seat-pill h-in" href="#plazas"><span class="segs" aria-hidden="true"><i class="on"></i><i class="on"></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></span><span><b>2 de 20</b> empresas actualmente</span><span class="go">Consigue tu plaza →</span></a>
-    <h1><span class="ln"><span>Tu empresa,</span></span><span class="ln"><span><em>activa</em> en redes.</span></span><span class="ln"><span>Sin quitarte tiempo.</span></span></h1>
+    <h1><span class="ln"><span>Tu empresa,</span></span><span class="ln"><span><em>activa</em><br class="m"> en redes.</span></span><span class="ln"><span>Sin quitarte<br class="m"> tiempo.</span></span></h1>
     <p class="lead h-in">Llevamos las redes sociales de tu empresa con IA y criterio. Tú nos cuentas qué pasa en la empresa y das el visto bueno. Del resto nos encargamos nosotros.</p>
     <div class="ctas h-in">
       <a class="btn" href="#contacto">Quiero una plaza <span class="arr">→</span></a>
       <a class="btn ghost" href="#ejemplos">Ver cómo queda</a>
     </div>
-    <div class="facts h-in"><span><b>490 €</b> al mes</span><span><b>Menos de 10 min</b> a la semana de tu tiempo</span><span><b>Instagram</b> y <b>Facebook</b></span></div>
+    <div class="facts h-in"><span><b>490 €</b> al mes</span><span><b>Menos de 10 min</b> a la semana de tu tiempo</span><span><b>Instagram y Facebook</b> incluidos</span></div>
   </div>
   <div class="phone-wrap" aria-hidden="true">
     <div class="phone h-phone"><div class="screen">
@@ -395,7 +405,7 @@ footer .logo{color:#F4F1EC;font-size:24px}
     <div class="sec-head rv">
       <div><span class="eyebrow">Así queda</span><h2>Perfiles que dan ganas de <em>seguir.</em></h2></div>
       <div>
-        <p>Dos empresas con las que ya trabajamos y tres ejemplos de cómo lo haríamos en otros sectores.</p>
+        <p>Dos empresas con las que ya trabajamos y cinco ejemplos de cómo lo haríamos en otros sectores.</p>
         <div class="track-nav" style="margin-top:22px"><button type="button" data-dir="-1" aria-label="Anterior"><svg viewBox="0 0 20 20" fill="none"><path d="M12.5 4l-6 6 6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button><button type="button" data-dir="1" aria-label="Siguiente"><svg viewBox="0 0 20 20" fill="none"><path d="M7.5 4l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button></div>
       </div>
     </div>
@@ -412,77 +422,34 @@ footer .logo{color:#F4F1EC;font-size:24px}
       <div class="ex-cap"><div><b>Criscolor</b><span>Mayorista de bazar y decoración</span></div><span class="tag-k cl">Cliente</span></div>
     </div>
 
-    <!-- Ejemplo 1: estructuras metálicas -->
     <div class="ex-item">
-      <div class="phone"><div class="screen"><div class="mk" aria-hidden="true">
-        <div class="sb"><span>9:41</span><span>●●●</span></div>
-        <div class="hd"><div class="av" style="background:#1F2A30;color:#F2B705">nv</div><div><div class="nm">Norvalt Estructuras</div><div class="st"><span><b>212</b> publ.</span><span><b>3.140</b> seguidores</span></div></div></div>
-        <div class="bio">Estructuras metálicas y naves industriales<br>Proyecto, fabricación y montaje</div>
-        <div class="hls"><i style="background:#F2B705"></i><i style="background:#1F2A30"></i><i style="background:#C9CFD3"></i><i style="background:#F2B705"></i></div>
-        <div class="gr">
-          <div class="p" style="background:#1F2A30;color:#fff"><span class="lg">norvalt</span><span class="shape" style="right:-12%;top:12%;width:70%;height:70%;border:2.4cqw solid #F2B705;border-radius:50%"></span><small>Obra entregada</small>Nave de 1.200 m²</div>
-          <div class="p" style="background:#F2B705;color:#1F2A30"><span class="rl"></span><small>Taller</small>Soldadura, paso a paso</div>
-          <div class="p" style="background:#E9ECEE;color:#1F2A30"><span class="lg">norvalt</span><span class="big">35</span>años de oficio</div>
-          <div class="p" style="background:linear-gradient(180deg,#5B6870 0%,#2A353B 100%);color:#fff"><span class="shape" style="left:0;right:0;top:38%;height:2px;background:repeating-linear-gradient(90deg,#F2B705 0 6px,transparent 6px 12px)"></span><small>Montaje</small>Pórtico de 18 metros</div>
-          <div class="p" style="background:#fff;color:#1F2A30;border:1px solid #EEE"><small>Consejo</small>Qué mirar antes de ampliar tu nave</div>
-          <div class="p" style="background:#1F2A30;color:#F2B705"><span class="rl" style="color:#fff"></span><small style="color:#fff">El equipo</small>Así trabajamos</div>
-          <div class="p" style="background:#F2B705;color:#1F2A30"><span class="big">48 h</span>Presupuesto</div>
-          <div class="p" style="background:#C9CFD3;color:#1F2A30"><small>Normativa</small>Marcado CE, explicado</div>
-          <div class="p" style="background:#2A353B;color:#fff"><small>Antes y después</small>Fachada nueva</div>
-        </div>
-        <div class="nav"><i></i><i></i><i></i><i></i><i style="border-radius:50%"></i></div>
-      </div></div></div>
-      <div class="ex-cap"><div><b>Estructuras metálicas</b><span>Empresa de ejemplo</span></div><span class="tag-k ej">Ejemplo</span></div>
+      <div class="phone"><div class="screen"><img src="/assets/casos/ejemplo-lumar.jpg?v=1" alt="Ejemplo de perfil de Instagram: Lumar, piscinas y jardines" loading="lazy"></div></div>
+      <div class="ex-cap"><div><b>Lumar</b><span>Piscinas y jardines</span></div><span class="tag-k ej">Ejemplo</span></div>
     </div>
 
-    <!-- Ejemplo 2: climatización -->
     <div class="ex-item">
-      <div class="phone"><div class="screen"><div class="mk" aria-hidden="true">
-        <div class="sb"><span>9:41</span><span>●●●</span></div>
-        <div class="hd"><div class="av" style="background:#0B3B5C;color:#3EC1D3">ko</div><div><div class="nm">Kordia Climatización</div><div class="st"><span><b>168</b> publ.</span><span><b>1.920</b> seguidores</span></div></div></div>
-        <div class="bio">Climatización y aerotermia para empresas<br>Instalación y mantenimiento</div>
-        <div class="hls"><i style="background:#3EC1D3"></i><i style="background:#0B3B5C"></i><i style="background:#E6F6F8"></i><i style="background:#3EC1D3"></i></div>
-        <div class="gr">
-          <div class="p" style="background:#0B3B5C;color:#fff"><span class="lg" style="color:#3EC1D3">kordia</span><span class="shape" style="right:8%;top:16%;width:42%;aspect-ratio:1;border-radius:50%;background:radial-gradient(circle,#3EC1D3 0 30%,transparent 31%),repeating-radial-gradient(circle,rgba(62,193,211,.45) 0 1px,transparent 1px 7px)"></span><small>Antes del verano</small>Revisa tu aire</div>
-          <div class="p" style="background:#E6F6F8;color:#0B3B5C"><span class="big">24</span>equipos en una oficina</div>
-          <div class="p" style="background:#3EC1D3;color:#0B3B5C"><span class="rl"></span><small>En obra</small>Así se instala un conducto</div>
-          <div class="p" style="background:#fff;color:#0B3B5C;border:1px solid #EEE"><small>Ahorro</small><span class="big" style="color:#3EC1D3">−30%</span>de consumo</div>
-          <div class="p" style="background:#0B3B5C;color:#3EC1D3"><small style="color:#fff">Duda frecuente</small>¿Split o conductos?</div>
-          <div class="p" style="background:linear-gradient(160deg,#3EC1D3,#0B3B5C);color:#fff"><small>Equipo</small>Técnicos certificados</div>
-          <div class="p" style="background:#E6F6F8;color:#0B3B5C"><span class="rl"></span><small>Mantenimiento</small>Un día con Raúl</div>
-          <div class="p" style="background:#0B3B5C;color:#fff"><span class="lg" style="color:#3EC1D3">kordia</span><small>Plan 2026</small>Revisiones anuales</div>
-          <div class="p" style="background:#3EC1D3;color:#0B3B5C"><small>Gracias</small>+300 empresas</div>
-        </div>
-        <div class="nav"><i></i><i></i><i></i><i></i><i style="border-radius:50%"></i></div>
-      </div></div></div>
-      <div class="ex-cap"><div><b>Climatización</b><span>Empresa de ejemplo</span></div><span class="tag-k ej">Ejemplo</span></div>
+      <div class="phone"><div class="screen"><img src="/assets/casos/ejemplo-voltexa.jpg?v=1" alt="Ejemplo de perfil de Instagram: Voltexa, material eléctrico" loading="lazy"></div></div>
+      <div class="ex-cap"><div><b>Voltexa</b><span>Material eléctrico</span></div><span class="tag-k ej">Ejemplo</span></div>
     </div>
 
-    <!-- Ejemplo 3: suministros / distribución -->
     <div class="ex-item">
-      <div class="phone"><div class="screen"><div class="mk" aria-hidden="true">
-        <div class="sb"><span>9:41</span><span>●●●</span></div>
-        <div class="hd"><div class="av" style="background:#1E5B3A;color:#F3EBDD">ve</div><div><div class="nm">Vendra Suministros</div><div class="st"><span><b>340</b> publ.</span><span><b>4.610</b> seguidores</span></div></div></div>
-        <div class="bio">Distribución de ferretería y suministro industrial<br>Pedido antes de las 13 h, sale hoy</div>
-        <div class="hls"><i style="background:#1E5B3A"></i><i style="background:#F3EBDD"></i><i style="background:#E8B04B"></i><i style="background:#1E5B3A"></i></div>
-        <div class="gr">
-          <div class="p" style="background:#F3EBDD;color:#1E5B3A"><span class="lg">vendra</span><span class="big">+4.000</span>referencias en stock</div>
-          <div class="p" style="background:#1E5B3A;color:#F3EBDD"><span class="rl"></span><small>Almacén</small>Así sale un pedido</div>
-          <div class="p" style="background:#E8B04B;color:#17321F"><small>Novedad</small>Tornillería inox A4</div>
-          <div class="p" style="background:#17321F;color:#E8B04B"><small style="color:#F3EBDD">Top 5</small>Lo más pedido del mes</div>
-          <div class="p" style="background:#fff;color:#1E5B3A;border:1px solid #EEE"><span class="shape" style="left:12%;top:14%;width:34%;height:30%;border-radius:2cqw;background:#F3EBDD"></span><span class="shape" style="left:52%;top:14%;width:34%;height:30%;border-radius:2cqw;background:#1E5B3A"></span><small>Catálogo</small>Ya está el de 2026</div>
-          <div class="p" style="background:#1E5B3A;color:#fff"><span class="big" style="color:#E8B04B">13 h</span>Pide y sale hoy</div>
-          <div class="p" style="background:#E8B04B;color:#17321F"><span class="rl"></span><small>Equipo</small>Los de mostrador</div>
-          <div class="p" style="background:#F3EBDD;color:#1E5B3A"><small>Consejo</small>Cómo elegir una broca</div>
-          <div class="p" style="background:#17321F;color:#F3EBDD"><span class="lg" style="color:#E8B04B">vendra</span><small>Desde 1992</small>Tres generaciones</div>
-        </div>
-        <div class="nav"><i></i><i></i><i></i><i></i><i style="border-radius:50%"></i></div>
-      </div></div></div>
-      <div class="ex-cap"><div><b>Distribución</b><span>Empresa de ejemplo</span></div><span class="tag-k ej">Ejemplo</span></div>
+      <div class="phone"><div class="screen"><img src="/assets/casos/ejemplo-rodeval.jpg?v=1" alt="Ejemplo de perfil de Instagram: Rodeval, alquiler de vehículos industriales" loading="lazy"></div></div>
+      <div class="ex-cap"><div><b>Rodeval</b><span>Alquiler de vehículos industriales</span></div><span class="tag-k ej">Ejemplo</span></div>
     </div>
+
+    <div class="ex-item">
+      <div class="phone"><div class="screen"><img src="/assets/casos/ejemplo-kovert.jpg?v=1" alt="Ejemplo de perfil de Instagram: Kovert, maquinaria para aluminio y PVC" loading="lazy"></div></div>
+      <div class="ex-cap"><div><b>Kovert</b><span>Maquinaria para aluminio y PVC</span></div><span class="tag-k ej">Ejemplo</span></div>
+    </div>
+
+    <div class="ex-item">
+      <div class="phone"><div class="screen"><img src="/assets/casos/ejemplo-embalia.jpg?v=1" alt="Ejemplo de perfil de Instagram: Embalia, embalaje industrial" loading="lazy"></div></div>
+      <div class="ex-cap"><div><b>Embalia</b><span>Embalaje industrial</span></div><span class="tag-k ej">Ejemplo</span></div>
+    </div>
+
 
   </div>
-  <div class="wrap"><p class="ex-note">Los tres últimos son empresas de ejemplo para enseñar el estilo por sectores.</p></div>
+  <div class="wrap"><p class="ex-note">Los cinco últimos son empresas de ejemplo, con nombre y marca inventados, para enseñar el estilo por sectores.</p></div>
 </section>
 
 <section style="padding-top:clamp(40px,6vw,72px)"><div class="wrap prob">
