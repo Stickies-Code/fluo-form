@@ -89,7 +89,7 @@
           body: JSON.stringify(row),
         });
         if (!r.ok) throw new Error('send');
-        done(data.nombre);
+        window.location.href = '/gracias';
       } catch (err) {
         btn.disabled = false; btn.querySelector('.rbtn-t').textContent = 'Contáctame';
         msg.className = 'rmsg err';
